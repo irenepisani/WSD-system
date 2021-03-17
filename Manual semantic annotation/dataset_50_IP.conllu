@@ -1,0 +1,1890 @@
+# sent_id = 20
+# text = In questo giorno si sono svolte partite amichevoli, flash mob, maratone radio, masterclass, trasmissioni televisive, sessioni aperte di allenamento, ecc. In Grecia Theodoras Zagorakis, vincitore del campionato europeo di calcio 2004, ha assistito all'evento con la sua squadra nazionale.
+1	In	in	ADP	E	_	3	case	_	TokenRange=2032:2034
+2	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	TokenRange=2035:2041
+3	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	TokenRange=2042:2048	usemID:USemD3481giorno	synsetID:12263;senseID:18714
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	TokenRange=2049:2051
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	TokenRange=2052:2056
+6	svolte	svolgere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=2057:2063	usemID:USem59674svolgere	synsetID:36818;senseID:49428
+7	partite	partita	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	_	TokenRange=2064:2071	usemID:missing	synsetID:11050;senseID:17167
+8	amichevoli	amichevole	ADJ	A	Number=Plur	7	amod	_	SpaceAfter=No|TokenRange=2072:2082	usemID:USemD6926amichevole	synsetID:50014;senseID:66590
+9	,	,	PUNCT	FF	_	10	punct	_	TokenRange=2082:2083
+10	flash	flash	NOUN	S	_	7	conj	_	TokenRange=2084:2089	usemID:missing	synsetID:missing;senseID:missing
+11	mob	mob	NOUN	S	_	10	compound	_	SpaceAfter=No|TokenRange=2090:2093	usemID:missing	synsetID:missing;senseID:missing
+12	,	,	PUNCT	FF	_	13	punct	_	TokenRange=2093:2094
+13	maratone	maratona	NOUN	S	Gender=Fem|Number=Plur	7	conj	_	TokenRange=2095:2103	usemID:USem71300maratona	synsetID:missing;senseID:missing
+14	radio	radio	NOUN	S	Gender=Fem	13	compound	_	SpaceAfter=No|TokenRange=2104:2109	usemID:USem3513radio	synsetID:6072;senseID:10293
+15	,	,	PUNCT	FF	_	16	punct	_	TokenRange=2109:2110
+16	masterclass	masterclass	NOUN	S	_	7	conj	_	SpaceAfter=No|TokenRange=2111:2122	usemID:missing	synsetID:missing;senseID:missing
+17	,	,	PUNCT	FF	_	18	punct	_	TokenRange=2122:2123
+18	trasmissioni	trasmissione	NOUN	S	Gender=Fem|Number=Plur	7	conj	_	TokenRange=2124:2136	usemID:USemD63642trasmissione	synsetID:778;senseID:1776
+19	televisive	televisivo	ADJ	A	Gender=Fem|Number=Plur	18	amod	_	SpaceAfter=No|TokenRange=2137:2147	usemID:USem71816televisivo	synsetID:43996;senseID:59604
+20	,	,	PUNCT	FF	_	21	punct	_	TokenRange=2147:2148
+21	sessioni	sessione	NOUN	S	Gender=Fem|Number=Plur	7	conj	_	TokenRange=2149:2157	usemID:missing	synsetID:21162;senseID:28269
+22	aperte	aperto	ADJ	A	Gender=Fem|Number=Plur	21	amod	_	TokenRange=2158:2164	usemID:USemD6257aperto	synsetID:missing;senseID:missing
+23	di	di	ADP	E	_	24	case	_	TokenRange=2165:2167
+24	allenamento	allenamento	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No|TokenRange=2168:2179	usemID:USem59903allenamento	synsetID:8624;senseID:15072
+25	,	,	PUNCT	FF	_	26	punct	_	TokenRange=2179:2180
+26	ecc	eccetera	ADV	B	_	7	conj	_	SpaceAfter=No|TokenRange=2181:2184	usemID:missing	synsetID:missing;senseID:missing
+27	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n|TokenRange=2184:2185
+28	In	in	ADP	E	_	29	case	_	TokenRange=2186:2188
+29	Grecia	Grecia	PROPN	SP	_	43	obl	_	TokenRange=2189:2195
+30	Theodoras	Theodoras	PROPN	SP	_	43	nsubj	_	TokenRange=2196:2205
+31	Zagorakis	Zagorakis	PROPN	SP	_	30	flat:name	_	SpaceAfter=No|TokenRange=2206:2215
+32	,	,	PUNCT	FF	_	30	punct	_	TokenRange=2215:2216
+33	vincitore	vincitore	NOUN	S	Gender=Masc|Number=Sing	30	appos	_	TokenRange=2217:2226	usemID:USem5550vincitore	synsetID:26067;senseID:35932
+34-35	del	_	_	_	_	_	_	_	TokenRange=2227:2230
+34	di	di	ADP	E	_	36	case	_	_
+35	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+36	campionato	campionato	NOUN	S	Gender=Masc|Number=Sing	33	nmod	_	TokenRange=2231:2241	usemID:USem73375campionato	synsetID:27244;senseID:35284
+37	europeo	europeo	ADJ	A	Gender=Masc|Number=Sing	36	amod	_	TokenRange=2242:2249	usemID:missing	synsetID:44257;senseID:59937
+38	di	di	ADP	E	_	39	case	_	TokenRange=2250:2252
+39	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	36	nmod	_	TokenRange=2253:2259	usemID:USem62470calcio	synsetID:1284;senseID:2681
+40	2004	2004	NUM	N	NumType=Card	39	nummod	_	SpaceAfter=No|TokenRange=2260:2264
+41	,	,	PUNCT	FF	_	30	punct	_	TokenRange=2264:2265
+42	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	aux	_	TokenRange=2266:2268
+43	assistito	assistere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	parataxis	_	TokenRange=2269:2278	usemID:USem59655assistere	synsetID:32355;senseID:42099
+44-45	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2279:2283
+44	a	a	ADP	E	_	46	case	_	_
+45	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	46	det	_	_
+46	evento	evento	NOUN	S	Gender=Masc|Number=Sing	43	obl	_	TokenRange=2283:2289	usemID:USem62445evento	synsetID:8509;senseID:14912
+47	con	con	ADP	E	_	50	case	_	TokenRange=2290:2293
+48	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	50	det	_	TokenRange=2294:2296
+49	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	50	det:poss	_	TokenRange=2297:2300
+50	squadra	squadra	NOUN	S	Gender=Fem|Number=Sing	43	obl	_	TokenRange=2301:2308	usemID:USem59495squadra	synsetID:3863;senseID:7029
+51	nazionale	nazionale	ADJ	A	Number=Sing	50	amod	_	SpaceAfter=No|TokenRange=2309:2318	usemID:USem61918nazionale	synsetID:2214;senseID:4290
+52	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n|TokenRange=2318:2319
+
+# sent_id = 21
+# text = L'obiettivo del programma è quello di trasmettere alle generazioni più giovani valori importanti e l'interesse per uno stile di vita salutare attraverso il gioco del calcio.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=2320:2322
+2	obiettivo	obiettivo	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	TokenRange=2322:2331	usemID:USem3985obiettivo	synsetID:2778;senseID:5248
+3-4	del	_	_	_	_	_	_	_	TokenRange=2332:2335
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	programma	programma	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	TokenRange=2336:2345	usemID:USem61477programma	synsetID:776;senseID:1772
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TokenRange=2346:2347
+7	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	TokenRange=2348:2354
+8	di	di	ADP	E	_	9	mark	_	TokenRange=2355:2357
+9	trasmettere	trasmettere	VERB	V	VerbForm=Inf	7	acl	_	TokenRange=2358:2369	usemID:USem75054trasmettere	synsetID:38440;senseID:51534
+10-11	alle	_	_	_	_	_	_	_	TokenRange=2370:2374
+10	a	a	ADP	E	_	12	case	_	_
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	generazioni	generazione	NOUN	S	Gender=Fem|Number=Plur	9	obl	_	TokenRange=2375:2386	usemID:USem72093generazione	synsetID:21444;senseID:28603
+13	più	più	ADV	B	_	14	advmod	_	TokenRange=2387:2390	usemID:missing	synsetID:50470;senseID:67492
+14	giovani	giovane	ADJ	A	Number=Plur	12	amod	_	TokenRange=2391:2398	usemID:USemD76818giovane	synsetID:44696;senseID:60460
+15	valori	valore	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	TokenRange=2399:2405	usemID:USem1352valore	synsetID:14601;senseID:21665
+16	importanti	importante	ADJ	A	Number=Plur	15	amod	_	TokenRange=2406:2416	usemID:USemD6518importante	synsetID:42456;senseID:57145
+17	e	e	CCONJ	CC	_	19	cc	_	TokenRange=2417:2418
+18	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=2419:2421
+19	interesse	interesse	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	TokenRange=2421:2430	usemID:USem79573interesse	synsetID:29951;senseID:39004
+20	per	per	ADP	E	_	22	case	_	TokenRange=2431:2434
+21	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	TokenRange=2435:2438
+22	stile	stile	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	TokenRange=2439:2444	usemID:USem59648stile	synsetID:1760;senseID:3483
+23	di	di	ADP	E	_	24	case	_	TokenRange=2445:2447
+24	vita	vita	NOUN	S	Gender=Fem|Number=Sing	22	nmod	_	TokenRange=2448:2452	usemID:USem67701vita	synsetID:24349;senseID:32995
+25	salutare	salutare	ADJ	A	Number=Sing	22	amod	_	TokenRange=2453:2461	usemID:missing	synsetID:41718;senseID:54220
+26	attraverso	attraverso	ADP	E	_	28	case	_	TokenRange=2462:2472
+27	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	TokenRange=2473:2475
+28	gioco	gioco	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	TokenRange=2476:2481	usemID:USem60476gioco	synsetID:5055;senseID:8813
+29-30	del	_	_	_	_	_	_	_	TokenRange=2482:2485
+29	di	di	ADP	E	_	31	case	_	_
+30	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No|TokenRange=2486:2492	usemID:USem62470calcio	synsetID:1284;senseID:2681
+32	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n|TokenRange=2492:2493
+
+# sent_id = 79
+# text = L'interfaccia è disponibile nelle 24 lingue ufficiali dell'UE, ma la maggior parte dei metadati sono attualmente forniti in un numero limitato di lingue (inglese, francese e tedesco).
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=8347:8349
+2	interfaccia	interfaccia	NOUN	S	Gender=Fem|Number=Sing	4	nsubj	_	TokenRange=8349:8360	usemID:missing	synsetID:25186;senseID:36871
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TokenRange=8361:8362
+4	disponibile	disponibile	ADJ	A	Number=Sing	0	root	_	TokenRange=8363:8374	usemID:USem79738disponibile	synsetID:42312;senseID:56858
+5-6	nelle	_	_	_	_	_	_	_	TokenRange=8375:8380
+5	in	in	ADP	E	_	8	case	_	_
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+7	24	24	NUM	N	NumType=Card	8	nummod	_	TokenRange=8381:8383
+8	lingue	lingua	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	TokenRange=8384:8390	usemID:USem4353lingua	synsetID:6571;senseID:11014
+9	ufficiali	ufficiale	ADJ	A	Number=Plur	8	amod	_	TokenRange=8391:8400	usemID:USem79448ufficiale	synsetID:42330;senseID:56883
+10-11	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8401:8406
+10	di	di	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	UE	UE	PROPN	SP	_	8	nmod	_	SpaceAfter=No|TokenRange=8406:8408
+13	,	,	PUNCT	FF	_	23	punct	_	TokenRange=8408:8409
+14	ma	ma	CCONJ	CC	_	23	cc	_	TokenRange=8410:8412
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	TokenRange=8413:8415
+16	maggior	maggiore	ADJ	A	Degree=Cmp|Number=Sing	17	amod	_	TokenRange=8416:8423	usemID:USemD1parte	synsetID:43890;senseID:59446
+17	parte	parte	NOUN	S	Gender=Fem|Number=Sing	23	nsubj:pass	_	TokenRange=8424:8429
+18-19	dei	_	_	_	_	_	_	_	TokenRange=8430:8433
+18	di	di	ADP	E	_	20	case	_	_
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	metadati	metadato	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	TokenRange=8434:8442	usemID:missing	synsetID:missing;senseID:missing
+21	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	TokenRange=8443:8447
+22	attualmente	attualmente	ADV	B	_	23	advmod	_	TokenRange=8448:8459	usemID:missing	synsetID:48835;senseID:65095
+23	forniti	fornire	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	conj	_	TokenRange=8460:8467	usemID:USem76787fornire	synsetID:32780;senseID:42934
+24	in	in	ADP	E	_	26	case	_	TokenRange=8468:8470
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	TokenRange=8471:8473
+26	numero	numero	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	TokenRange=8474:8480	usemID:USem2670numero	synsetID:17385;senseID:25022
+27	limitato	limitato	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	TokenRange=8481:8489	usemID:USemD63946limitato	synsetID:42796;senseID:57757
+28	di	di	ADP	E	_	29	case	_	TokenRange=8490:8492
+29	lingue	lingua	NOUN	S	Gender=Fem|Number=Plur	26	nmod	_	TokenRange=8493:8499	usemID:USem4353lingua	synsetID:6571;senseID:11014
+30	(	(	PUNCT	FB	_	31	punct	_	SpaceAfter=No|TokenRange=8500:8501
+31	inglese	inglese	NOUN	S	Number=Sing	29	nmod	_	SpaceAfter=No|TokenRange=8501:8508	usemID:USem1042inglese	synsetID:23744;senseID:32292
+32	,	,	PUNCT	FF	_	33	punct	_	TokenRange=8508:8509
+33	francese	francese	NOUN	S	Gender=Masc|Number=Sing	31	conj	_	TokenRange=8510:8518	usemID:USem1040francese	synsetID:3335;senseID:6175
+34	e	e	CCONJ	CC	_	35	cc	_	TokenRange=8519:8520
+35	tedesco	tedesco	ADJ	A	Gender=Masc|Number=Sing	31	conj	_	SpaceAfter=No|TokenRange=8521:8528	usemID:USem1057tedesco	synsetID:14420;senseID:21417
+36	)	)	PUNCT	FB	_	31	punct	_	SpaceAfter=No|TokenRange=8528:8529
+37	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n|TokenRange=8529:8530
+
+# sent_id = 81
+# text = Gli Stati membri designano le autorità nazionali di gestione del FSE responsabili per la selezione dei progetti, per l'erogazione dei fondi e per la valutazione dei progressi e dei risultati dei progetti.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=8660:8663
+2	Stati	stato	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	TokenRange=8664:8669	usemID:USem4117stato	synsetID:16111;senseID:23513
+3	membri	membro	NOUN	S	Gender=Masc|Number=Plur	2	compound	_	TokenRange=8670:8676	usemID:USem3617membro	synsetID:23904;senseID:32488
+4	designano	designare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8677:8686	usemID:USem74829designare	synsetID:35363;senseID:45495
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	TokenRange=8687:8689
+6	autorità	autorità	NOUN	S	Gender=Fem	4	obj	_	TokenRange=8690:8698	usemID:USemTH38979autorita1	synsetID:7721;senseID:12622
+7	nazionali	nazionale	ADJ	A	Number=Plur	6	amod	_	TokenRange=8699:8708	usemID:USem61918nazionale	synsetID:41665;senseID:54107
+8	di	di	ADP	E	_	9	case	_	TokenRange=8709:8711
+9	gestione	gestione	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	TokenRange=8712:8720	usemID:USem60352gestione	synsetID:26056;senseID:35922
+10-11	del	_	_	_	_	_	_	_	TokenRange=8721:8724
+10	di	di	ADP	E	_	12	case	_	_
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	FSE	FSE	PROPN	SP	_	9	nmod	_	TokenRange=8725:8728
+13	responsabili	responsabile	ADJ	A	Number=Plur	4	xcomp	_	TokenRange=8729:8741	usemID:USemD78227responsabile	synsetID:28913;senseID:37913
+14	per	per	ADP	E	_	16	case	_	TokenRange=8742:8745
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	TokenRange=8746:8748
+16	selezione	selezione	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	TokenRange=8749:8758	usemID:USem79603selezione	synsetID:3395;senseID:6259
+17-18	dei	_	_	_	_	_	_	_	TokenRange=8759:8762
+17	di	di	ADP	E	_	19	case	_	_
+18	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	progetti	progetto	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No|TokenRange=8763:8771	usemID:USem79543progetto	synsetID:776;senseID:1771
+20	,	,	PUNCT	FF	_	23	punct	_	TokenRange=8771:8772
+21	per	per	ADP	E	_	23	case	_	TokenRange=8773:8776
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No|TokenRange=8777:8779
+23	erogazione	erogazione	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	TokenRange=8779:8789	usemID:USem72102erogazione	synsetID:24642;senseID:33312
+24-25	dei	_	_	_	_	_	_	_	TokenRange=8790:8793
+24	di	di	ADP	E	_	26	case	_	_
+25	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	fondi	fondo	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	TokenRange=8794:8799	usemID:USemD64039fondo	synsetID:15606;senseID:22904
+27	e	e	CCONJ	CC	_	30	cc	_	TokenRange=8800:8801
+28	per	per	ADP	E	_	30	case	_	TokenRange=8802:8805
+29	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	TokenRange=8806:8808
+30	valutazione	valutazione	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	TokenRange=8809:8820	usemID:USem60372valutazione	synsetID:7498;senseID:12324
+31-32	dei	_	_	_	_	_	_	_	TokenRange=8821:8824
+31	di	di	ADP	E	_	33	case	_	_
+32	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
+33	progressi	progresso	NOUN	S	Gender=Masc|Number=Plur	30	nmod	_	TokenRange=8825:8834	usemID:USem61706progresso	synsetID:6744;senseID:11274
+34	e	e	CCONJ	CC	_	37	cc	_	TokenRange=8835:8836
+35-36	dei	_	_	_	_	_	_	_	TokenRange=8837:8840
+35	di	di	ADP	E	_	37	case	_	_
+36	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
+37	risultati	risultato	NOUN	S	Gender=Masc|Number=Plur	33	conj	_	TokenRange=8841:8850	usemID:USemD65468risultato	synsetID:1603;senseID:3202
+38-39	dei	_	_	_	_	_	_	_	TokenRange=8851:8854
+38	di	di	ADP	E	_	40	case	_	_
+39	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	40	det	_	_
+40	progetti	progetto	NOUN	S	Gender=Masc|Number=Plur	37	nmod	_	SpaceAfter=No|TokenRange=8855:8863	usemID:USem79543progetto	synsetID:776;senseID:1771
+41	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n|TokenRange=8863:8864
+
+# sent_id = 87
+# text = L'IMI consente alle amministrazioni pubbliche a livello nazionale, regionale e locale di identificare la propria controparte negli altri Stati membri e facilitare lo scambio reciproco d'informazioni.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=9577:9579
+2	IMI	IMI	PROPN	SP	_	3	nsubj	_	TokenRange=9579:9582
+3	consente	consentire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=9583:9591	usemID:USem79734consentire	synsetID:33357;senseID:43995
+4-5	alle	_	_	_	_	_	_	_	TokenRange=9592:9596
+4	a	a	ADP	E	_	6	case	_	_
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	amministrazioni	amministrazione	NOUN	S	Gender=Fem|Number=Plur	3	obl	_	TokenRange=9597:9612	usemID:USemD5248amministrazione	synsetID:31397;senseID:40466
+7	pubbliche	pubblico	ADJ	A	Gender=Fem|Number=Plur	6	amod	_	TokenRange=9613:9622	usemID:missing	synsetID:41558;senseID:53862
+8	a	a	ADP	E	_	9	case	_	TokenRange=9623:9624
+9	livello	livello	NOUN	S	Gender=Masc|Number=Sing	3	obl	_	TokenRange=9625:9632	usemID:USem79553livello	synsetID:7273;senseID:12007
+10	nazionale	nazionale	ADJ	A	Number=Sing	9	amod	_	SpaceAfter=No|TokenRange=9633:9642	usemID:USemD76679nazionale	synsetID:41665;senseID:54107
+11	,	,	PUNCT	FF	_	12	punct	_	TokenRange=9642:9643
+12	regionale	regionale	ADJ	A	Number=Sing	10	conj	_	TokenRange=9644:9653	usemID:USem61917regionale	synsetID:41566;senseID:53877
+13	e	e	CCONJ	CC	_	14	cc	_	TokenRange=9654:9655
+14	locale	locale	ADJ	A	Number=Sing	10	conj	_	TokenRange=9656:9662	usemID:missing	synsetID:missing;senseID:missing
+15	di	di	ADP	E	_	16	mark	_	TokenRange=9663:9665
+16	identificare	identificare	VERB	V	VerbForm=Inf	3	xcomp	_	TokenRange=9666:9678	usemID:USem76661identificare	synsetID:33069;senseID:43591
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	TokenRange=9679:9681
+18	propria	proprio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	TokenRange=9682:9689
+19	controparte	controparte	NOUN	S	Gender=Fem|Number=Sing	16	obj	_	TokenRange=9690:9701	usemID:missing	synsetID:missing;senseID:missing
+20-21	negli	_	_	_	_	_	_	_	TokenRange=9702:9707
+20	in	in	ADP	E	_	23	case	_	_
+21	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+22	altri	altro	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	TokenRange=9708:9713	usemID:USemTH30737altro	synsetID:42674;senseID:57544
+23	Stati	stato	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	TokenRange=9714:9719	usemID:USem4117stato	synsetID:16111;senseID:23513
+24	membri	membro	NOUN	S	Gender=Masc|Number=Plur	23	compound	_	TokenRange=9720:9726	usemID:USem3617membro	synsetID:23904;senseID:32488
+25	e	e	CCONJ	CC	_	26	cc	_	TokenRange=9727:9728
+26	facilitare	facilitare	VERB	V	VerbForm=Inf	16	conj	_	TokenRange=9729:9739	usemID:USem63093facilitare	synsetID:35160;senseID:45182
+27	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	TokenRange=9740:9742
+28	scambio	scambio	NOUN	S	Gender=Masc|Number=Sing	26	obj	_	TokenRange=9743:9750	usemID:missing	synsetID:11876;senseID:18239
+29	reciproco	reciproco	ADJ	A	Gender=Masc|Number=Sing	28	amod	_	TokenRange=9751:9760	usemID:missing	synsetID:41460;56507
+30	d'	di	ADP	E	_	31	case	_	SpaceAfter=No|TokenRange=9761:9763
+31	informazioni	informazione	NOUN	S	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No|TokenRange=9763:9775	usemID:USem71060informazione	synsetID:13398;senseID:20135	
+32	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n|TokenRange=9775:9776
+
+# sent_id = 95
+# text = Il centro stampa internazionale dei bambini riunisce i vincitori dei concorsi nazionali per i migliori giovani giornalisti, giovani blogger, fotografi e scrittori.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=10290:10292
+2	centro	centro	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	TokenRange=10293:10299	usemID:missing	synsetID:12444;senseID:18943
+3	stampa	stampa	NOUN	S	Gender=Fem|Number=Sing	2	compound	_	TokenRange=10300:10306	usemID:USem68017stampa	synsetID:9014;senseID:13327
+4	internazionale	internazionale	ADJ	A	Number=Sing	2	amod	_	TokenRange=10307:10321	usemID:USem77113internazionale	synsetID:41900;senseID:54626
+5-6	dei	_	_	_	_	_	_	_	TokenRange=10322:10325
+5	di	di	ADP	E	_	7	case	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	TokenRange=10326:10333	usemID:USem3593bambino	synsetID:1325;senseID:2742
+8	riunisce	riunire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=10334:10342	usemID:USem74943riunire	synsetID:37623;sense50515
+9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	TokenRange=10343:10344
+10	vincitori	vincitore	NOUN	S	Gender=Masc|Number=Plur	8	obj	_	TokenRange=10345:10354	usemID:USem5550vincitore	synsetID:26067;senseID:35932
+11-12	dei	_	_	_	_	_	_	_	TokenRange=10355:10358
+11	di	di	ADP	E	_	13	case	_	_
+12	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	concorsi	concorso	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	TokenRange=10359:10367	usemID:missing	synsetID:3622;senseID:6636
+14	nazionali	nazionale	ADJ	A	Number=Plur	13	amod	_	TokenRange=10368:10377	usemID:USemD76679nazionale	synsetID:41665;senseID:54107
+15	per	per	ADP	E	_	19	case	_	TokenRange=10378:10381
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	TokenRange=10382:10383
+17	migliori	migliore	ADJ	A	Degree=Cmp|Number=Plur	19	amod	_	TokenRange=10384:10392	usemID:missing	synsetID:45261;senseID:61089
+18	giovani	giovane	ADJ	A	Number=Plur	19	amod	_	TokenRange=10393:10400	usemID:USemD76818giovane	synsetID:44696;senseID:60460
+19	giornalisti	giornalista	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No|TokenRange=10401:10412	usemID:USem3351giornalista	synsetID:8935;senseID:13213
+20	,	,	PUNCT	FF	_	22	punct	_	TokenRange=10412:10413
+21	giovani	giovane	ADJ	A	Number=Plur	22	amod	_	TokenRange=10414:10421	usemID:USemD76818giovane	synsetID:44696;senseID:60460
+22	blogger	blogger	NOUN	S	Gender=Masc	19	conj	_	SpaceAfter=No|TokenRange=10422:10429	usemID:USemTH37424blogger	synsetID:missing;senseID:missing
+23	,	,	PUNCT	FF	_	24	punct	_	TokenRange=10429:10430
+24	fotografi	fotografo	NOUN	S	Gender=Masc|Number=Plur	19	conj	_	TokenRange=10431:10440	usemID:USem3348fotografo	synsetID:31167;senseID:40233
+25	e	e	CCONJ	CC	_	26	cc	_	TokenRange=10441:10442
+26	scrittori	scrittore	NOUN	S	Gender=Masc|Number=Plur	19	conj	_	SpaceAfter=No|TokenRange=10443:10452	usemID:USem4953scrittore	synsetID:25523;senseID:37241
+27	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n|TokenRange=10452:10453
+
+# sent_id = 128
+# text = Nessuno nel nostro Paese – né i lavoratori o i contadini, gli scrittori o i dottori, né gli adulti o i bambini, né i membri del governo – desiderano una grande o "piccola" guerra.
+1	Nessuno	nessuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	34	nsubj	_	TokenRange=14053:14060
+2-3	nel	_	_	_	_	_	_	_	TokenRange=14061:14064
+2	in	in	ADP	E	_	5	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	TokenRange=14065:14071
+5	Paese	paese	NOUN	S	Gender=Masc|Number=Sing	34	obl	_	TokenRange=14072:14077	usemID:USem2231paese	synsetID:16107;senseID:23507
+6	–	–	PUNCT	FB	_	5	punct	_	TokenRange=14078:14079
+7	né	né	CCONJ	CC	_	9	cc	_	TokenRange=14080:14082
+8	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	TokenRange=14083:14084
+9	lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	1	appos	_	TokenRange=14085:14095	usemID:USem72223lavoratore	synsetID:21747;senseID:26956
+10	o	o	CCONJ	CC	_	12	cc	_	TokenRange=14096:14097
+11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	TokenRange=14098:14099
+12	contadini	contadino	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No|TokenRange=14100:14109	usemID:USem4910contadino	synsetID:18494;senseID:26309
+13	,	,	PUNCT	FF	_	15	punct	_	TokenRange=14109:14110
+14	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	TokenRange=14111:14114
+15	scrittori	scrittore	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	TokenRange=14115:14124	usemID:USem4953scrittore	synsetID:25523;senseID:37241
+16	o	o	CCONJ	CC	_	18	cc	_	TokenRange=14125:14126
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	TokenRange=14127:14128
+18	dottori	dottore	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No|TokenRange=14129:14136	usemID:USem62894dottore	synsetID:10397;senseID:16305
+19	,	,	PUNCT	FF	_	22	punct	_	TokenRange=14136:14137
+20	né	né	CCONJ	CC	_	22	cc	_	TokenRange=14138:14140
+21	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	TokenRange=14141:14144
+22	adulti	adulto	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	TokenRange=14145:14151	usemID:USem64230adulto	synsetID:7532;senseID:12372
+23	o	o	CCONJ	CC	_	25	cc	_	TokenRange=14152:14153
+24	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	TokenRange=14154:14155
+25	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No|TokenRange=14156:14163	usemID:USem3593bambino	synsetID:1325;senseID:2742
+26	,	,	PUNCT	FF	_	29	punct	_	TokenRange=14163:14164
+27	né	né	CCONJ	CC	_	29	cc	_	TokenRange=14165:14167
+28	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	TokenRange=14168:14169
+29	membri	membro	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	TokenRange=14170:14176	usemID:USem3617membro	synsetID:29524;senseID:38560
+30-31	del	_	_	_	_	_	_	_	TokenRange=14177:14180
+30	di	di	ADP	E	_	32	case	_	_
+31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	governo	governo	NOUN	S	Gender=Masc|Number=Sing	29	nmod	_	TokenRange=14181:14188	usemID:USem59435governo	synsetID:2430;senseID:4614
+33	–	–	PUNCT	FB	_	9	punct	_	TokenRange=14189:14190
+34	desiderano	desiderare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=14191:14201	usemID:USem4840desiderare	synsetID:37507;senseID:50377
+35	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	41	det	_	TokenRange=14202:14205
+36	grande	grande	ADJ	A	Number=Sing	41	amod	_	TokenRange=14206:14212	usemID:USem61851grande	synsetID:8356;senseID:59790
+37	o	o	CCONJ	CC	_	39	cc	_	TokenRange=14213:14214
+38	"	"	PUNCT	FB	_	39	punct	_	SpaceAfter=No|TokenRange=14215:14216
+39	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	36	conj	_	SpaceAfter=No|TokenRange=14216:14223	usemID:USemD6384piccolo	synsetID:44741;senseID:60509	
+40	"	"	PUNCT	FB	_	39	punct	_	TokenRange=14223:14224
+41	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	34	obj	_	SpaceAfter=No|TokenRange=14225:14231	usemID:USemD6394guerra	synsetID:12178;senseID:18603
+42	.	.	PUNCT	FS	_	34	punct	_	SpacesAfter=\n|TokenRange=14231:14232
+
+# sent_id = 193
+# text = Un esempio di tale forma di archivio è rappresentato dall'elenco generale dei registri tenuti dalle autorità competenti nell'intera area economica europea.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=21183:21185
+2	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	9	nsubj:pass	_	TokenRange=21186:21193	usemID:USem69138esempio	synsetID:31531;senseID:40600
+3	di	di	ADP	E	_	5	case	_	TokenRange=21194:21196
+4	tale	tale	DET	DD	Number=Sing|PronType=Dem	5	det	_	TokenRange=21197:21201
+5	forma	forma	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	TokenRange=21202:21207	usemID:USem2450forma	synsetID:1471;senseID:3000
+6	di	di	ADP	E	_	7	case	_	TokenRange=21208:21210
+7	archivio	archivio	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	TokenRange=21211:21219	usemID:USem68876archivio	synsetID:13468;senseID:20229
+8	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	TokenRange=21220:21221
+9	rappresentato	rappresentare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=21222:21235	usemID:USemD7323rappresentare	synsetID:32671;senseID:42717
+10-11	dall'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=21236:21241
+10	da	da	ADP	E	_	12	case	_	_
+11	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	12	det	_	_
+12	elenco	elenco	NOUN	S	Gender=Masc|Number=Sing	9	obl:agent	_	TokenRange=21241:21247	usemID:USem61295elenco	synsetID:3706;senseID:6789
+13	generale	generale	ADJ	A	Number=Sing	12	amod	_	TokenRange=21248:21256	usemID:USemD65715generale	synsetID:42370;senseID:56967
+14-15	dei	_	_	_	_	_	_	_	TokenRange=21257:21260
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	registri	registro	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	TokenRange=21261:21269	usemID:USemD65619registro	synsetID:3057;senseID:5746
+17	tenuti	tenere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	acl	_	TokenRange=21270:21276	usemID:missing	synsetID:missing;senseID:missing
+18-19	dalle	_	_	_	_	_	_	_	TokenRange=21277:21282
+18	da	da	ADP	E	_	20	case	_	_
+19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	autorità	autorità	NOUN	S	Gender=Fem	17	obl:agent	_	TokenRange=21283:21291	usemID:USemTH38979autorita1	synsetID:7721;sens:12622
+21	competenti	competente	ADJ	A	Number=Plur	20	amod	_	TokenRange=21292:21302	usemID:USemD2690competente	synsetID:43498;senseID:58894
+22-23	nell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=21303:21308
+22	in	in	ADP	E	_	25	case	_	_
+23	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	_
+24	intera	intero	ADJ	A	Gender=Fem|Number=Sing	25	amod	_	TokenRange=21308:21314	usemID:USem76332intero	synsetID:45227;senseID:61052
+25	area	area	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	TokenRange=21315:21319	usemID:USem67916area	synsetID:304;senseID:1024
+26	economica	economico	ADJ	A	Gender=Fem|Number=Sing	25	amod	_	TokenRange=21320:21329	usemID:USem61949economico	synsetID:45219;senseID:61043
+27	europea	europeo	ADJ	A	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No|TokenRange=21330:21337	usemID:missing	synsetID:44257;senseID:59937
+28	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n|TokenRange=21337:21338
+
+# sent_id = 197
+# text = Mentre l'alta densità terrestre è il risultato della forte compressione gravitazionale, in particolare al nucleo, Mercurio è molto più piccolo e le sue regioni interne non sono compresse come quelle terrestri.
+1	Mentre	mentre	SCONJ	CS	_	8	mark	_	TokenRange=21625:21631
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|TokenRange=21632:21634
+3	alta	alto	ADJ	A	Gender=Fem|Number=Sing	4	amod	_	TokenRange=21634:21638	usemID:missing	synsetID:44557;senseID:60290
+4	densità	densità	NOUN	S	Gender=Fem	8	nsubj	_	TokenRange=21639:21646	usemID:USemTH37614densita1 	synsetID:5003;senseID:8751
+5	terrestre	terrestre	ADJ	A	Number=Sing	4	amod	_	TokenRange=21647:21656	usemID:USem61945terrestre	synsetID:43751;senseID:59259
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=21657:21658	usemID:USem5011essere	synsetID:36842;senseID:49474
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	TokenRange=21659:21661
+8	risultato	risultato	NOUN	S	Gender=Masc|Number=Sing	25	advcl	_	TokenRange=21662:21671	usemID:USemD65468risultato	synsetID:1603;senseID:3202
+9-10	della	_	_	_	_	_	_	_	TokenRange=21672:21677
+9	di	di	ADP	E	_	12	case	_	_
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	forte	forte	ADJ	A	Number=Sing	12	amod	_	TokenRange=21678:21683	usemID:USem61852forte	synsetID:50051;senseID:65341
+12	compressione	compressione	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	TokenRange=21684:21696	usemID:USem60289compressione	synsetID:14547;senseID:21593
+13	gravitazionale	gravitazionale	ADJ	A	Number=Sing	12	amod	_	SpaceAfter=No|TokenRange=21697:21711	usemID:missing	synsetID:44355;senseID:60061
+14	,	,	PUNCT	FF	_	12	punct	_	TokenRange=21711:21712
+15	in	in	ADP	E	_	16	case	_	TokenRange=21713:21715
+16	particolare	particolare	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	TokenRange=21716:21727	usemID:missing	synsetID:19109;senseID:30012
+17-18	al	_	_	_	_	_	_	_	TokenRange=21728:21730
+17	a	a	ADP	E	_	19	case	_	_
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	nucleo	nucleo	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=21731:21737	usemID:USem68476nucleo	synsetID:31644;senseID:40720
+20	,	,	PUNCT	FF	_	8	punct	_	TokenRange=21737:21738
+21	Mercurio	Mercurio	PROPN	SP	_	25	nsubj	_	TokenRange=21739:21747
+22	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	TokenRange=21748:21749	usemID:USem5011essere	synsetID:36842;senseID:49474
+23	molto	molto	ADV	B	_	24	advmod	_	TokenRange=21750:21755	usemID:USem62212molto	synsetID:48992;senseID:65404
+24	più	più	ADV	B	_	25	advmod	_	TokenRange=21756:21759	usemID:missing	synsetID:50470;senseID:67492
+25	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	0	root	_	TokenRange=21760:21767	usemID:USemD6384piccolo	synsetID:44741;senseID:60509
+26	e	e	CCONJ	CC	_	33	cc	_	TokenRange=21768:21769
+27	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	TokenRange=21770:21772
+28	sue	suo	DET	AP	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	29	det:poss	_	TokenRange=21773:21776
+29	regioni	regione	NOUN	S	Gender=Fem|Number=Plur	33	nsubj:pass	_	TokenRange=21777:21784	usemID:USem4144regione	synsetID:missing;senseID:missing
+30	interne	interno	ADJ	A	Gender=Fem|Number=Plur	29	amod	_	TokenRange=21785:21792	usemID:missing	synsetID:45143;senseID:60966
+31	non	non	ADV	BN	PronType=Neg	33	advmod	_	TokenRange=21793:21796	usemID:missing	synsetID:missing
+32	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	aux:pass	_	TokenRange=21797:21801
+33	compresse	comprimere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	25	conj	_	TokenRange=21802:21811	usemID:USem6667comprimere	synsetID:39216;senseID:52435
+34	come	come	ADP	E	_	35	case	_	TokenRange=21812:21816
+35	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	33	obl	_	TokenRange=21817:21823
+36	terrestri	terrestre	ADJ	A	Number=Plur	35	amod	_	SpaceAfter=No|TokenRange=21824:21833	usemID:USem61945terrestre	synsetID:43751;senseID:terrestre
+37	.	.	PUNCT	FS	_	25	punct	_	SpacesAfter=\n|TokenRange=21833:21834
+
+# sent_id = 205
+# text = In genere, la somministrazione di antibiotici per via orale e di semplici analgesici, un periodo di riposo e l'assunzione di fluidi, sono sufficienti per arrivare ad una completa guarigione.
+1	In	in	ADP	E	_	2	case	_	TokenRange=22609:22611
+2	genere	genere	NOUN	S	Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No|TokenRange=22612:22618	usemID:missing	synsetID:missing;senseID:missing
+3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=22618:22619
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=22620:22622
+5	somministrazione	somministrazione	NOUN	S	Gender=Fem|Number=Sing	27	nsubj	_	TokenRange=22623:22639	usemID:missing	synsetID:28564;senseID:34686
+6	di	di	ADP	E	_	7	case	_	TokenRange=22640:22642
+7	antibiotici	antibiotico	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	TokenRange=22643:22654	usemID:USem3019antibiotico	synsetID:1764;senseID:3491
+8	per	per	ADP	E	_	9	case	_	TokenRange=22655:22658
+9	via	via	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	TokenRange=22659:22662	usemID:USem67688via	synsetID:6495;senseID:10908
+10	orale	orale	ADJ	A	Number=Sing	9	amod	_	TokenRange=22663:22668	usemID:missing	synsetID:44190;senseID:44190
+11	e	e	CCONJ	CC	_	14	cc	_	TokenRange=22669:22670
+12	di	di	ADP	E	_	14	case	_	TokenRange=22671:22673
+13	semplici	semplice	ADJ	A	Number=Plur	14	amod	_	TokenRange=22674:22682	usemID:USem62138semplice	synsetID:49975;senseID:66621
+14	analgesici	analgesico	NOUN	S	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No|TokenRange=22683:22693	usemID:USem3162analgesico	synsetID:6517;senseID:10939
+15	,	,	PUNCT	FF	_	17	punct	_	TokenRange=22693:22694
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	TokenRange=22695:22697
+17	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	5	conj	_	TokenRange=22698:22705	usemID:USemD3302periodo	synsetID:12102;senseID:18507
+18	di	di	ADP	E	_	19	case	_	TokenRange=22706:22708
+19	riposo	riposo	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	TokenRange=22709:22715	usemID:missing	synsetID:16171;senseID:23587
+20	e	e	CCONJ	CC	_	22	cc	_	TokenRange=22716:22717
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No|TokenRange=22718:22720
+22	assunzione	assunzione	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	TokenRange=22720:22730	usemID:USem60723assunzione	synsetID:26099;senseID:35972
+23	di	di	ADP	E	_	24	case	_	TokenRange=22731:22733
+24	fluidi	fluido	NOUN	S	Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No|TokenRange=22734:22740	usemID:USem3014fluido	synsetID:31576;senseID:40649
+25	,	,	PUNCT	FF	_	5	punct	_	TokenRange=22740:22741
+26	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	TokenRange=22742:22746	usemID:USem5011essere	synsetID:36842;senseID:49474
+27	sufficienti	sufficiente	ADJ	A	Number=Plur	0	root	_	TokenRange=22747:22758	usemID:USemD6493sufficiente	synsetID:41719;senseID:54223
+28	per	per	ADP	E	_	29	mark	_	TokenRange=22759:22762
+29	arrivare	arrivare	VERB	V	VerbForm=Inf	27	advcl	_	TokenRange=22763:22771	usemID:USem79726arrivare	synsetID:36692;senseID:49276
+30	ad	a	ADP	E	_	33	case	_	TokenRange=22772:22774
+31	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	33	det	_	TokenRange=22775:22778
+32	completa	completo	ADJ	A	Gender=Fem|Number=Sing	33	amod	_	TokenRange=22779:22787	usemID:USemD7086completo 	synsetID:43152;senseID:58370
+33	guarigione	guarigione	NOUN	S	Gender=Fem|Number=Sing	29	obl	_	SpaceAfter=No|TokenRange=22788:22798	usemID:USem78429guarigione	synsetID:missing;senseID:missing
+34	.	.	PUNCT	FS	_	27	punct	_	SpacesAfter=\n|TokenRange=22798:22799
+
+# sent_id = 228
+# text = Il portale contiene una gamma molto ampia di dati aperti di elevato valore relativi ai vari settori d'intervento dell'UE, tra i quali figurano l'economia, l'occupazione, le scienze, l'ambiente e l'istruzione.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=24874:24876
+2	portale	portale	NOUN	S	Gender=Masc|Number=Sing	3	nsubj	_	TokenRange=24877:24884	usemID:USemTH39316portale	synsetID:missing;senseID:missing
+3	contiene	contenere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=24885:24893	usemID:USemD883contenere	synsetID:33807;senseID:46576
+4	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=24894:24897
+5	gamma	gamma	NOUN	S	Gender=Fem|Number=Sing	3	obj	_	TokenRange=24898:24903	usemID:missing	synsetID:24961;senseID:33662
+6	molto	molto	ADV	B	_	7	advmod	_	TokenRange=24904:24909	usemID:missing	synsetID:48992;senseID:65404
+7	ampia	ampio	ADJ	A	Gender=Fem|Number=Sing	5	amod	_	TokenRange=24910:24915	usemID:USem61743ampio	synsetID:43911;senseID:59480
+8	di	di	ADP	E	_	9	case	_	TokenRange=24916:24918
+9	dati	dato	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	TokenRange=24919:24923	usemID:USem71583dato	synsetID:27454;senseID:35502
+10	aperti	aperto	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	TokenRange=24924:24930	usemID:missing	synsetID:missing;senseID:missing
+11	di	di	ADP	E	_	13	case	_	TokenRange=24931:24933
+12	elevato	elevato	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	TokenRange=24934:24941	usemID:missing	synsetID:50061;senseID:66784
+13	valore	valore	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	TokenRange=24942:24948	usemID:USemD6243valore	synsetID:2881;senseID:5458
+14	relativi	relativo	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	TokenRange=24949:24957	usemID:missing	synsetID:42011;senseID:54863
+15-16	ai	_	_	_	_	_	_	_	TokenRange=24958:24960
+15	a	a	ADP	E	_	18	case	_	_
+16	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+17	vari	vario	ADJ	A	Gender=Masc|Number=Plur	18	amod	_	TokenRange=24961:24965	usemID:USemD66692vario	synsetID:41429;senseID:56425
+18	settori	settore	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	TokenRange=24966:24973	usemID:USem69settore	synsetID:304;senseID:1026
+19	d'	di	ADP	E	_	20	case	_	SpaceAfter=No|TokenRange=24974:24976
+20	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	TokenRange=24976:24986	usemID:USem72496intervento	synsetID:8457;senseID:14835
+21-22	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=24987:24992
+21	di	di	ADP	E	_	23	case	_	_
+22	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	23	det	_	_
+23	UE	UE	PROPN	SP	_	20	nmod	_	SpaceAfter=No|TokenRange=24992:24994
+24	,	,	PUNCT	FF	_	18	punct	_	TokenRange=24994:24995
+25	tra	tra	ADP	E	_	27	case	_	TokenRange=24996:24999
+26	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	TokenRange=25000:25001
+27	quali	quale	PRON	PR	Number=Plur|PronType=Rel	28	obl	_	TokenRange=25002:25007
+28	figurano	figurare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	TokenRange=25008:25016	usemID:missing	synsetID:37123;senseID:49933
+29	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	30	det	_	SpaceAfter=No|TokenRange=25017:25019
+30	economia	economia	NOUN	S	Gender=Fem|Number=Sing	28	nsubj	_	SpaceAfter=No|TokenRange=25019:25027	usemID:USem61353economia	synsetID:1046;senseID:2251
+31	,	,	PUNCT	FF	_	33	punct	_	TokenRange=25027:25028
+32	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	33	det	_	SpaceAfter=No|TokenRange=25029:25031
+33	occupazione	occupazione	NOUN	S	Gender=Fem|Number=Sing	30	conj	_	SpaceAfter=No|TokenRange=25031:25042	usemID:USem79556occupazione	synsetID:665;senseID:1613
+34	,	,	PUNCT	FF	_	36	punct	_	TokenRange=25042:25043
+35	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	TokenRange=25044:25046
+36	scienze	scienza	NOUN	S	Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No|TokenRange=25047:25054	usemID:USem43scienza	synsetID:667;senseID:1619
+37	,	,	PUNCT	FF	_	39	punct	_	TokenRange=25054:25055
+38	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	39	det	_	SpaceAfter=No|TokenRange=25056:25058
+39	ambiente	ambiente	NOUN	S	Gender=Masc|Number=Sing	30	conj	_	TokenRange=25058:25066	usemID:USem4148ambiente	synsetID:21981;senseID:27227
+40	e	e	CCONJ	CC	_	42	cc	_	TokenRange=25067:25068
+41	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	42	det	_	SpaceAfter=No|TokenRange=25069:25071
+42	istruzione	istruzione	NOUN	S	Gender=Fem|Number=Sing	30	conj	_	SpaceAfter=No|TokenRange=25071:25081	usemID:USem62268istruzione	synsetID:5480;senseID:9450
+43	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\s\n|TokenRange=25081:25082
+
+# sent_id = 284
+# text = Un gran numero di composti chimici di rilievo nelle industrie vengono ottenuti dalla sostituzione di uno o più atomi di idrogeno del benzene da parte di altri gruppi funzionali.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=30689:30691
+2	gran	grande	ADJ	A	Number=Sing	3	amod	_	TokenRange=30692:30696	usemID:USem61853grande	synsetID:44138;senseID:59791
+3	numero	numero	NOUN	S	Gender=Masc|Number=Sing	13	nsubj:pass	_	TokenRange=30697:30703	usemID:USem2670numero	synsetID:17385;senseID:25022
+4	di	di	ADP	E	_	5	case	_	TokenRange=30704:30706
+5	composti	composto	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	TokenRange=30707:30715	usemID:USem3689composto	MW[0]-synsetID:7371;senseID:12148
+6	chimici	chimico	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	TokenRange=30716:30723	usemID:missing	MW[0]-synsetID:7371;senseID:12148
+7	di	di	ADP	E	_	8	case	_	TokenRange=30724:30726
+8	rilievo	rilievo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	TokenRange=30727:30734	usemID:USem68287rilievo	synsetID:2881;senseID:5464
+9-10	nelle	_	_	_	_	_	_	_	TokenRange=30735:30740
+9	in	in	ADP	E	_	11	case	_	_
+10	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+11	industrie	industria	NOUN	S	Gender=Fem|Number=Plur	5	nmod	_	TokenRange=30741:30750	usemID:USem62376industria	synsetID:24470;senseID:33129
+12	vengono	venire	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	TokenRange=30751:30758
+13	ottenuti	ottenere	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=30759:30767	usemID:USem59860ottenere	synsetID:37838;senseID:50788
+14-15	dalla	_	_	_	_	_	_	_	TokenRange=30768:30773
+14	da	da	ADP	E	_	16	case	_	_
+15	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	sostituzione	sostituzione	NOUN	S	Gender=Fem|Number=Sing	13	obl:agent	_	TokenRange=30774:30786	usemID:missing	synsetID:4205;senseID:7557
+17	di	di	ADP	E	_	21	case	_	TokenRange=30787:30789
+18	uno	uno	NUM	N	Gender=Masc|Number=Sing|PronType=Ind	16	nmod	_	TokenRange=30790:30793
+19	o	o	CCONJ	CC	_	20	cc	_	TokenRange=30794:30795
+20	più	più	DET	DI	PronType=Ind	18	conj	_	TokenRange=30796:30799
+21	atomi	atomo	NOUN	S	Gender=Masc|Number=Plur	18	conj	_	TokenRange=30800:30805	usemID:USemD5274atomo
+22	di	di	ADP	E	_	23	case	_	TokenRange=30806:30808
+23	idrogeno	idrogeno	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	TokenRange=30809:30817	usemID:USemD2722idrogeno	synsetID:19255;senseID:30193
+24-25	del	_	_	_	_	_	_	_	TokenRange=30818:30821
+24	di	di	ADP	E	_	26	case	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	benzene	benzene	NOUN	S	Gender=Masc|Number=Sing	21	nmod	_	TokenRange=30822:30829	usemID:USem74784benzene	synsetID:missing;senseID:missing
+27	da	da	ADP	E	_	28	case	_	TokenRange=30830:30832
+28	parte	parte	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	TokenRange=30833:30838 usemID:USemD1parte	synsetID:8153;senseID:14414
+29	di	di	ADP	E	_	31	case	_	TokenRange=30839:30841
+30	altri	altro	ADJ	A	Gender=Masc|Number=Plur	31	amod	_	TokenRange=30842:30847	usemID:missing synsetID:42674;senseID:57544
+31	gruppi	gruppo	NOUN	S	Gender=Masc|Number=Plur	28	nmod	_	TokenRange=30848:30854	usemID:USemD2845gruppo	synsetID:3134;senseID:5877
+32	funzionali	funzionale	ADJ	A	Number=Plur	31	amod	_	SpaceAfter=No|TokenRange=30855:30865	usemID:USemD66774funzionale	synsetID:43240;senseID:58510
+33	.	.	PUNCT	FS	_	13	punct	_	SpacesAfter=\n|TokenRange=30865:30866
+
+# sent_id = 312
+# text = L'Istituto si compone di quattro scuole: Studi Storici, Matematica, Scienze Naturali e Scienze Sociali, e inoltre un più recente programma in Biologia dei sistemi.
+1	L'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|TokenRange=33378:33380
+2	Istituto	istituto	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	TokenRange=33380:33388	usemID:USem4589istituto	synsetID:10895;senseID:16963
+3	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	TokenRange=33389:33391
+4	compone	comporre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=33392:33399	usemID:USem59672comporre	synsetID:32670;senseID:42712
+5	di	di	ADP	E	_	7	case	_	TokenRange=33400:33402
+6	quattro	quattro	NUM	N	NumType=Card	7	nummod	_	TokenRange=33403:33410
+7	scuole	scuola	NOUN	S	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No|TokenRange=33411:33417	usemID:USem1880scuola	synsetID:12371;senseID:18862
+8	:	:	PUNCT	FC	_	7	punct	_	TokenRange=33417:33418
+9	Studi	studio	NOUN	S	Gender=Masc|Number=Plur	7	appos	_	TokenRange=33419:33424	usemID:USem60502studio	synsetID:2953;senseID:5573
+10	Storici	storico	ADJ	A	Gender=Masc|Number=Plur	9	amod	_	SpaceAfter=No|TokenRange=33425:33432	usemID:missing	synsetID:43763;senseID:59276
+11	,	,	PUNCT	FF	_	12	punct	_	TokenRange=33432:33433
+12	Matematica	matematica	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No|TokenRange=33434:33444	usemID:USem59924matematica	synsetID:15612;senseID:22912
+13	,	,	PUNCT	FF	_	14	punct	_	TokenRange=33444:33445
+14	Scienze	Scienze	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	TokenRange=33446:33453	usemID:USem43scienza	synsetID:667;senseID:1619
+15	Naturali	naturale	ADJ	A	Number=Plur	14	amod	_	TokenRange=33454:33462	usemID:USem77163naturale	synsetID:45025;senseID:60838
+16	e	e	CCONJ	CC	_	17	cc	_	TokenRange=33463:33464
+17	Scienze	Scienze	PROPN	SP	_	9	conj	_	TokenRange=33465:33472
+18	Sociali	sociale	ADJ	A	Number=Plur	17	amod	_	SpaceAfter=No|TokenRange=33473:33480	usemID:missing	synsetID:44500;senseID:60230
+19	,	,	PUNCT	FF	_	25	punct	_	TokenRange=33480:33481
+20	e	e	CCONJ	CC	_	25	cc	_	TokenRange=33482:33483
+21	inoltre	inoltre	ADV	B	_	25	advmod	_	TokenRange=33484:33491	usemID:missing	synsetID:missing;senseID:missing
+22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	TokenRange=33492:33494
+23	più	più	ADV	B	_	24	advmod	_	TokenRange=33495:33498	usemID:missing	synsetID:50470;senseID:67492
+24	recente	recente	ADJ	A	Number=Sing	25	amod	_	TokenRange=33499:33506	usemID:USem61836recente
+25	programma	programma	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	TokenRange=33507:33516	usemID:USem61477programma	synsetID:776;senseID:1772
+26	in	in	ADP	E	_	27	case	_	TokenRange=33517:33519
+27	Biologia	Biologia	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	TokenRange=33520:33528	usemID:USem59962biologia	synsetID:30920;senseID:39988
+28-29	dei	_	_	_	_	_	_	_	TokenRange=33529:33532
+28	di	di	ADP	E	_	30	case	_	_
+29	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
+30	sistemi	sistema	NOUN	S	Gender=Masc|Number=Plur	27	nmod	_	SpaceAfter=No|TokenRange=33533:33540	usemID:USem59644sistema	synsetID:9307;senseID:13746
+31	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n|TokenRange=33540:33541
+
+# sent_id = 318
+# text = Circa un milione di anni fa la neve ed il ghiaccio accumulati, formarono ghiacciai all'altezza delle cime alpine che invece si spostarono verso le valli dei fiumi.
+1	Circa	circa	ADV	B	_	3	advmod	_	TokenRange=34202:34207	usemID:missing	synsetID:missing;senseID:missing
+2	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=34208:34210
+3	milione	milione	NOUN	S	Gender=Masc|Number=Sing	14	obl	_	TokenRange=34211:34218	usemID:USem72927milione	synsetID:2678;senseID:5056
+4	di	di	ADP	E	_	5	case	_	TokenRange=34219:34221
+5	anni	anno	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	TokenRange=34222:34226	usemID:USem1745anno	synsetID:7130;senseID:11812
+6	fa	fa	ADV	B	_	5	advmod	_	TokenRange=34227:34229	usemID:USemTH41263fa	synsetID:missing;senseID:missing
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=34230:34232
+8	neve	neve	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	TokenRange=34233:34237	usemID:USem3888neve	synsetID:51349;senseID:68555
+9	ed	e	CCONJ	CC	_	11	cc	_	TokenRange=34238:34240
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=34241:34243
+11	ghiaccio	ghiaccio	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	TokenRange=34244:34252	usemID:USem3871ghiaccio	synsetID:11488;senseID:17719
+12	accumulati	accumulato	ADJ	A	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	amod	_	SpaceAfter=No|TokenRange=34253:34263	usemID:missing	synsetID:missing;senseID:missing
+13	,	,	PUNCT	FF	_	3	punct	_	TokenRange=34263:34264
+14	formarono	formare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=34265:34274	usemID:USem6930formare	synsetID:32670;senseID:42713
+15	ghiacciai	ghiacciaio	NOUN	S	Gender=Masc|Number=Plur	14	obj	_	TokenRange=34275:34284	usemID:USem64768ghiacciaio	synsetID:17091;senseID:24675
+16-17	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=34285:34289
+16	a	a	ADP	E	_	18	case	_	_
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	_
+18	altezza	altezza	NOUN	S	Gender=Fem|Number=Sing	14	obl	_	TokenRange=34289:34296	usemID:USemD5532altezza	synsetID:10854;senseID:16913
+19-20	delle	_	_	_	_	_	_	_	TokenRange=34297:34302
+19	di	di	ADP	E	_	21	case	_	_
+20	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
+21	cime	cima	NOUN	S	Gender=Fem|Number=Plur	18	nmod	_	TokenRange=34303:34307	usemID:USem69137cima	synsetID:4306;senseID:7734
+22	alpine	alpino	ADJ	A	Gender=Fem|Number=Plur	21	amod	_	TokenRange=34308:34314	usemID:missing	synsetID:43896;senseID:59458
+23	che	che	PRON	PR	PronType=Rel	26	nsubj	_	TokenRange=34315:34318
+24	invece	invece	ADV	B	_	26	advmod	_	TokenRange=34319:34325	usemID:missing	synsetID:missing;senseID:missing
+25	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	26	expl	_	TokenRange=34326:34328
+26	spostarono	spostare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	acl:relcl	_	TokenRange=34329:34339	usemID:USem6977spostare	synsetID:34891;senseID:44765
+27	verso	verso	ADP	E	_	29	case	_	TokenRange=34340:34345
+28	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	TokenRange=34346:34348
+29	valli	valle	NOUN	S	Gender=Fem|Number=Plur	26	obl	_	TokenRange=34349:34354	usemID:USemD5985valle	synsetID:19260;senseID:30198
+30-31	dei	_	_	_	_	_	_	_	TokenRange=34355:34358
+30	di	di	ADP	E	_	32	case	_	_
+31	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	32	det	_	_
+32	fiumi	fiume	NOUN	S	Gender=Masc|Number=Plur	29	nmod	_	SpaceAfter=No|TokenRange=34359:34364	usemID:USem5089fiume	synsetID:30298;senseID:39355
+33	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n|TokenRange=34364:34365
+
+# sent_id = 377
+# text = In particolare, i fattori politici comprendono aree come la politica fiscale, il diritto del lavoro, diritto ambientale, restrizioni commerciali, le tariffe, e la stabilità politica.
+1	In	in	ADP	E	_	2	case	_	TokenRange=40285:40287
+2	particolare	particolare	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=40288:40299	usemID:missing	synsetID:23428;senseID:31929
+3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=40299:40300
+4	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	TokenRange=40301:40302
+5	fattori	fattore	NOUN	S	Gender=Masc|Number=Plur	7	nsubj	_	TokenRange=40303:40310	usemID:USem3296fattore	synsetID:3790;senseID:6916
+6	politici	politico	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	TokenRange=40311:40319	usemID:USem79191politico	synsetID:44032;senseID:59656
+7	comprendono	comprendere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=40320:40331	usemID:USem6962comprendere	synsetID:33807;senseID:46578
+8	aree	area	NOUN	S	Gender=Fem|Number=Plur	7	obj	_	TokenRange=40332:40336	usemID:USem67916area	synsetID:304;senseID:1024
+9	come	come	ADP	E	_	11	case	_	TokenRange=40337:40341
+10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	TokenRange=40342:40344
+11	politica	politica	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	TokenRange=40345:40353	usemID:USemD7238politica	synsetID:9281;senseID:13706
+12	fiscale	fiscale	ADJ	A	Number=Sing	11	amod	_	SpaceAfter=No|TokenRange=40354:40361	usemID:missing	synsetID:42283;senseID:56796
+13	,	,	PUNCT	FF	_	15	punct	_	TokenRange=40361:40362
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=40363:40365
+15	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	TokenRange=40366:40373	usemID:USem61261diritto	MW[0]:synsetID:151233;senseID:68348
+16-17	del	_	_	_	_	_	_	_	TokenRange=40374:40377
+16	di	di	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No|TokenRange=40378:40384	usemID:USem59561lavoro	MW[0]:synsetID:151233;senseID:68348
+19	,	,	PUNCT	FF	_	20	punct	_	TokenRange=40384:40385
+20	diritto	diritto	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	TokenRange=40386:40393	usemID:USem61261diritto	synsetID:15015;senseID:22180
+21	ambientale	ambientale	ADJ	A	Number=Sing	20	amod	_	SpaceAfter=No|TokenRange=40394:40404	usemID:missing	synsetID:43052;senseID:58194
+22	,	,	PUNCT	FF	_	23	punct	_	TokenRange=40404:40405
+23	restrizioni	restrizione	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	TokenRange=40406:40417	usemID:missing	synsetID:13228;senseID:19926
+24	commerciali	commerciale	ADJ	A	Number=Plur	23	amod	_	SpaceAfter=No|TokenRange=40418:40429	usemID:USem61942commerciale	synsetID:44381;senseID:60093
+25	,	,	PUNCT	FF	_	27	punct	_	TokenRange=40429:40430
+26	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	TokenRange=40431:40433
+27	tariffe	tariffa	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	SpaceAfter=No|TokenRange=40434:40441	usemID:missing	synsetID:4807;senseID:8480
+28	,	,	PUNCT	FF	_	31	punct	_	TokenRange=40441:40442
+29	e	e	CCONJ	CC	_	31	cc	_	TokenRange=40443:40444
+30	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	TokenRange=40445:40447
+31	stabilità	stabilità	NOUN	S	Gender=Fem	11	conj	_	TokenRange=40448:40457	usemID:USemTH25037stabilita1	synsetID:7091;senseID:11760
+32	politica	politico	ADJ	A	Gender=Fem|Number=Sing	31	amod	_	SpaceAfter=No|TokenRange=40458:40466	usemID:USem79191politico	synsetID:44032;senseID:59656
+33	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n|TokenRange=40466:40467
+
+# sent_id = 434
+# text = Altri fattori che giocano un ruolo molto importante sono l'isolamento sociale e le avversità sociali dovute all'immigrazione, la discriminazione razziale, problematiche familiari, la disoccupazione e condizioni abitative precarie.
+1	Altri	altro	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	TokenRange=45976:45981	usemID: USemTH30737altro	synsetID:42674;senseID:57544
+2	fattori	fattore	NOUN	S	Gender=Masc|Number=Plur	11	nsubj	_	TokenRange=45982:45989	usemID:USem3296fattore	synsetID:3790;senseID:6916
+3	che	che	PRON	PR	PronType=Rel	4	nsubj	_	TokenRange=45990:45993
+4	giocano	giocare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	TokenRange=45994:46001	usemID:missing	synsetID:missing;senseID:missing
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=46002:46004
+6	ruolo	ruolo	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	TokenRange=46005:46010	usemID:missing	synsetID:121;senseID:702
+7	molto	molto	ADV	B	_	8	advmod	_	TokenRange=46011:46016	usemID:USem62214molto	synsetID:48992;senseID:65404	
+8	importante	importante	ADJ	A	Number=Sing	6	amod	_	TokenRange=46017:46027	usemID:USemD6518importante	synsetID:42456;senseID:57145
+9	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	TokenRange=46028:46032	usemID:USem5011essere	synsetID:36842;senseID:49474
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|TokenRange=46033:46035
+11	isolamento	isolamento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=46035:46045	usemID:USem72575isolamento	synsetID:28687;senseID:34821
+12	sociale	sociale	ADJ	A	Number=Sing	11	amod	_	TokenRange=46046:46053	usemID:USemTH30091sociale	synsetID:44500;senseID:60230
+13	e	e	CCONJ	CC	_	15	cc	_	TokenRange=46054:46055
+14	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	TokenRange=46056:46058
+15	avversità	avversità	NOUN	S	Gender=Fem	11	conj	_	TokenRange=46059:46068	usemID:missing	synsetID:1144;senseID:2428
+16	sociali	sociale	ADJ	A	Number=Plur	15	amod	_	TokenRange=46069:46076	usemID:USemTH30091sociale	synsetID:44500;senseID:60230
+17	dovute	dovere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	TokenRange=46077:46083	usemID:missing	synsetID:missing;senseID:missing
+18-19	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=46084:46088
+18	a	a	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	immigrazione	immigrazione	NOUN	S	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No|TokenRange=46088:46100	usemID:USem67616immigrazione	synsetID:25065;senseID:33782
+21	,	,	PUNCT	FF	_	23	punct	_	TokenRange=46100:46101
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	TokenRange=46102:46104
+23	discriminazione	discriminazione	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	TokenRange=46105:46120	usemID:USem72889discriminazione	synsetID:1100;senseID:2341
+24	razziale	razziale	ADJ	A	Number=Sing	23	amod	_	SpaceAfter=No|TokenRange=46121:46129	usemID:missing	synsetID:41402;senseID:56375
+25	,	,	PUNCT	FF	_	26	punct	_	TokenRange=46129:46130
+26	problematiche	problematica	NOUN	S	Gender=Fem|Number=Plur	20	conj	_	TokenRange=46131:46144	usemID:USem069711problematica	synsetID:26310;senseID:36203
+27	familiari	familiare	ADJ	A	Number=Plur	26	amod	_	SpaceAfter=No|TokenRange=46145:46154	usemID:USemD66691familiare	synsetID:42018;senseID:54879
+28	,	,	PUNCT	FF	_	30	punct	_	TokenRange=46154:46155
+29	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	TokenRange=46156:46158
+30	disoccupazione	disoccupazione	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	TokenRange=46159:46173	usemID:USem69510disoccupazione	synsetID:24069;senseID:32673
+31	e	e	CCONJ	CC	_	32	cc	_	TokenRange=46174:46175
+32	condizioni	condizione	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	TokenRange=46176:46186	usemID:USem3929condizione	synsetID:16105;senseID:23503
+33	abitative	abitativo	ADJ	A	Gender=Fem|Number=Plur	32	amod	_	TokenRange=46187:46196	usemID:USem75371abitativo 	synsetID:missing;senseID:missing
+34	precarie	precario	ADJ	A	Gender=Fem|Number=Plur	32	amod	_	SpaceAfter=No|TokenRange=46197:46205	usemID:USem069683precario	synsetID:43285;senseID:58577
+35	.	.	PUNCT	FS	_	11	punct	_	SpacesAfter=\n|TokenRange=46205:46206
+
+# sent_id = 526
+# text = Le squadre sono organizzate in base al principio fondamentale di Calcio per l'amicizia per cui atleti di nazionalità, sesso e abilità fisiche diversi sono raggruppati nello stesso team.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	TokenRange=54691:54693
+2	squadre	squadra	NOUN	S	Gender=Fem|Number=Plur	4	nsubj:pass	_	TokenRange=54694:54701	usemID:USem59495squadra	synsetID:3863;senseID:7029
+3	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	TokenRange=54702:54706
+4	organizzate	organizzare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	TokenRange=54707:54718	usemID:USem59143organizzare	synsetID:34986;senseID:44913
+5	in	in	ADP	E	_	6	case	_	TokenRange=54719:54721
+6	base	base	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	TokenRange=54722:54726	usemID:missing	synsetID:3999;senseID:7232
+7-8	al	_	_	_	_	_	_	_	TokenRange=54727:54729
+7	a	a	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	principio	principio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	TokenRange=54730:54739	usemID:USem66967principio	synsetID:3515;senseID:6478
+10	fondamentale	fondamentale	ADJ	A	Number=Sing	9	amod	_	TokenRange=54740:54752	usemID:missing	synsetID:42178;senseID:55210
+11	di	di	ADP	E	_	12	case	_	TokenRange=54753:54755
+12	Calcio	calcio	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	TokenRange=54756:54762	usemID:USem62470calcio	synsetID:1284;senseID:2681
+13	per	per	ADP	E	_	15	case	_	TokenRange=54763:54766
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No|TokenRange=54767:54769
+15	amicizia	amicizia	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	TokenRange=54769:54777	usemID:USem69353amicizia	synsetID:5867;senseID:9993
+16	per	per	ADP	E	_	17	case	_	TokenRange=54778:54781
+17	cui	cui	PRON	PR	PronType=Rel	28	obl	_	TokenRange=54782:54785
+18	atleti	atleta	NOUN	S	Gender=Masc|Number=Plur	28	nsubj:pass	_	TokenRange=54786:54792	usemID:USem2018atleta	synsetID:2928;senseID:5530
+19	di	di	ADP	E	_	20	case	_	TokenRange=54793:54795
+20	nazionalità	nazionalità	NOUN	S	Gender=Fem	18	nmod	_	SpaceAfter=No|TokenRange=54796:54807	usemID:USemTH15121nazionalita1	synsetID:15299;senseID:22519
+21	,	,	PUNCT	FF	_	22	punct	_	TokenRange=54807:54808
+22	sesso	sesso	NOUN	S	Gender=Masc|Number=Sing	20	conj	_	TokenRange=54809:54814	usemID:missing	synsetID:22446;senseID:27742
+23	e	e	CCONJ	CC	_	24	cc	_	TokenRange=54815:54816
+24	abilità	abilità	NOUN	S	Gender=Fem	20	conj	_	TokenRange=54817:54824	usemID:USem73619abilita1	synsetID:938;senseID:2095
+25	fisiche	fisico	ADJ	A	Gender=Fem|Number=Plur	24	amod	_	TokenRange=54825:54832	usemID:missing	synsetID:42119;senseID:55075
+26	diversi	diverso	ADJ	A	Gender=Masc|Number=Plur	24	amod	_	TokenRange=54833:54840	usemID:USemD5418diverso	synsetID:43547;senseID:58976
+27	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	aux:pass	_	TokenRange=54841:54845
+28	raggruppati	raggruppare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	acl:relcl	_	TokenRange=54846:54857	usemID:missing	synsetID:38589;senseID:51697
+29-30	nello	_	_	_	_	_	_	_	TokenRange=54858:54863
+29	in	in	ADP	E	_	32	case	_	_
+30	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+31	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	32	amod	_	TokenRange=54864:54870	usemID:missing	synsetID:50111;senseID:66890
+32	team	team	NOUN	S	Gender=Masc	28	obl	_	SpaceAfter=No|TokenRange=54871:54875	usemID:USem66356team	synsetID:24911;senseID:33605
+33	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n|TokenRange=54875:54876
+
+# sent_id = 549
+# text = Completò anche gli studi accademici perfezionandosi in storia, sociologia, scienze politiche, finanza ed economia all'Università di Uppsala e poi anche in economia all'Università di Stoccolma.
+1	Completò	completare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=57005:57013	usemID:USem6760completare	synsetID:null;senseID:null
+2	anche	anche	ADV	B	_	4	advmod	_	TokenRange=57014:57019	usemID:missing	synsetID:missing;senseID:missing	
+3	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	TokenRange=57020:57023
+4	studi	studio	NOUN	S	Gender=Masc|Number=Plur	1	obj	_	TokenRange=57024:57029	usemID:USem60502studio	synsetID:2953;senseID:5573
+5	accademici	accademico	ADJ	A	Gender=Masc|Number=Plur	4	amod	_	TokenRange=57030:57040	usemID:USem75410accademico	synsetID:44167;senseID:59829
+6-7	perfezionandosi	_	_	_	_	_	_	_	TokenRange=57041:57056
+6	perfezionando	perfezionare	VERB	V	VerbForm=Ger	1	advcl	_	_	usemID:USem79575perfezionare	synsetID:38725;senseID:51861
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+8	in	in	ADP	E	_	9	case	_	TokenRange=57057:57059
+9	storia	storia	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=57060:57066	usemID:USemD3449storia	synsetID:22737;senseID:31163
+10	,	,	PUNCT	FF	_	11	punct	_	TokenRange=57066:57067
+11	sociologia	sociologia	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	SpaceAfter=No|TokenRange=57068:57078	usemID:USem47sociologia	synsetID:19458;senseID:30418
+12	,	,	PUNCT	FF	_	13	punct	_	TokenRange=57078:57079
+13	scienze	scienza	NOUN	S	Gender=Fem|Number=Plur	9	conj	_	TokenRange=57080:57087	usemID:USem43scienza	synsetID:667;senseID:1619
+14	politiche	politico	ADJ	A	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No|TokenRange=57088:57097	usemID:USem79191politico	synsetID:44032;senseID:59656
+15	,	,	PUNCT	FF	_	16	punct	_	TokenRange=57097:57098
+16	finanza	finanza	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	TokenRange=57099:57106	usemID:missing	synsetID:14838;senseID:21957
+17	ed	e	CCONJ	CC	_	18	cc	_	TokenRange=57107:57109
+18	economia	economia	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	TokenRange=57110:57118	usemID:USem61353economia	synsetID:1046;senseID:2251
+19-20	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=57119:57123
+19	a	a	ADP	E	_	21	case	_	_
+20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	_
+21	Università	università	NOUN	S	Gender=Fem	6	obl	_	TokenRange=57123:57133	usemID:USemD76780universita1	synsetID:11193;senseID:17346
+22	di	di	ADP	E	_	23	case	_	TokenRange=57134:57136
+23	Uppsala	Uppsala	PROPN	SP	_	21	nmod	_	TokenRange=57137:57144
+24	e	e	CCONJ	CC	_	28	cc	_	TokenRange=57145:57146
+25	poi	poi	ADV	B	_	28	advmod	_	TokenRange=57147:57150	usemID:missing	synsetID:51294;senseID:68655
+26	anche	anche	ADV	B	_	28	advmod	_	TokenRange=57151:57156	usemID:missing	synsetID:missing;senseID:missing
+27	in	in	ADP	E	_	28	case	_	TokenRange=57157:57159
+28	economia	economia	NOUN	S	Gender=Fem|Number=Sing	9	conj	_	TokenRange=57160:57168	usemID:USem61353economia	synsetID:1046;senseID:2251
+29-30	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=57169:57173
+29	a	a	ADP	E	_	31	case	_	_
+30	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	31	det	_	_
+31	Università	università	NOUN	S	Gender=Fem	28	nmod	_	TokenRange=57173:57183	usemID:USemD76780universita1	synsetID:11193;senseID:17346
+32	di	di	ADP	E	_	33	case	_	TokenRange=57184:57186
+33	Stoccolma	Stoccolma	PROPN	SP	_	31	nmod	_	SpaceAfter=No|TokenRange=57187:57196
+34	.	.	PUNCT	FS	_	1	punct	_	SpacesAfter=\n|TokenRange=57196:57197
+
+# sent_id = 648
+# text = Studi e altre pubblicazioni Il CdR produce studi su vari aspetti della dimensione regionale e locale dell'UE (istruzione, trasporti, affari sociali, allargamento, ecc.).
+1	Studi	studio	NOUN	S	Gender=Masc|Number=Plur	7	obl	_	TokenRange=67756:67761	usemID:USem60504studio	synsetID:missing;senseID:missing
+2	e	e	CCONJ	CC	_	4	cc	_	TokenRange=67762:67763
+3	altre	altro	ADJ	A	Gender=Fem|Number=Plur	4	amod	_	TokenRange=67764:67769	usemID:USemTH30737altro 	synsetID:42674;57544
+4	pubblicazioni	pubblicazione	NOUN	S	Gender=Fem|Number=Plur	1	conj	_	TokenRange=67770:67783	usemID:USem60103pubblicazione	synsetID:6223;senseID:10516
+5	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=67784:67786
+6	CdR	CdR	PROPN	SP	_	7	nsubj	_	TokenRange=67787:67790
+7	produce	produrre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=67791:67798	usemID:USem3895produrre	synsetID:32117;senseID:41558
+8	studi	studio	NOUN	S	Gender=Masc|Number=Plur	7	obj	_	TokenRange=67799:67804	usemID:USem60504studio	synsetID:missing;senseID:missing
+9	su	su	ADP	E	_	11	case	_	TokenRange=67805:67807
+10	vari	vario	ADJ	A	Gender=Masc|Number=Plur	11	amod	_	TokenRange=67808:67812	usemID:USem77850vario	synsetID:42917;senseID:57965
+11	aspetti	aspetto	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	TokenRange=67813:67820	usemID:missing	synsetID:12918;senseID:19530
+12-13	della	_	_	_	_	_	_	_	TokenRange=67821:67826
+12	di	di	ADP	E	_	14	case	_	_
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	dimensione	dimensione	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	TokenRange=67827:67837	usemID:USem69156dimensione	synsetID:missing;senseID:missing
+15	regionale	regionale	ADJ	A	Number=Sing	14	amod	_	TokenRange=67838:67847	usemID:USem61917regionale	synsetID:41566;senseID:53877
+16	e	e	CCONJ	CC	_	17	cc	_	TokenRange=67848:67849
+17	locale	locale	ADJ	A	Number=Sing	15	conj	_	TokenRange=67850:67856	usemID:missing	synsetID:42898;senseID:57927
+18-19	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=67857:67862
+18	di	di	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	UE	UE	PROPN	SP	_	14	nmod	_	TokenRange=67862:67864
+21	(	(	PUNCT	FB	_	22	punct	_	SpaceAfter=No|TokenRange=67865:67866
+22	istruzione	istruzione	NOUN	S	Gender=Fem|Number=Sing	14	appos	_	SpaceAfter=No|TokenRange=67866:67876	usemID:USem62268istruzione	synsetID:5480;senseID:9450
+23	,	,	PUNCT	FF	_	24	punct	_	TokenRange=67876:67877
+24	trasporti	trasporto	NOUN	S	Gender=Masc|Number=Plur	22	conj	_	SpaceAfter=No|TokenRange=67878:67887	usemID:missing	synsetID:50477;senseID:67403
+25	,	,	PUNCT	FF	_	26	punct	_	TokenRange=67887:67888
+26	affari	affare	NOUN	S	Gender=Masc|Number=Plur	22	conj	_	TokenRange=67889:67895	usemID:USem68168affare	synsetID:4720;senseID:8353
+27	sociali	sociale	ADJ	A	Number=Plur	26	amod	_	SpaceAfter=No|TokenRange=67896:67903	usemID:USemTH30091sociale	synsetID:44500;senseID:60230
+28	,	,	PUNCT	FF	_	29	punct	_	TokenRange=67903:67904
+29	allargamento	allargamento	NOUN	S	Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No|TokenRange=67905:67917	usemID:USem5025allargamento	synsetID:8484;senseID:14871
+30	,	,	PUNCT	FF	_	31	punct	_	TokenRange=67917:67918
+31	ecc.	eccetera	NOUN	S	_	22	conj	_	SpaceAfter=No|TokenRange=67919:67923	usemID:missing	synsetID:3486;senseID:6425
+32	)	)	PUNCT	FB	_	22	punct	_	SpaceAfter=No|TokenRange=67923:67924
+33	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n|TokenRange=67924:67925
+
+# sent_id = 696
+# text = Utøya è ora di proprietà della Lega dei Giovani Lavoratori (AUF), un'associazione giovanile affiliata al Partito Laburista, che nell'isola organizza campi estivi di formazione.
+1	Utøya	Utøya	PROPN	SP	_	5	nsubj	_	TokenRange=72061:72066
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=72067:72068
+3	ora	ora	ADV	B	_	5	advmod	_	TokenRange=72069:72072	usemID:missing	synsetID:48835;senseID:65093
+4	di	di	ADP	E	_	5	case	_	TokenRange=72073:7207
+5	proprietà	proprietà	NOUN	S	Gender=Fem	0	root	_	TokenRange=72076:72085	usemID:USem62885proprieta1	synsetID:11293;senseID:17467
+6-7	della	_	_	_	_	_	_	_	TokenRange=72086:72091
+6	di	di	ADP	E	_	8	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Lega	lega	NOUN	S	Gender=Fem|Number=Sing	5	nmod	_	TokenRange=72092:72096	usemID:USem67548lega	synsetID:2165;senseID:4203
+9-10	dei	_	_	_	_	_	_	_	TokenRange=72097:72100
+9	di	di	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	Giovani	giovane	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	TokenRange=72101:72108	usemID:USemD76818giovane	synsetID:24945;senseID:33646
+12	Lavoratori	lavoratore	NOUN	S	Gender=Masc|Number=Plur	11	compound	_	TokenRange=72109:72119	usemID:USem72223lavoratore	synsetID:21747;senseID:26956
+13	(	(	PUNCT	FB	_	14	punct	_	SpaceAfter=No|TokenRange=72120:72121
+14	AUF	AUF	PROPN	SP	_	8	appos	_	SpaceAfter=No|TokenRange=72121:72124
+15	)	)	PUNCT	FB	_	14	punct	_	SpaceAfter=No|TokenRange=72124:72125
+16	,	,	PUNCT	FF	_	8	punct	_	TokenRange=72125:72126
+17	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No|TokenRange=72127:72130
+18	associazione	associazione	NOUN	S	Gender=Fem|Number=Sing	8	appos	_	TokenRange=72130:72142	usemID:USemD5271associazione	synsetID:3904;senseID:7088
+19	giovanile	giovanile	ADJ	A	Number=Sing	18	amod	_	TokenRange=72143:72152	usemID:missing	synsetID:44696;senseID:60459
+20	affiliata	affiliato	ADJ	A	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	18	acl	_	TokenRange=72153:72162	usemID:missing	synsetID:missing;senseID:missing
+21-22	al	_	_	_	_	_	_	_	TokenRange=72163:72165
+21	a	a	ADP	E	_	23	case	_	_
+22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	Partito	partito	NOUN	S	Gender=Masc|Number=Sing	20	obl	_	TokenRange=72166:72173	usemID:USemD63821partito	synsetID:4772;senseID:8440
+24	Laburista	laburista	ADJ	A	Number=Sing	23	amod	_	SpaceAfter=No|TokenRange=72174:72183	usemID:USem74144laburista	synsetID:missing;senseID:missing	
+25	,	,	PUNCT	FF	_	18	punct	_	TokenRange=72183:72184
+26	che	che	PRON	PR	PronType=Rel	30	nsubj	_	TokenRange=72185:72188
+27-28	nell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=72189:72194
+27	in	in	ADP	E	_	29	case	_	_
+28	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	29	det	_	_
+29	isola	isola	NOUN	S	Gender=Fem|Number=Sing	30	obl	_	TokenRange=72194:72199	usemID:USem6842isola	synsetID:25991;senseID:37502
+30	organizza	organizzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	TokenRange=72200:72209	usemID:USem59143organizzare	synsetID:34986;senseID:44913
+31	campi	campo	NOUN	S	Gender=Masc|Number=Plur	30	obj	_	TokenRange=72210:72215	usemID:USemD65433campo	synsetID:49903;senseID:66826
+32	estivi	estivo	ADJ	A	Gender=Masc|Number=Plur	31	amod	_	TokenRange=72216:72222	usemID:USem71336estivo	synsetID:42576;senseID:57367
+33	di	di	ADP	E	_	34	case	_	TokenRange=72223:72225
+34	formazione	formazione	NOUN	S	Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No|TokenRange=72226:72236	usemID:USem60363formazione	synsetID:7207;senseID:11915
+35	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n|TokenRange=72236:72237
+
+# sent_id = 711
+# text = All'inizio della sua storia, l'astronomia si occupò unicamente dell'osservazione e della previsione dei movimenti degli oggetti celesti che potevano essere osservati ad occhio nudo dall'uomo e sulla loro origine.
+1-2	All'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=73526:73530
+1	A	a	ADP	E	_	3	case	_	_
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	_
+3	inizio	inizio	NOUN	S	Gender=Masc|Number=Sing	12	obl	_	TokenRange=73530:73536	usemID:USem60071inizio	synsetID:3516;senseID:6482
+4-5	della	_	_	_	_	_	_	_	TokenRange=73537:73542
+4	di	di	ADP	E	_	7	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det:poss	_	TokenRange=73543:73546
+7	storia	storia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=73547:73553	usemID:USemD3449storia	synsetID:missing;senseID:missing
+8	,	,	PUNCT	FF	_	3	punct	_	TokenRange=73553:73554
+9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No|TokenRange=73555:73557
+10	astronomia	astronomia	NOUN	S	Gender=Fem|Number=Sing	12	nsubj	_	TokenRange=73557:73567	usemID:USemD6303astronomia	synsetID:22322;senseID:27597
+11	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	TokenRange=73568:73570
+12	occupò	occupare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=73571:73577	usemID:USem79200occupare	synsetID:32591;senseID:42561
+13	unicamente	unicamente	ADV	B	_	12	advmod	_	TokenRange=73578:73588	usemID:missing	synsetID:48685;senseID:64726
+14-15	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=73589:73594
+14	di	di	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	osservazione	osservazione	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	TokenRange=73594:73606	usemID:USem60554osservazione	synsetID:19209;senseID:30133
+17	e	e	CCONJ	CC	_	20	cc	_	TokenRange=73607:73608
+18-19	della	_	_	_	_	_	_	_	TokenRange=73609:73614
+18	di	di	ADP	E	_	20	case	_	_
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	previsione	previsione	NOUN	S	Gender=Fem|Number=Sing	16	conj	_	TokenRange=73615:73625	usemID:USem069727previsione	synsetID:16124;senseID:23536
+21-22	dei	_	_	_	_	_	_	_	TokenRange=73626:73629
+21	di	di	ADP	E	_	23	case	_	_
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	movimenti	movimento	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	TokenRange=73630:73639	usemID:USem3965movimento	synsetID:5453;senseID:9415
+24-25	degli	_	_	_	_	_	_	_	TokenRange=73640:73645
+24	di	di	ADP	E	_	26	case	_	_
+25	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	oggetti	oggetto	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	TokenRange=73646:73653	usemID:USem69232oggetto	synsetID:4716;senseID:8345
+27	celesti	celesto	ADJ	A	Gender=Masc|Number=Plur	26	amod	_	TokenRange=73654:73661	usemID:USem78919celeste	synsetID:missing;senseID:missing
+28	che	che	PRON	PR	PronType=Rel	31	nsubj:pass	_	TokenRange=73662:73665
+29	potevano	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	TokenRange=73666:73674
+30	essere	essere	AUX	VA	VerbForm=Inf	31	aux:pass	_	TokenRange=73675:73681
+31-32	osservati	_	_	_	_	_	_	_	TokenRange=73682:73691
+31	osserva	osservare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	26	acl:relcl	_	_	usemID:USemD5014osservare	synsetID:35356;senseID:45484
+32	ti	ti	PRON	PC	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	31	expl:pass	_	_
+33	ad	a	ADP	E	_	34	case	_	TokenRange=73692:73694
+34	occhio	occhio	NOUN	S	Gender=Masc|Number=Sing	31	obl	_	TokenRange=73695:73701	usemID:USem1806occhio	synsetID:24955;senseID:33655
+35	nudo	nudo	ADJ	A	Gender=Masc|Number=Sing	34	amod	_	TokenRange=73702:73706	usemID:USem79099nudo	synsetID:42983;senseID:58086
+36-37	dall'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=73707:73712
+36	da	da	ADP	E	_	38	case	_	_
+37	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	38	det	_	_
+38	uomo	uomo	NOUN	S	Gender=Masc|Number=Sing	31	obl:agent	_	TokenRange=73712:73716	usemID:USemD63948uomo	synsetID:863;senseID:1955
+39	e	e	CCONJ	CC	_	43	cc	_	TokenRange=73717:73718
+40-41	sulla	_	_	_	_	_	_	_	TokenRange=73719:73724
+40	su	su	ADP	E	_	43	case	_	_
+41	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
+42	loro	loro	DET	AP	Poss=Yes|PronType=Prs	43	det:poss	_	TokenRange=73725:73729
+43	origine	origine	NOUN	S	Gender=Fem|Number=Sing	38	conj	_	SpaceAfter=No|TokenRange=73730:73737	usemID:USem3324origine	synsetID:1915;senseID:3778
+44	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n|TokenRange=73737:73738
+
+# sent_id = 771
+# text = La malattia colpisce tra le 700.000 e le 1,6 milioni di donne gravide all'anno, con conseguenti aborti spontanei, bambini nati morti e casi di sifilide congenita.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=80133:80135
+2	malattia	malattia	NOUN	S	Gender=Fem|Number=Sing	3	nsubj	_	TokenRange=80136:80144	usemID:USem3868malattia	synsetID:16180;senseID:23601
+3	colpisce	colpire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=80145:80153	usemID:USem79267colpire	synsetID:38926;senseID:52100
+4	tra	tra	ADP	E	_	6	case	_	TokenRange=80154:80157
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	TokenRange=80158:80160
+6	700.000	700.000	NUM	N	NumType=Card	3	nummod	_	TokenRange=80161:80168
+7	e	e	CCONJ	CC	_	10	cc	_	TokenRange=80169:80170
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	TokenRange=80171:80173
+9	1,6	1,6	NUM	N	NumType=Card	10	nummod	_	TokenRange=80174:80177
+10	milioni	milione	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	TokenRange=80178:80185	usemID:USem72927milione	synsetID:29462;senseID:38494
+11	di	di	ADP	E	_	12	case	_	TokenRange=80186:80188
+12	donne	donna	NOUN	S	Gender=Fem|Number=Plur	10	nmod	_	TokenRange=80189:80194	usemID:USem3592donna	synsetID:50167;senseID:67049
+13	gravide	gravido	ADJ	A	Gender=Fem|Number=Plur	12	amod	_	TokenRange=80195:80202	usemID:missing	synsetID:44867;senseID:60655
+14-15	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=80203:80207
+14	a	a	ADP	E	_	16	case	_	_
+15	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	_
+16	anno	anno	NOUN	S	Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No|TokenRange=80207:80211	usemID:USem1775anno	synsetID:7131;senseID:11813
+17	,	,	PUNCT	FF	_	3	punct	_	TokenRange=80211:80212
+18	con	con	ADP	E	_	20	case	_	TokenRange=80213:80216
+19	conseguenti	conseguente	ADJ	A	Number=Plur	20	amod	_	TokenRange=80217:80228	usemID:missing	synsetID:41935;senseID:54704
+20	aborti	aborto	NOUN	S	Gender=Masc|Number=Plur	3	obl	_	TokenRange=80229:80235	usemID:USem74956aborto	synsetID:6762;senseID:11304
+21	spontanei	spontaneo	ADJ	A	Gender=Masc|Number=Plur	20	amod	_	SpaceAfter=No|TokenRange=80236:80245	usemID:USemTH44514spontaneo	synsetID:41655;senseID:54081
+22	,	,	PUNCT	FF	_	23	punct	_	TokenRange=80245:80246
+23	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	20	conj	_	TokenRange=80247:80254	usemID:USem3593bambino	synsetID:42756;senseID:57679
+24	nati	nato	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	TokenRange=80255:80259	usemID:missing	synsetID:41869;senseID:54566
+25	morti	morto	ADJ	A	Gender=Masc|Number=Plur	23	amod	_	TokenRange=80260:80265	usemID:USemD6202morto	synsetID:41864;senseID:54552
+26	e	e	CCONJ	CC	_	27	cc	_	TokenRange=80266:80267
+27	casi	caso	NOUN	S	Gender=Masc|Number=Plur	20	conj	_	TokenRange=80268:80272	usemID:USem67875caso	synsetID:7785;senseID:12743
+28	di	di	ADP	E	_	29	case	_	TokenRange=80273:80275
+29	sifilide	sifilide	NOUN	S	Gender=Fem|Number=Sing	27	nmod	_	TokenRange=80276:80284	usemID:USemTH23851sifilide	synsetID:4065;senseID:7337
+30	congenita	congenito	ADJ	A	Gender=Fem|Number=Sing	29	amod	_	SpaceAfter=No|TokenRange=80285:80294	usemID:missing	synsetID:50408;senseID:67337
+31	.	.	PUNCT	FS	_	3	punct	_	SpacesAfter=\n|TokenRange=80294:80295
+
+# sent_id = 797
+# text = I sintomi negativi contribuiscono maggiormente alla scarsa qualità di vita, alla disabilità funzionale e comportano un peso per gli altri più di quanto non facciano i sintomi positivi.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=82939:82940
+2	sintomi	sintomo	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	TokenRange=82941:82948	usemID:USem3883sintomo	synsetID:11258;senseID:17428
+3	negativi	negativo	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	TokenRange=82949:82957	usemID:USem79005negativo	synsetID:42241;senseID:56721
+4	contribuiscono	contribuire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=82958:82972	usemID:USem4929contribuire	synsetID:37081;senseID:49873
+5	maggiormente	maggiormente	ADV	B	_	4	advmod	_	TokenRange=82973:82985	usemID:missing	synsetID:50470;senseID:67493
+6-7	alla	_	_	_	_	_	_	_	TokenRange=82986:82990
+6	a	a	ADP	E	_	9	case	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	scarsa	scarso	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	TokenRange=82991:82997	usemID:USem61854scarso	synsetID:41996;senseID:54833
+9	qualità	qualità	NOUN	S	Gender=Fem	4	obl	_	TokenRange=82998:83005	usemID:USem1339qualita1	synsetID:1469;senseID:2989
+10	di	di	ADP	E	_	11	case	_	TokenRange=83006:83008
+11	vita	vita	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=83009:83013	usemID:USem3879vita	synsetID:24349;senseID:32995
+12	,	,	PUNCT	FF	_	15	punct	_	TokenRange=83013:83014
+13-14	alla	_	_	_	_	_	_	_	TokenRange=83015:83019
+13	a	a	ADP	E	_	15	case	_	_
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	disabilità	disabilità	NOUN	S	Gender=Fem	9	conj	_	TokenRange=83020:83030	usemID:USemTH06760disabilita1	synsetID:missing;senseID:missing
+16	funzionale	funzionale	ADJ	A	Number=Sing	15	amod	_	TokenRange=83031:83041	usemID:USem76988funzionale	synsetID:43240;senseID:58510
+17	e	e	CCONJ	CC	_	18	cc	_	TokenRange=83042:83043
+18	comportano	comportare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=83044:83054	usemID:USem61276comportare	synsetID:34448;senseID:47737
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	TokenRange=83055:83057
+20	peso	peso	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	TokenRange=83058:83062	usemID:missing	synsetID:2951;senseID:5569
+21	per	per	ADP	E	_	23	case	_	TokenRange=83063:83066
+22	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	TokenRange=83067:83070
+23	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	20	nmod	_	TokenRange=83071:83076
+24	più	più	ADV	B	_	18	advmod	_	TokenRange=83077:83080	usemID:missing	synsetID:50470;senseID:67492
+25	di	di	ADP	E	_	26	case	_	TokenRange=83081:83083
+26	quanto	quanto	PRON	PR	Gender=Masc|Number=Sing|PronType=Rel	24	obl	_	TokenRange=83084:83090
+27	non	non	ADV	BN	PronType=Neg	28	advmod	_	TokenRange=83091:83094	usemID:missing
+28	facciano	fare	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	TokenRange=83095:83103	usemID:USem3928fare	synsetID:missing;senseID:missing
+29	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	TokenRange=83104:83105
+30	sintomi	sintomo	NOUN	S	Gender=Masc|Number=Plur	28	nsubj	_	TokenRange=83106:83113	usemID:USem3883sintomo		synsetID:11258;senseID:17428
+31	positivi	positivo	ADJ	A	Gender=Masc|Number=Plur	30	amod	_	SpaceAfter=No|TokenRange=83114:83122	usemID:USem79007positivo	synsetID:44333;senseID:60032
+32	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n|TokenRange=83122:83123
+
+# sent_id = 1011
+# text = La maggior parte dei casi di diabete coinvolgono molti geni, ognuno dei quali può dare un piccolo contributo ad una maggiore probabilità di diventare un diabetico di tipo 2.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	TokenRange=104151:104153
+2	maggior	maggiore	ADJ	A	Degree=Cmp|Number=Sing	3	amod	_	TokenRange=104154:104161	usemID:USemD5448maggiore	synsetID:43890;senseID:59446
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	TokenRange=104162:104167	usemID:USemD1parte	synsetID:8153;senseID:14414
+4-5	dei	_	_	_	_	_	_	_	TokenRange=104168:104171
+4	di	di	ADP	E	_	6	case	_	_
+5	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	casi	caso	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	TokenRange=104172:104176	usemID:USem67875caso	synsetID:7785;senseID:12743
+7	di	di	ADP	E	_	8	case	_	TokenRange=104177:104179
+8	diabete	diabete	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	TokenRange=104180:104187	usemID:USemD5899diabete	synsetID:2074;senseID:4015
+9	coinvolgono	coinvolgere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=104188:104199	usemID:USem61282coinvolgere	synsetID:38534;senseID:51639
+10	molti	molto	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	TokenRange=104200:104205
+11	geni	gene	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	SpaceAfter=No|TokenRange=104206:104210	usemID:USemD66284gene	synsetID:11732;senseID:18055
+12	,	,	PUNCT	FF	_	11	punct	_	TokenRange=104210:104211
+13	ognuno	ognuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	18	nsubj	_	TokenRange=104212:104218
+14-15	dei	_	_	_	_	_	_	_	TokenRange=104219:104222
+14	di	di	ADP	E	_	16	case	_	_
+15	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	quali	quale	PRON	PR	Number=Plur|PronType=Rel	13	nmod	_	TokenRange=104223:104228
+17	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	TokenRange=104229:104232
+18	dare	dare	VERB	V	VerbForm=Inf	11	acl:relcl	_	TokenRange=104233:104237	usemID:USemTH29749dare	synsetID:32779;senseID:42930
+19	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	TokenRange=104238:104240
+20	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	TokenRange=104241:104248	usemID:USem61848piccolo	sysnet:44741;senseID:60509
+21	contributo	contributo	NOUN	S	Gender=Masc|Number=Sing	18	obj	_	TokenRange=104249:104259	usemID:USem60416contributo	synsetID:6623;senseID:11104
+22	ad	a	ADP	E	_	25	case	_	TokenRange=104260:104262
+23	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	TokenRange=104263:104266
+24	maggiore	maggiore	ADJ	A	Degree=Cmp|Number=Sing	25	amod	_	TokenRange=104267:104275	usemID:USemD5448maggiore	synsetID:43890;senseID:59446
+25	probabilità	probabilità	NOUN	S	Gender=Fem	18	obl	_	TokenRange=104276:104287	usemID:USem60657probabilita1	synsetID:7891;senseID:12900
+26	di	di	ADP	E	_	27	mark	_	TokenRange=104288:104290
+27	diventare	diventare	VERB	V	VerbForm=Inf	25	acl	_	TokenRange=104291:104300	usemID:USem61409diventare	synsetID:36253;senseID:48685
+28	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	TokenRange=104301:104303
+29	diabetico	diabetico	NOUN	S	Gender=Masc|Number=Sing	27	xcomp	_	TokenRange=104304:104313	usemID:USem6015diabetico	synsetID:44559;senseID:60293
+30	di	di	ADP	E	_	31	case	_	TokenRange=104314:104316
+31	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	29	nmod	_	TokenRange=104317:104321	usemID:USem69220tipo	synsetID:1471;senseID:2999
+32	2	2	NUM	N	NumType=Card	31	nummod	_	SpaceAfter=No|TokenRange=104322:104323
+33	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n|TokenRange=104323:104324
+
+# sent_id = 1013
+# text = Il Governo Britannico promise un risarcimento, accordi economici favorevoli, di non interferire nelle questioni interne islandesi e di ritirare le truppe alla fine del conflitto.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=104370:104372
+2	Governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	nsubj	_	TokenRange=104373:104380	usemID:USemD63818governo	synsetID:2430;senseID:4614
+3	Britannico	Britannico	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	TokenRange=104381:104391	usemID:USemD63751britannico	synsetID:44505;senseID:60234
+4	promise	promettere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=104392:104399	usemID:USem4798promettere	synsetID:33208;senseID:43723
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=104400:104402
+6	risarcimento	risarcimento	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=104403:104415	usemID:USem60659risarcimento	synsetID:1622;senseID:3234
+7	,	,	PUNCT	FF	_	8	punct	_	TokenRange=104415:104416
+8	accordi	accordo	NOUN	S	Gender=Masc|Number=Plur	6	conj	_	TokenRange=104417:104424	usemID:USem79378accordo	synsetID:7412;senseID:12202
+9	economici	economico	ADJ	A	Gender=Masc|Number=Plur	8	amod	_	TokenRange=104425:104434	usemID:USem61949economico	synsetID:45219;senseID:61043
+10	favorevoli	favorevole	ADJ	A	Number=Plur	8	amod	_	SpaceAfter=No|TokenRange=104435:104445	usemID:USem76967favorevole	synsetID:44333;senseID:60031
+11	,	,	PUNCT	FF	_	14	punct	_	TokenRange=104445:104446
+12	di	di	ADP	E	_	14	mark	_	TokenRange=104447:104449
+13	non	non	ADV	BN	PronType=Neg	14	advmod	_	TokenRange=104450:104453	usemID:missing	synsetID:missing;senseID:missing
+14	interferire	interferire	VERB	V	VerbForm=Inf	4	conj	_	TokenRange=104454:104465	usemID:USem66350interferire	synsetID:37477;senseID:50336
+15-16	nelle	_	_	_	_	_	_	_	TokenRange=104466:104471
+15	in	in	ADP	E	_	17	case	_	_
+16	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	questioni	questione	NOUN	S	Gender=Fem|Number=Plur	14	obl	_	TokenRange=104472:104481	usemID:missing	synsetID:4720;senseID:8354
+18	interne	interno	ADJ	A	Gender=Fem|Number=Plur	17	amod	_	TokenRange=104482:104489	usemID:missing	synsetID:45143;senseID:60966
+19	islandesi	islandese	ADJ	A	Number=Plur	17	amod	_	TokenRange=104490:104499	usemID:missing	synsetID:missing;senseID:missing
+20	e	e	CCONJ	CC	_	22	cc	_	TokenRange=104500:104501
+21	di	di	ADP	E	_	22	mark	_	TokenRange=104502:104504
+22	ritirare	ritirare	VERB	V	VerbForm=Inf	14	conj	_	TokenRange=104505:104513	usemID:missing	synsetID:37272;senseID:50132
+23	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	TokenRange=104514:104516
+24	truppe	truppa	NOUN	S	Gender=Fem|Number=Plur	22	obj	_	TokenRange=104517:104523	usemID:USem59465truppa	synsetID:22805;senseID:31235
+25-26	alla	_	_	_	_	_	_	_	TokenRange=104524:104528
+25	a	a	ADP	E	_	27	case	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	fine	fine	NOUN	S	Gender=Fem|Number=Sing	22	obl	_	TokenRange=104529:104533	usemID:USem60074fine	synsetID:2187;senseID:4250
+28-29	del	_	_	_	_	_	_	_	TokenRange=104534:104537
+28	di	di	ADP	E	_	30	case	_	_
+29	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	conflitto	conflitto	NOUN	S	Gender=Masc|Number=Sing	27	nmod	_	SpaceAfter=No|TokenRange=104538:104547	usemID:missing	synsetID:12178;senseID:18604
+31	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n|TokenRange=104547:104548
+
+# sent_id = 1078
+# text = La regina Vittoria e il Principe Alberto erano convinti che il loro figlio più grande dovesse avere un'istruzione che lo preparasse ad essere un monarca costituzionale modello.
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=110553:110555
+2	regina	regina	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	TokenRange=110556:110562	usemID:USem3596regina	synsetID:7467;senseID:12286
+3	Vittoria	Vittoria	PROPN	SP	_	2	nmod	_	TokenRange=110563:110571
+4	e	e	CCONJ	CC	_	6	cc	_	TokenRange=110572:110573
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=110574:110576
+6	Principe	Principe	PROPN	SP	_	2	conj	_	TokenRange=110577:110585
+7	Alberto	Alberto	PROPN	SP	_	6	flat:name	_	TokenRange=110586:110593
+8	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	TokenRange=110594:110599
+9	convinti	convinto	ADJ	A	Gender=Masc|Number=Plur	0	root	_	TokenRange=110600:110608	usemID:USemD76586convinto	synsetID:42608;senseID:57421
+10	che	che	SCONJ	CS	_	17	mark	_	TokenRange=110609:110612
+11	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	TokenRange=110613:110615
+12	loro	loro	DET	AP	Poss=Yes|PronType=Prs	13	det:poss	_	TokenRange=110616:110620
+13	figlio	figlio	NOUN	S	Gender=Masc|Number=Sing	17	nsubj	_	TokenRange=110621:110627	usemID:USem4026figlio	synsetID:7768;senseID:12708
+14	più	più	ADV	B	_	15	advmod	_	TokenRange=110628:110631	usemID:missing	synsetID:50470;senseID:67494
+15	grande	grande	ADJ	A	Number=Sing	13	amod	_	TokenRange=110632:110638	usemID:USemD78266grande	synsetID:44137;senseID:59790
+16	dovesse	dovere	AUX	VM	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	TokenRange=110639:110646
+17	avere	avere	VERB	V	VerbForm=Inf	9	ccomp	_	TokenRange=110647:110652	usemID:USem4817avere	synsetID:40186;senseID:53510
+18	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No|TokenRange=110653:110656
+19	istruzione	istruzione	NOUN	S	Gender=Fem|Number=Sing	17	obj	_	TokenRange=110656:110666	usemID:USem62268istruzione	synsetID:5480;senseID:9450
+20	che	che	PRON	PR	PronType=Rel	22	nsubj	_	TokenRange=110667:110670
+21	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	TokenRange=110671:110673
+22	preparasse	preparare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	TokenRange=110674:110684	usemID:USem62886preparare	synsetID:39039;senseID:52219
+23	ad	a	ADP	E	_	26	mark	_	TokenRange=110685:110687
+24	essere	essere	AUX	V	VerbForm=Inf	26	cop	_	TokenRange=110688:110694
+25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	TokenRange=110695:110697
+26	monarca	monarca	NOUN	S	Gender=Masc|Number=Sing	22	xcomp	_	TokenRange=110698:110705	usemID:USem63641monarca	synsetID:3409;senseID:6286
+27	costituzionale	costituzionale	ADJ	A	Number=Sing	26	amod	_	TokenRange=110706:110720	usemID:missing	synsetID:43744;senseID:59250
+28	modello	modello	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No|TokenRange=110721:110728	usemID:USem63153modello	synsetID:25379;senseID:37083
+29	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n|TokenRange=110728:110729
+
+# sent_id = 1085
+# text = Ciò che è giunto a noi è rappresentato da 89 ballate a due voci, 42 ballate a tre voci ed altre 9 che esistono sia nella versione a due che in quella a tre voci.
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj:pass	_	TokenRange=111261:111264
+2	che	che	PRON	PR	PronType=Rel	4	nsubj	_	TokenRange=111265:111268
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=111269:111270
+4	giunto	giungere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	TokenRange=111271:111277	usemID:USem79727giungere	synsetID:36693;senseID:49281
+5	a	a	ADP	E	_	6	case	_	TokenRange=111278:111279
+6	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	obl	_	TokenRange=111280:111283
+7	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	TokenRange=111284:111285
+8	rappresentato	rappresentare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=111286:111299	usemID:USemD7323rappresentare	synsetID:32671;senseID:42717
+9	da	da	ADP	E	_	11	case	_	TokenRange=111300:111302
+10	89	89	NUM	N	NumType=Card	11	nummod	_	TokenRange=111303:111305
+11	ballate	ballata	NOUN	S	Gender=Fem|Number=Plur	8	obl:agent	_	TokenRange=111306:111313	usemID:USem66995ballata	synsetID:16680;senseID:24173
+12	a	a	ADP	E	_	14	case	_	TokenRange=111314:111315
+13	due	due	NUM	N	NumType=Card	14	nummod	_	TokenRange=111316:111319
+14	voci	voce	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No|TokenRange=111320:111324	usemID:USemD7102voce	synsetID:23554;senseID:32074
+15	,	,	PUNCT	FF	_	17	punct	_	TokenRange=111324:111325
+16	42	42	NUM	N	NumType=Card	17	nummod	_	TokenRange=111326:111328
+17	ballate	ballata	NOUN	S	Gender=Fem|Number=Plur	11	conj	_	TokenRange=111329:111336	usemID:USem66995ballata	synsetID:16680;senseID:24173
+18	a	a	ADP	E	_	20	case	_	TokenRange=111337:111338
+19	tre	tre	NUM	N	NumType=Card	20	nummod	_	TokenRange=111339:111342
+20	voci	voce	NOUN	S	Gender=Fem|Number=Plur	17	nmod	_	TokenRange=111343:111347	usemID:USemD7102voce	synsetID:23554;senseID:32074
+21	ed	e	CCONJ	CC	_	23	cc	_	TokenRange=111348:111350
+22	altre	altro	DET	DI	Gender=Fem|Number=Plur|PronType=Ind	23	det	_	TokenRange=111351:111356
+23	9	9	NUM	N	NumType=Card	11	conj	_	TokenRange=111357:111358
+24	che	che	PRON	PR	PronType=Rel	25	nsubj	_	TokenRange=111359:111362
+25	esistono	esistere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	TokenRange=111363:111371	usemID:USem3912esistere	synsetID:32988;senseID:43430
+26	sia	sia	CCONJ	CC	_	29	cc	_	TokenRange=111372:111375
+27-28	nella	_	_	_	_	_	_	_	TokenRange=111376:111381
+27	in	in	ADP	E	_	29	case	_	_
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	versione	versione	NOUN	S	Gender=Fem|Number=Sing	25	obl	_	TokenRange=111382:111390	usemID:USemD65764versione	synsetID:missing;senseID:missing
+30	a	a	ADP	E	_	31	case	_	TokenRange=111391:111392
+31	due	due	NUM	N	NumType=Card	29	nummod	_	TokenRange=111393:111396
+32	che	che	CCONJ	CC	_	34	cc	_	TokenRange=111397:111400
+33	in	in	ADP	E	_	34	case	_	TokenRange=111401:111403
+34	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	29	conj	_	TokenRange=111404:111410
+35	a	a	ADP	E	_	37	case	_	TokenRange=111411:111412
+36	tre	tre	NUM	N	NumType=Card	37	nummod	_	TokenRange=111413:111416
+37	voci	voce	NOUN	S	Gender=Fem|Number=Plur	34	nmod	_	SpaceAfter=No|TokenRange=111417:111421	usemID:USemD7102voce	synsetID:23554;senseID:32074
+38	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n|TokenRange=111421:111422
+
+# sent_id = 1145
+# text = Una serie di misure per aumentare l'accesso ai test appare efficace nel ridurre i tassi di sifilide congenita nei paesi a basso e medio reddito.
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	TokenRange=117213:117216
+2	serie	serie	NOUN	S	Gender=Fem	12	nsubj	_	TokenRange=117217:117222	usemID:USemD64049serie	synsetID:13124;senseID:19793
+3	di	di	ADP	E	_	4	case	_	TokenRange=117223:117225
+4	misure	misura	NOUN	S	Gender=Fem|Number=Plur	2	nmod	_	TokenRange=117226:117232	usemID:missing	synsetID:17639;senseID:25327
+5	per	per	ADP	E	_	6	mark	_	TokenRange=117233:117236
+6	aumentare	aumentare	VERB	V	VerbForm=Inf	4	acl	_	TokenRange=117237:117246	usemID:USem3980aumentare	synsetID:33485;senseID:46030
+7	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|TokenRange=117247:117249
+8	accesso	accesso	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	TokenRange=117249:117256	usemID:USem73723accesso	synsetID:7394;senseID:12181
+9-10	ai	_	_	_	_	_	_	_	TokenRange=117257:117259
+9	a	a	ADP	E	_	11	case	_	_
+10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
+11	test	test	NOUN	S	Gender=Masc	8	nmod	_	TokenRange=117260:117264	usemID:USem77801test	synsetID:2156;senseID:4182
+12	appare	apparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=117265:117271	usemID:USem79106apparire	synsetID:37123;senseID:49932
+13	efficace	efficace	ADJ	A	Number=Sing	12	xcomp	_	TokenRange=117272:117280	usemID:USemD2742efficace	synsetID:44922;senseID:60726
+14-15	nel	_	_	_	_	_	_	_	TokenRange=117281:117284
+14	in	in	ADP	E	_	16	case	_	_
+15	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	ridurre	ridurre	VERB	V	VerbForm=Inf	12	obl	_	TokenRange=117285:117292	usemID:	USem69767ridurre	synsetID:32056;senseID:41430
+17	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	TokenRange=117293:117294
+18	tassi	tasso	NOUN	S	Gender=Masc|Number=Plur	16	obj	_	TokenRange=117295:117300	usemID:USem1194tasso	synsetID:22613;senseID:31029
+19	di	di	ADP	E	_	20	case	_	TokenRange=117301:117303
+20	sifilide	sifilide	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	TokenRange=117304:117312	usemID:USemTH23851sifilide	synsetID:4065;senseID:7337
+21	congenita	congenito	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	TokenRange=117313:117322	usemID:missing	synsetID:50408;senseID:67337
+22-23	nei	_	_	_	_	_	_	_	TokenRange=117323:117326
+22	in	in	ADP	E	_	24	case	_	_
+23	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+24	paesi	paese	NOUN	S	Gender=Masc|Number=Plur	16	obl	_	TokenRange=117327:117332	usemID:USem2231paese	synsetID:16107;senseID:23507
+25	a	a	ADP	E	_	29	case	_	TokenRange=117333:117334
+26	basso	basso	ADJ	A	Gender=Masc|Number=Sing	29	amod	_	TokenRange=117335:117340	usemID:USem62086basso	synsetID:missing;senseID:missing
+27	e	e	CCONJ	CC	_	28	cc	_	TokenRange=117341:117342
+28	medio	medio	ADJ	A	Gender=Masc|Number=Sing	26	conj	_	TokenRange=117343:117348	usemID:missing	synsetID:42812;senseID:57787
+29	reddito	reddito	NOUN	S	Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No|TokenRange=117349:117356	usemID:USem59794reddito	synsetID:25976;senseID:37485
+30	.	.	PUNCT	FS	_	12	punct	_	SpacesAfter=\n|TokenRange=117356:117357
+
+# sent_id = 1148
+# text = Il volume di un tale cubo è pari a una unità di misura di volume e la sua area è pari a sei unità di misura di superficie.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=117458:117460
+2	volume	volume	NOUN	S	Gender=Masc|Number=Sing	8	nsubj	_	TokenRange=117461:117467	usemID:USem69198volume	synsetID:30746;senseID:39816
+3	di	di	ADP	E	_	6	case	_	TokenRange=117468:117470
+4	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=117471:117473
+5	tale	tale	ADJ	A	Number=Sing	6	amod	_	TokenRange=117474:117478	usemID:missing	sunset:missing; senseID:missing
+6	cubo	cubo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	TokenRange=117479:117483	usemID:USem62891cubo	synsetID:23339;senseID:31832
+7	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=117484:117485
+8	pari	pari	ADJ	A	_	0	root	_	TokenRange=117486:117490	usemID:missing	synsetID:42478;senseID:57194
+9	a	a	ADP	E	_	11	case	_	TokenRange=117491:117492
+10	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	TokenRange=117493:117496
+11	unità	unità	NOUN	S	Gender=Fem	8	obl	_	TokenRange=117497:117502	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30575
+12	di	di	ADP	E	_	13	case	_	TokenRange=117503:117505
+13	misura	misura	NOUN	S	Gender=Fem|Number=Sing	11	nmod	_	TokenRange=117506:117512	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30575
+14	di	di	ADP	E	_	15	case	_	TokenRange=117513:117515
+15	volume	volume	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	TokenRange=117516:117522	usemID:USem69198volume	synsetID:30746;senseID:39816
+16	e	e	CCONJ	CC	_	21	cc	_	TokenRange=117523:117524
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	TokenRange=117525:117527
+18	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	TokenRange=117528:117531
+19	area	area	NOUN	S	Gender=Fem|Number=Sing	21	nsubj	_	TokenRange=117532:117536	usemID:USem67915area	synsetID:19239;senseID:30175
+20	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	TokenRange=117537:117538
+21	pari	pari	ADJ	A	_	8	conj	_	TokenRange=117539:117543	usemID:missing	synsetID:42478;senseID:57194
+22	a	a	ADP	E	_	24	case	_	TokenRange=117544:117545
+23	sei	sei	NUM	N	NumType=Card	24	nummod	_	TokenRange=117546:117549
+24	unità	unità	NOUN	S	Gender=Fem	21	obl	_	TokenRange=117550:117555	MW[1]-usemID:USemD5334unita1_di_misura	MW[1]-synsetID:19583;senseID:30575
+25	di	di	ADP	E	_	26	case	_	TokenRange=117556:117558
+26	misura	misura	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	TokenRange=117559:117565	MW[1]-usemID:USemD5334unita1_di_misura	MW[1]synsetID:19583;senseID:30575
+27	di	di	ADP	E	_	28	case	_	TokenRange=117566:117568
+28	superficie	superficie	NOUN	S	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No|TokenRange=117569:117579	usemID:USemTH25687superfice	synsetID:16717;senseID:24217
+29	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n|TokenRange=117579:117580
+
+# sent_id = 1154
+# text = Attorno al 1095, papa Urbano II, su invito dell'imperatore d'oriente, predicò una crociata contro i Turchi per liberare Gerusalemme e la Terrasanta dal loro dominio.
+1	Attorno	attorno	ADV	B	_	4	case	_	TokenRange=118275:118282	usemID:USemTH41041attorno
+2-3	al	_	_	_	_	_	_	_	TokenRange=118283:118285
+2	a	a	ADP	E	_	1	fixed	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	1095	1095	NUM	N	NumType=Card	18	nummod	_	SpaceAfter=No|TokenRange=118286:118290
+5	,	,	PUNCT	FF	_	4	punct	_	TokenRange=118290:118291
+6	papa	papa	NOUN	S	Gender=Masc|Number=Sing	18	nsubj	_	TokenRange=118292:118296	usemID:USem62581papa	synsetID:missing;senseID:missing
+7	Urbano	Urbano	PROPN	SP	_	6	nmod	_	TokenRange=118297:118303
+8	II	II	ADJ	NO	Number=Sing|NumType=Ord	7	amod	_	SpaceAfter=No|TokenRange=118304:118306	usemID:missing	synsetID:missing;senseID:missing
+9	,	,	PUNCT	FF	_	6	punct	_	TokenRange=118306:118307
+10	su	su	ADP	E	_	11	case	_	TokenRange=118308:118310
+11	invito	invito	NOUN	S	Gender=Masc|Number=Sing	18	obl	_	TokenRange=118311:118317	usemID:USem72536invito	synsetID:24188;senseID:32812
+12-13	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=118318:118323
+12	di	di	ADP	E	_	14	case	_	_
+13	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	14	det	_	_
+14	imperatore	imperatore	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	TokenRange=118323:118333	usemID:USem64169imperatore	synsetID:29501;senseID:38536
+15	d'	di	ADP	E	_	16	case	_	SpaceAfter=No|TokenRange=118334:118336
+16	oriente	oriente	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No|TokenRange=118336:118343	usemID:USem68513oriente	synsetID:6372;senseID:10734
+17	,	,	PUNCT	FF	_	11	punct	_	TokenRange=118343:118344
+18	predicò	predicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=118345:118352	usemID:USem63741predicare	synsetID:39422;senseID:52645
+19	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	TokenRange=118353:118356
+20	crociata	crociata	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	TokenRange=118357:118365	usemID:USemD7265crociata	synsetID:29;senseID:571
+21	contro	contro	ADP	E	_	23	case	_	TokenRange=118366:118372
+22	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	TokenRange=118373:118374
+23	Turchi	Turchi	PROPN	SP	_	20	nmod	_	TokenRange=118375:118381
+24	per	per	ADP	E	_	25	mark	_	TokenRange=118382:118385
+25	liberare	liberare	VERB	V	VerbForm=Inf	18	advcl	_	TokenRange=118386:118394	usemID:USem74095liberare	synsetID:33112;senseID:43662
+26	Gerusalemme	Gerusalemme	PROPN	SP	_	25	obj	_	TokenRange=118395:118406
+27	e	e	CCONJ	CC	_	29	cc	_	TokenRange=118407:118408
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	TokenRange=118409:118411
+29	Terrasanta	Terrasanta	PROPN	SP	_	26	conj	_	TokenRange=118412:118422
+30-31	dal	_	_	_	_	_	_	_	TokenRange=118423:118426
+30	da	da	ADP	E	_	33	case	_	_
+31	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+32	loro	loro	DET	AP	Poss=Yes|PronType=Prs	33	det:poss	_	TokenRange=118427:118431
+33	dominio	dominio	NOUN	S	Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No|TokenRange=118432:118439	usemID:USem59997dominio	synsetID:8938;senseID:13217
+34	.	.	PUNCT	FS	_	18	punct	_	SpacesAfter=\n|TokenRange=118439:118440
+
+# sent_id = 1193
+# text = Oggi l'intero sito è un'area protetta, con lo status di patrimonio nazionale" della Namibia, e può essere visitato solo insieme a guide autorizzate.
+1	Oggi	oggi	ADV	B	_	7	advmod	_	TokenRange=122387:122391	usemID:missing	synsetID:48687;senseID:64733
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No|TokenRange=122392:122394
+3	intero	intero	ADJ	A	Gender=Masc|Number=Sing	4	amod	_	TokenRange=122394:122400	usemID:USem76332intero	synsetID:45227;senseID:61052 
+4	sito	sito	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	TokenRange=122401:122405	usemID:USem2077sito	synsetID:2256;senseID:4360
+5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TokenRange=122406:122407
+6	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No|TokenRange=122408:122411
+7	area	area	NOUN	S	Gender=Fem|Number=Sing	0	root	_	TokenRange=122411:122415	usemID:USem67917area	MW[0]-synsetID:16775;senseID:24289
+8	protetta	protetto	ADJ	A	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No|TokenRange=122416:122424	usemID:USem77641protetto	MW[0]-synsetID:16775;senseID:24289
+9	,	,	PUNCT	FF	_	7	punct	_	TokenRange=122424:122425
+10	con	con	ADP	E	_	12	case	_	TokenRange=122426:122429
+11	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=122430:122432
+12	status	status	NOUN	S	Gender=Masc	7	nmod	_	TokenRange=122433:122439	usemID:USemTH25160status	synsetID:missing;senseID:missing
+13	di	di	ADP	E	_	14	case	_	TokenRange=122440:122442
+14	patrimonio	patrimonio	NOUN	S	Gender=Masc|Number=Sing	12	nmod	_	TokenRange=122443:122453	usemID:missing	synsetID:812;senseID:1835
+15	nazionale	nazionale	ADJ	A	Number=Sing	14	amod	_	SpaceAfter=No|TokenRange=122454:122463	usemID:USem61918nazionale	synsetID:41665;senseID:54107
+16	"	"	PUNCT	FB	_	19	punct	_	TokenRange=122463:122464
+17-18	della	_	_	_	_	_	_	_	TokenRange=122465:122470
+17	di	di	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Namibia	Namibia	PROPN	SP	_	14	nmod	_	SpaceAfter=No|TokenRange=122471:122478
+20	,	,	PUNCT	FF	_	24	punct	_	TokenRange=122478:122479
+21	e	e	CCONJ	CC	_	24	cc	_	TokenRange=122480:122481
+22	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	TokenRange=122482:122485
+23	essere	essere	AUX	VA	VerbForm=Inf	24	aux:pass	_	TokenRange=122486:122492
+24	visitato	visitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	TokenRange=122493:122501	usemID:USem64290visitare	synsetID:40714;senseID:55576
+25	solo	solo	ADV	B	_	28	advmod	_	TokenRange=122502:122506	usemID:missing	synsetID:48685;senseID:64728
+26	insieme	insieme	ADV	B	_	28	case	_	TokenRange=122507:122514	usemID:missing	synsetID:missing;senseID:missing
+27	a	a	ADP	E	_	26	fixed	_	TokenRange=122515:122516
+28	guide	guida	NOUN	S	Gender=Fem|Number=Plur	24	obl	_	TokenRange=122517:122522	usemID:USem67972guida	synsetID:6366;senseID:10719
+29	autorizzate	autorizzato	ADJ	A	Gender=Fem|Number=Plur	28	amod	_	SpaceAfter=No|TokenRange=122523:122534	usemID:USemD66529autorizzato	synsetID:missing;senseID:missing
+30	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n|TokenRange=122534:122535
+
+# sent_id = 1195
+# text = I fattori sociali includono gli aspetti culturali e di consapevolezza sanitaria, il tasso di crescita della popolazione, la distribuzione per età, attenzione per la carriera e enfasi sulla sicurezza.
+1	I	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=122634:122635
+2	fattori	fattore	NOUN	S	Gender=Masc|Number=Plur	4	nsubj	_	TokenRange=122636:122643	usemID:USem3296fattore	synsetID:3790;senseID:6916
+3	sociali	sociale	ADJ	A	Number=Plur	2	amod	_	TokenRange=122644:122651	usemID:missing	synsetID:44501;senseID:60231
+4	includono	includere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=122652:122661	usemID:USem4815includere	synsetID:34448;senseID:47735
+5	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	TokenRange=122662:122665
+6	aspetti	aspetto	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	TokenRange=122666:122673	usemID:USem62403aspetto	synsetID:12918;senseID:19530
+7	culturali	culturale	ADJ	A	Number=Plur	6	amod	_	TokenRange=122674:122683	usemID:missing	synsetID:43637;senseID:59093
+8	e	e	CCONJ	CC	_	10	cc	_	TokenRange=122684:122685
+9	di	di	ADP	E	_	10	case	_	TokenRange=122686:122688
+10	consapevolezza	consapevolezza	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	TokenRange=122689:122703	usemID:USem1481consapevolezza	synsetID:7264;senseID:11997
+11	sanitaria	sanitario	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No|TokenRange=122704:122713	usemID:missing	synsetID:44934;senseID:60739
+12	,	,	PUNCT	FF	_	14	punct	_	TokenRange=122713:122714
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	TokenRange=122715:122717
+14	tasso	tasso	NOUN	S	Gender=Masc|Number=Sing	6	conj	_	TokenRange=122718:122723	usemID:USem1194tasso	synsetID:22613;senseID:31029
+15	di	di	ADP	E	_	16	case	_	TokenRange=122724:122726
+16	crescita	crescita	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	TokenRange=122727:122735	usemID:USem61645crescita	synsetID:9567;senseID:14079
+17-18	della	_	_	_	_	_	_	_	TokenRange=122736:122741
+17	di	di	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	popolazione	popolazione	NOUN	S	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No|TokenRange=122742:122753	usemID:USemD955popolazione	synsetID:15298;senseID:22517
+20	,	,	PUNCT	FF	_	22	punct	_	TokenRange=122753:122754
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	TokenRange=122755:122757
+22	distribuzione	distribuzione	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	TokenRange=122758:122771	usemID:USem60646distribuzione	synsetID:1175;senseID:2472
+23	per	per	ADP	E	_	24	case	_	TokenRange=122772:122775
+24	età	età	NOUN	S	Gender=Fem	22	nmod	_	SpaceAfter=No|TokenRange=122776:122779	usemID:USemTH37759eta1	synsetID:16327;senseID:23768
+25	,	,	PUNCT	FF	_	26	punct	_	TokenRange=122779:122780
+26	attenzione	attenzione	NOUN	S	Gender=Fem|Number=Sing	6	conj	_	TokenRange=122781:122791	usemID:USem69007attenzione	synsetID:857;senseID:1941
+27	per	per	ADP	E	_	29	case	_	TokenRange=122792:122795
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	TokenRange=122796:122798
+29	carriera	carriera	NOUN	S	Gender=Fem|Number=Sing	26	nmod	_	TokenRange=122799:122807	usemID:missing	synsetID:24051;senseID:32652
+30	e	e	CCONJ	CC	_	31	cc	_	TokenRange=122808:122809
+31	enfasi	enfasi	NOUN	S	Gender=Fem	6	conj	_	TokenRange=122810:122816	usemID:USem069620enfasi	synsetID:11844;senseID:18199
+32-33	sulla	_	_	_	_	_	_	_	TokenRange=122817:122822
+32	su	su	ADP	E	_	34	case	_	_
+33	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	sicurezza	sicurezza	NOUN	S	Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No|TokenRange=122823:122832	usemID:USem2575sicurezza	synsetID:6367;senseID:10721
+35	.	.	PUNCT	FS	_	4	punct	_	SpacesAfter=\n|TokenRange=122832:122833
+
+# sent_id = 1201
+# text = Gli individui con importanti sintomi negativi spesso presentano una storia di scarso adattamento già prima della comparsa della malattia e la risposta alla terapia farmacologica è spesso limitata.
+1	Gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=123246:123249
+2	individui	individuo	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	TokenRange=123250:123259	usemID:USemD5558individuo	synsetID:865;senseID:1960
+3	con	con	ADP	E	_	5	case	_	TokenRange=123260:123263
+4	importanti	importante	ADJ	A	Number=Plur	5	amod	_	TokenRange=123264:123274	usemID:USemD6518importante	synsetID:42456;senseID:57145
+5	sintomi	sintomo	NOUN	S	Gender=Masc|Number=Plur	2	nmod	_	TokenRange=123275:123282	usemID:USem3883sintomo	synsetID:11258;senseID:17428
+6	negativi	negativo	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	TokenRange=123283:123291	usemID:USem79005negativo	synsetID:42241;senseID:56721
+7	spesso	spesso	ADV	B	_	8	advmod	_	TokenRange=123292:123298	usemID:missing	synsetID:48642;senseID:64535
+8	presentano	presentare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=123299:123309	usemID:USem7084presentare	synsetID:39685;senseID:52950
+9	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	TokenRange=123310:123313
+10	storia	storia	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	TokenRange=123314:123320	usemID:missing	synsetID:missing;senseID:missing
+11	di	di	ADP	E	_	13	case	_	TokenRange=123321:123323
+12	scarso	scarso	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	TokenRange=123324:123330	usemID:USem61854scarso	synsetID:41996;senseID:54833
+13	adattamento	adattamento	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	TokenRange=123331:123342	usemID:USem73762adattamento	synsetID:11116;senseID:17247
+14	già	già	ADV	B	_	18	advmod	_	TokenRange=123343:123346	usemID:missing	synsetID:missing;senseID:missing
+15	prima	prima	ADV	B	_	18	case	_	TokenRange=123347:123352	usemID:missing	synsetID:missing;senseID:missing
+16-17	della	_	_	_	_	_	_	_	TokenRange=123353:123358
+16	di	di	ADP	E	_	15	fixed	_	_
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	comparsa	comparsa	NOUN	S	Gender=Fem|Number=Sing	8	obl	_	TokenRange=123359:123367	usemID:missing	synsetID:19568;senseID:30545
+19-20	della	_	_	_	_	_	_	_	TokenRange=123368:123373
+19	di	di	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	malattia	malattia	NOUN	S	Gender=Fem|Number=Sing	18	nmod	_	TokenRange=123374:123382	usemID:USem3868malattia	synsetID:16180;senseID:23601
+22	e	e	CCONJ	CC	_	31	cc	_	TokenRange=123383:123384
+23	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	TokenRange=123385:123387
+24	risposta	risposta	NOUN	S	Gender=Fem|Number=Sing	31	nsubj:pass	_	TokenRange=123388:123396	usemID:USem60366risposta	synsetID:9737;senseID:15439
+25-26	alla	_	_	_	_	_	_	_	TokenRange=123397:123401
+25	a	a	ADP	E	_	27	case	_	_
+26	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	terapia	terapia	NOUN	S	Gender=Fem|Number=Sing	24	nmod	_	TokenRange=123402:123409	usemID:USem62882terapia	synsetID:3469;senseID:6396
+28	farmacologica	farmacologico	ADJ	A	Gender=Fem|Number=Sing	27	amod	_	TokenRange=123410:123423	usemID:missing	synsetID:41988;senseID:54809
+29	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux:pass	_	TokenRange=123424:123425
+30	spesso	spesso	ADV	B	_	31	advmod	_	TokenRange=123426:123432		usemID:missing	synsetID:48642;senseID:64535
+31	limitata	limitare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No|TokenRange=123433:123441	usemID:USem76360limitare	synsetID:33996;senseID:46925
+32	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n|TokenRange=123441:123442
+
+# sent_id = 1253
+# text = Le anfetamine, la cocaina e, in misura minore, l'alcol possono portare allo sviluppo di una psicosi che si presenta in modo molto simile alla schizofrenia.
+1	Le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	TokenRange=128061:128063
+2	anfetamine	anfetamina	NOUN	S	Gender=Fem|Number=Plur	15	nsubj	_	SpaceAfter=No|TokenRange=128064:128074	usemID:USem70826anfetamina	synsetID:17484;senseID:25141
+3	,	,	PUNCT	FF	_	5	punct	_	TokenRange=128074:128075
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	TokenRange=128076:128078
+5	cocaina	cocaina	NOUN	S	Gender=Fem|Number=Sing	2	conj	_	TokenRange=128079:128086	usemID:USem72780cocaina	synsetID:7973;senseID:14168
+6	e	e	CCONJ	CC	_	13	cc	_	SpaceAfter=No|TokenRange=128087:128088
+7	,	,	PUNCT	FF	_	13	punct	_	TokenRange=128088:128089
+8	in	in	ADP	E	_	9	case	_	TokenRange=128090:128092
+9	misura	misura	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	TokenRange=128093:128099	usemID:missing	synsetID:missing;senseID:missing
+10	minore	minore	ADJ	A	Degree=Cmp|Number=Sing	9	amod	_	SpaceAfter=No|TokenRange=128100:128106	usemID:USemD5449minore	synsetID:44004;senseID:59612
+11	,	,	PUNCT	FF	_	9	punct	_	TokenRange=128106:128107
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No|TokenRange=128108:128110
+13	alcol	alcol	NOUN	S	Gender=Masc|Number=Sing	2	conj	_	TokenRange=128110:128115	usemID:USem3900alcol	synsetID:15586;senseID:22872
+14	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	TokenRange=128116:128123
+15	portare	portare	VERB	V	VerbForm=Inf	0	root	_	TokenRange=128124:128131	usemID:USem79501portare	synsetID:32778;senseID:42923
+16-17	allo	_	_	_	_	_	_	_	TokenRange=128132:128136
+16	a	a	ADP	E	_	18	case	_	_
+17	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	sviluppo	sviluppo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	TokenRange=128137:128145	usemID:USem61654sviluppo	synsetID:7068;senseID:11735
+19	di	di	ADP	E	_	21	case	_	TokenRange=128146:128148
+20	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	TokenRange=128149:128152
+21	psicosi	psicosi	NOUN	S	Gender=Fem	18	nmod	_	TokenRange=128153:128160	usemID:USem73338psicosi	synsetID:802;senseID:1811
+22	che	che	PRON	PR	PronType=Rel	24	nsubj	_	TokenRange=128161:128164
+23	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	24	expl	_	TokenRange=128165:128167
+24	presenta	presentare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	TokenRange=128168:128176	usemID:USem61375presentare	synsetID:39685;senseID:52950
+25	in	in	ADP	E	_	26	case	_	TokenRange=128177:128179
+26	modo	modo	NOUN	S	Gender=Masc|Number=Sing	24	obl	_	TokenRange=128180:128184	usemID:USem59622modo	synsetID:13799;senseID:20646
+27	molto	molto	ADV	B	_	28	advmod	_	TokenRange=128185:128190	usemID:missing	synsetID:48992;senseID:65404
+28	simile	simile	ADJ	A	Number=Sing	26	amod	_	TokenRange=128191:128197	usemID:USem61822simile	synsetID:42144;senseID:55131
+29-30	alla	_	_	_	_	_	_	_	TokenRange=128198:128202
+29	a	a	ADP	E	_	31	case	_	_
+30	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	schizofrenia	schizofrenia	NOUN	S	Gender=Fem|Number=Sing	28	obl	_	SpaceAfter=No|TokenRange=128203:128215	usemID:USemD5909schizofrenia	synsetID:16862;senseID:24403
+32	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n|TokenRange=128215:128216
+
+# sent_id = 1289
+# text = Ciò potrebbe essere in parte spiegato dal fatto che avere figli a carico comporta una riduzione dell'attività fisica, perlomeno nel mondo occidentale.
+1	Ciò	ciò	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj:pass	_	TokenRange=131374:131377
+2	potrebbe	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	TokenRange=131378:131386
+3	essere	essere	AUX	VA	VerbForm=Inf	6	aux:pass	_	TokenRange=131387:131393
+4	in	in	ADP	E	_	5	case	_	TokenRange=131394:131396
+5	parte	parte	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	TokenRange=131397:131402	usemID:missing	MW[0]-synsetID:49032;senseID:65468
+6	spiegato	spiegare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=131403:131411	usemID:USem3927spiegare	synsetID:33812;senseID:46594
+7-8	dal	_	_	_	_	_	_	_	TokenRange=131412:131415
+7	da	da	ADP	E	_	9	case	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	6	obl:agent	_	TokenRange=131416:131421	usemID:USem62856fatto	synsetID:7783;senseID:12736
+10	che	che	SCONJ	CS	_	15	mark	_	TokenRange=131422:131425
+11	avere	avere	VERB	V	VerbForm=Inf	15	csubj	_	TokenRange=131426:131431	usemID:USem4817avere	synsetID:36891;senseID:49543
+12	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	11	obj	_	TokenRange=131432:131437	usemID:USem4069figlio	synsetID:7767;senseID:12707
+13	a	a	ADP	E	_	14	case	_	TokenRange=131438:131439
+14	carico	carico	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	TokenRange=131440:131446	usemID:missing	synsetID:28643;senseID:34772
+15	comporta	comportare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	TokenRange=131447:131455	usemID:USem61276comportare	synsetID:34448;senseID:47737
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	TokenRange=131456:131459
+17	riduzione	riduzione	NOUN	S	Gender=Fem|Number=Sing	15	obj	_	TokenRange=131460:131469	usemID:USem60232riduzione	synsetID:6321;senseID:10654
+18-19	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=131470:131475
+18	di	di	ADP	E	_	20	case	_	_
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	20	det	_	_
+20	attività	attività	NOUN	S	Gender=Fem	17	nmod	_	TokenRange=131475:131483	usemID:USemD5408attivita1	synsetID:12814;senseID:19401
+21	fisica	fisico	ADJ	A	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No|TokenRange=131484:131490	usemID:missing	synsetID:42119;senseID:55075
+22	,	,	PUNCT	FF	_	15	punct	_	TokenRange=131490:131491
+23	perlomeno	perlomeno	ADV	B	_	26	advmod	_	TokenRange=131492:131501	usemID:missing	synsetID:missing;senseID:missing
+24-25	nel	_	_	_	_	_	_	_	TokenRange=131502:131505
+24	in	in	ADP	E	_	26	case	_	_
+25	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	mondo	mondo	NOUN	S	Gender=Masc|Number=Sing	15	obl	_	TokenRange=131506:131511	usemID:missing	synsetID:30286;senseID:39343
+27	occidentale	occidentale	ADJ	A	Number=Sing	26	amod	_	SpaceAfter=No|TokenRange=131512:131523	usemID:missing	synsetID:42600;senseID:57407
+28	.	.	PUNCT	FS	_	6	punct	_	SpacesAfter=\n|TokenRange=131523:131524
+
+# sent_id = 1310
+# text = Nel XX secolo essendo stato raggiunto il limite massimo del potenziale genetico di altezza, il peso ha iniziato a crescere molto di più rispetto all'altezza, con il conseguente fenomeno dell'obesità.
+1-2	Nel	_	_	_	_	_	_	_	TokenRange=133472:133475
+1	In	in	ADP	E	_	4	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	XX	ventesimo	ADJ	NO	Number=Sing|NumType=Ord	4	amod	_	TokenRange=133476:133478
+4	secolo	secolo	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	TokenRange=133479:133485	usemID:USem2777secolo	synsetID:2798;senseID:5288
+5	essendo	essere	AUX	VA	VerbForm=Ger	7	aux	_	TokenRange=133486:133493
+6	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	TokenRange=133494:133499
+7	raggiunto	raggiungere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	TokenRange=133500:133509	usemID:USem77283raggiungere	synsetID:37369;senseID:49818
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	TokenRange=133510:133512
+9	limite	limite	NOUN	S	Gender=Masc|Number=Sing	7	nsubj:pass	_	TokenRange=133513:133519	usemID:USem67748limite	synsetID:11360;senseID:17557
+10	massimo	massimo	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	TokenRange=133520:133527	usemID:missing	synsetID:49957;senseID:66905
+11-12	del	_	_	_	_	_	_	_	TokenRange=133528:133531
+11	di	di	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	potenziale	potenziale	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	TokenRange=133532:133542	usemID:missing	synsetID:42200;senseID:55272
+14	genetico	genetico	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	TokenRange=133543:133551	usemID:missing	synsetID:42223;senseID:55324
+15	di	di	ADP	E	_	16	case	_	TokenRange=133552:133554
+16	altezza	altezza	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No|TokenRange=133555:133562	usemID:USemD5532altezza	synsetID:10852;senseID:16909
+17	,	,	PUNCT	FF	_	7	punct	_	TokenRange=133562:133563
+18	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	TokenRange=133564:133566
+19	peso	peso	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	TokenRange=133567:133571	usemID:USem2574peso	synsetID:31191;senseID:40259
+20	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	TokenRange=133572:133574
+21	iniziato	iniziare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=133575:133583	usemID:USem74983iniziare	synsetID:32039;senseID:41395
+22	a	a	ADP	E	_	23	mark	_	TokenRange=133584:133585
+23	crescere	crescere	VERB	V	VerbForm=Inf	21	xcomp	_	TokenRange=133586:133594	usemID:USem61635crescere	synsetID:39170;senseID:52379
+24	molto	molto	ADV	B	_	26	advmod	_	TokenRange=133595:133600	usemID:missing	MW[0]-synsetID:50470;senseID:67494
+25	di	di	ADP	E	_	26	case	_	TokenRange=133601:133603	
+26	più	più	ADV	B	_	23	advmod	_	TokenRange=133604:133607	usemID:missing	MW[0]-synsetID:50470;senseID:67494
+27	rispetto	rispetto	ADV	B	_	30	case	_	TokenRange=133608:133616	usemID:missing	synsetID:missing;senseID:missing
+28-29	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=133617:133621
+28	a	a	ADP	E	_	27	fixed	_	_
+29	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	30	det	_	_
+30	altezza	altezza	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No|TokenRange=133621:133628	usemID:USemD5532altezza	synsetID:10852;senseID:16909
+31	,	,	PUNCT	FF	_	23	punct	_	TokenRange=133628:133629
+32	con	con	ADP	E	_	35	case	_	TokenRange=133630:133633
+33	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	TokenRange=133634:133636
+34	conseguente	conseguente	ADJ	A	Number=Sing	35	amod	_	TokenRange=133637:133648	usemID:missing	synsetID:41935;senseID:54704
+35	fenomeno	fenomeno	NOUN	S	Gender=Masc|Number=Sing	23	obl	_	TokenRange=133649:133657	usemID:USemD5364fenomeno	synsetID:26410;senseID:36308
+36-37	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=133658:133663
+36	di	di	ADP	E	_	38	case	_	_
+37	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	38	det	_	_
+38	obesità	obesità	NOUN	S	Gender=Fem	35	nmod	_	SpaceAfter=No|TokenRange=133663:133670	usemID:USem73875obesita1	synsetID:10284;senseID:16157
+39	.	.	PUNCT	FS	_	21	punct	_	SpacesAfter=\n|TokenRange=133670:133671
+
+# sent_id = 1366
+# text = Anche il sarcofago fu profanato e sfregiato, praticamente distrutto, ma dopo la scoperta è stato restaurato e si trova in esposizione permanente al Museo egizio del Cairo.
+1	Anche	anche	ADV	B	_	3	advmod	_	TokenRange=139039:139044	usemID:missing	synsetID:missing;senseID:missing
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=139045:139047
+3	sarcofago	sarcofago	NOUN	S	Gender=Masc|Number=Sing	5	nsubj:pass	_	TokenRange=139048:139057	usemID:USem63146sarcofago	synsetID:2721;senseID:5143
+4	fu	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	TokenRange=139058:139060
+5	profanato	profanare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	TokenRange=139061:139070	usemID:missing	synsetID:missing;senseID:missing
+6	e	e	CCONJ	CC	_	7	cc	_	TokenRange=139071:139072
+7	sfregiato	sfregiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No|TokenRange=139073:139082	usemID:USem73008sfregiare	synsetID:38592;senseID:51703
+8	,	,	PUNCT	FF	_	10	punct	_	TokenRange=139082:139083
+9	praticamente	praticamente	ADV	B	_	10	advmod	_	TokenRange=139084:139096	usemID:missing	synsetID:50017;senseID:66675
+10	distrutto	distruggere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	SpaceAfter=No|TokenRange=139097:139106	usemID:USemD5312distruggere	synsetID:35481;senseID:45650
+11	,	,	PUNCT	FF	_	18	punct	_	TokenRange=139106:139107
+12	ma	ma	CCONJ	CC	_	18	cc	_	TokenRange=139108:139110
+13	dopo	dopo	ADP	E	_	15	case	_	TokenRange=139111:139115
+14	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	TokenRange=139116:139118
+15	scoperta	scoperta	NOUN	S	Gender=Fem|Number=Sing	18	obl	_	TokenRange=139119:139127	usemID:USem60674scoperta	synsetID:30358;senseID:39419
+16	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	TokenRange=139128:139129
+17	stato	essere	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	aux:pass	_	TokenRange=139130:139135
+18	restaurato	restaurare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	TokenRange=139136:139146	usemID:USem61413restaurare	synsetID:36286;senseID:48719
+19	e	e	CCONJ	CC	_	21	cc	_	TokenRange=139147:139148
+20	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	21	expl	_	TokenRange=139149:139151
+21	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	TokenRange=139152:139157	usemID:USem61469trovare	synsetID:34144;senseID:47182
+22	in	in	ADP	E	_	23	case	_	TokenRange=139158:139160
+23	esposizione	esposizione	NOUN	S	Gender=Fem|Number=Sing	21	obl	_	TokenRange=139161:139172	usemID:USem61150esposizione	synsetID:3616;senseID:6621
+24	permanente	permanente	ADJ	A	Gender=Fem|Number=Sing	23	amod	_	TokenRange=139173:139183	usemID:USem62094permanente	synsetID:41547;senseID:53833
+25-26	al	_	_	_	_	_	_	_	TokenRange=139184:139186
+25	a	a	ADP	E	_	27	case	_	_
+26	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	Museo	Museo	NOUN	S	Gender=Masc|Number=Sing	21	obl	_	TokenRange=139187:139192	usemID:USem2054museo	synsetID:19352;senseID:30298
+28	egizio	egizio	ADJ	A	Gender=Masc|Number=Sing	27	amod	_	TokenRange=139193:139199	usemID:missing	synsetID:41473;senseID:56556
+29-30	del	_	_	_	_	_	_	_	TokenRange=139200:139203
+29	di	di	ADP	E	_	31	case	_	_
+30	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	Cairo	Cairo	PROPN	SP	_	27	nmod	_	SpaceAfter=No|TokenRange=139204:139209
+32	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n|TokenRange=139209:139210
+
+# sent_id = 1375
+# text = Il modo più semplice per formare una goccia è permettere al liquido di scorrere lentamente dalla parte inferiore di un tubo di piccolo diametro.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=140240:140242
+2	modo	modo	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	TokenRange=140243:140247	usemID:USem59622modo	synsetID:13799;senseID:20646
+3	più	più	ADV	B	_	4	advmod	_	TokenRange=140248:140251	usemID:missing	synsetID:50470;senseID:67492
+4	semplice	semplice	ADJ	A	Number=Sing	2	amod	_	TokenRange=140252:140260	usemID:USem62140semplice	synsetID:42714;senseID:57614
+5	per	per	ADP	E	_	6	mark	_	TokenRange=140261:140264
+6	formare	formare	VERB	V	VerbForm=Inf	4	advcl	_	TokenRange=140265:140272	usemID:USem6930formare	synsetID:32117;senseID:41560
+7	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	TokenRange=140273:140276
+8	goccia	goccia	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	TokenRange=140277:140283	usemID:USem72124goccia	synsetID:10083;senseID:15886
+9	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=140284:140285
+10	permettere	permettere	VERB	V	VerbForm=Inf	9	ccomp	_	TokenRange=140286:140296	usemID:USem61321permettere	synsetID:32006;senseID:41326
+11-12	al	_	_	_	_	_	_	_	TokenRange=140297:140299
+11	a	a	ADP	E	_	13	case	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	liquido	liquido	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	TokenRange=140300:140307	usemID:USem68076liquido	synsetID:18989;senseID:29884
+14	di	di	ADP	E	_	15	mark	_	TokenRange=140308:140310
+15	scorrere	scorrere	VERB	V	VerbForm=Inf	10	xcomp	_	TokenRange=140311:140319	usemID:USem63009scorrere	synsetID:39908;senseID:53191
+16	lentamente	lentamente	ADV	B	_	15	advmod	_	TokenRange=140320:140330	usemID:missing	synsetID:50119;senseID:67031
+17-18	dalla	_	_	_	_	_	_	_	TokenRange=140331:140336
+17	da	da	ADP	E	_	19	case	_	_
+18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	parte	parte	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	TokenRange=140337:140342	usemID:USem67839parte	synsetID:8153;senseID:14414
+20	inferiore	inferiore	ADJ	A	Degree=Cmp|Number=Sing	19	amod	_	TokenRange=140343:140352	usemID:missing	synsetID:44608;senseID:60355
+21	di	di	ADP	E	_	23	case	_	TokenRange=140353:140355
+22	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	TokenRange=140356:140358
+23	tubo	tubo	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	TokenRange=140359:140363	usemID:USem59852tubo	synsetID:21404;senseID:28559
+24	di	di	ADP	E	_	26	case	_	TokenRange=140364:140366
+25	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	26	amod	_	TokenRange=140367:140374	usemID:USemD6384piccolo	synsetID:44741;senseID:60509
+26	diametro	diametro	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No|TokenRange=140375:140383	usemID:USem78203diametro	synsetID:24613;senseID:33275
+27	.	.	PUNCT	FS	_	9	punct	_	SpacesAfter=\n|TokenRange=140383:140384
+
+# sent_id = 1666
+# text = Russell cominciò a pubblicare un periodico religioso mensile, il "Torre di Guardia di Sion e Araldo della Presenza di Cristo".
+1	Russell	Russell	PROPN	SP	_	2	nsubj	_	TokenRange=167649:167656
+2	cominciò	cominciare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=167657:167665	usemID:USem74975cominciare	synsetID:35125;senseID:45122
+3	a	a	ADP	E	_	4	mark	_	TokenRange=167666:167667
+4	pubblicare	pubblicare	VERB	V	VerbForm=Inf	2	xcomp	_	TokenRange=167668:167678	usemID:USem7088pubblicare	synsetID:33949;senseID:46848
+5	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=167679:167681
+6	periodico	periodico	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	TokenRange=167682:167691	usemID:USemD63620periodico	synsetID:26830;senseID:36752
+7	religioso	religioso	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	TokenRange=167692:167701	usemID:USem78953religioso	synsetID:45037;senseID:60851
+8	mensile	mensile	ADJ	A	Number=Sing	6	amod	_	SpaceAfter=No|TokenRange=167702:167709	usemID:missing	synsetID:44677;senseID:60436
+9	,	,	PUNCT	FF	_	6	punct	_	TokenRange=167709:167710
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	TokenRange=167711:167713
+11	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No|TokenRange=167714:167715
+12	Torre	Torre	PROPN	SP	_	6	appos	_	TokenRange=167715:167720
+13	di	di	ADP	E	_	14	case	_	TokenRange=167721:167723
+14	Guardia	Guardia	NOUN	S	_	12	nmod	_	TokenRange=167724:167731	usemID:USem72169guardia	synsetID:6215;senseID:10496
+15	di	di	ADP	E	_	16	case	_	TokenRange=167732:167734
+16	Sion	Sion	PROPN	SP	_	12	nmod	_	TokenRange=167735:167739
+17	e	e	CCONJ	CC	_	18	cc	_	TokenRange=167740:167741
+18	Araldo	Araldo	PROPN	SP	_	12	conj	_	TokenRange=167742:167748
+19-20	della	_	_	_	_	_	_	_	TokenRange=167749:167754
+19	di	di	ADP	E	_	21	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Presenza	Presenza	PROPN	SP	Gender=Fem|Number=Sing	18	nmod	_	TokenRange=167755:167763
+22	di	di	ADP	E	_	23	case	_	TokenRange=167764:167766
+23	Cristo	Cristo	PROPN	SP	_	21	nmod	_	SpaceAfter=No|TokenRange=167767:167773
+24	"	"	PUNCT	FB	_	12	punct	_	SpaceAfter=No|TokenRange=167773:167774
+25	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n|TokenRange=167774:167775
+
+# sent_id = 1691
+# text = Il "Partenariato per la pace" è un programma della NATO il cui fine è creare fiducia tra la NATO, altri stati europei, e la ex Unione Sovietica.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=170331:170333
+2	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No|TokenRange=170334:170335
+3	Partenariato	Partenariato	PROPN	SP	_	10	nsubj	_	TokenRange=170335:170347
+4	per	per	ADP	E	_	6	case	_	TokenRange=170348:170351
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	TokenRange=170352:170354
+6	pace	pace	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=170355:170359	usemID:USemD66340pace	synsetID:8197;senseID:14487
+7	"	"	PUNCT	FB	_	3	punct	_	TokenRange=170359:170360
+8	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	TokenRange=170361:170362
+9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	TokenRange=170363:170365
+10	programma	programma	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=170366:170375	usemID:USem61477programma	synsetID:776;senseID:1772
+11-12	della	_	_	_	_	_	_	_	TokenRange=170376:170381
+11	di	di	ADP	E	_	13	case	_	_
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	NATO	NATO	PROPN	SP	_	10	nmod	_	TokenRange=170382:170386
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	TokenRange=170387:170389
+15	cui	cui	DET	DR	PronType=Rel	16	det:poss	_	TokenRange=170390:170393
+16	fine	fine	NOUN	S	Number=Sing	17	nsubj	_	TokenRange=170394:170398	usemID:USem62924fine	synsetID:2778;senseID:5252
+17	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	TokenRange=170399:170400	usemID:USem3922essere	synsetID:32671;senseID:42716
+18	creare	creare	VERB	V	VerbForm=Inf	17	ccomp	_	TokenRange=170401:170407	usemID:USem3894creare	synsetID:32116;senseID:41555
+19	fiducia	fiducia	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	TokenRange=170408:170415	usemID:USem69995fiducia	synsetID:16537;senseID:23998
+20	tra	tra	ADP	E	_	22	case	_	TokenRange=170416:170419
+21	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	TokenRange=170420:170422
+22	NATO	NATO	PROPN	SP	_	19	nmod	_	SpaceAfter=No|TokenRange=170423:170427
+23	,	,	PUNCT	FF	_	25	punct	_	TokenRange=170427:170428
+24	altri	altro	ADJ	A	Gender=Masc|Number=Plur	25	amod	_	TokenRange=170429:170434	usemID:missing	synsetID:42674;senseID:57544
+25	stati	stato	NOUN	S	Gender=Masc|Number=Plur	22	conj	_	TokenRange=170435:170440	usemID:USem4117stato	synsetID:16111;senseID:23513
+26	europei	europeo	ADJ	A	Gender=Masc|Number=Plur	25	amod	_	SpaceAfter=No|TokenRange=170441:170448	usemID:missing	synsetID:44257;senseID:59937
+27	,	,	PUNCT	FF	_	31	punct	_	TokenRange=170448:170449
+28	e	e	CCONJ	CC	_	31	cc	_	TokenRange=170450:170451
+29	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	TokenRange=170452:170454
+30	ex	ex	ADJ	A	_	31	amod	_	TokenRange=170455:170457	usemID:missing	synsetID:43203;senseID:58458
+31	Unione	Unione	PROPN	SP	_	22	conj	_	TokenRange=170458:170464
+32	Sovietica	sovietica	ADJ	A	Gender=Fem|Number=Sing	31	amod	_	SpaceAfter=No|TokenRange=170465:170474	usemID:missing	MW:[0]-synsetID:46850;senseID:62820
+33	.	.	PUNCT	FS	_	10	punct	_	SpacesAfter=\n|TokenRange=170474:170475
+
+# sent_id = 1700
+# text = Giove solitamente è il quarto oggetto più brillante nel cielo, dopo il Sole, la Luna e Venere; a volte Marte appare più luminoso di Giove.
+1	Giove	Giove	PROPN	SP	_	6	nsubj	_	TokenRange=171266:171271
+2	solitamente	solitamente	ADV	B	_	6	advmod	_	TokenRange=171272:171283	usemID:missing	synsetID:missing;senseID:missing
+3	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=171284:171285
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	TokenRange=171286:171288
+5	quarto	quarto	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	TokenRange=171289:171295	usemID:USem77914quarto	synsetID:missing;senseID:missing
+6	oggetto	oggetto	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=171296:171303	usemID:USem69232oggetto
+7	più	più	ADV	B	_	8	advmod	_	TokenRange=171304:171307	usemID:missing	synsetID:50470;senseID:67492
+8	brillante	brillante	ADJ	A	Number=Sing	6	amod	_	TokenRange=171308:171317	usemID:USemD66797brillante	synsetID:41447;senseID:56481
+9-10	nel	_	_	_	_	_	_	_	TokenRange=171318:171321
+9	in	in	ADP	E	_	11	case	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	cielo	cielo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No|TokenRange=171322:171327	usemID:USem2298cielo	synsetID:14468;senseID:21480
+12	,	,	PUNCT	FF	_	6	punct	_	TokenRange=171327:171328
+13	dopo	dopo	ADP	E	_	15	case	_	TokenRange=171329:171333
+14	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=171334:171336
+15	Sole	Sole	PROPN	SP	_	6	nmod	_	SpaceAfter=No|TokenRange=171337:171341
+16	,	,	PUNCT	FF	_	18	punct	_	TokenRange=171341:171342
+17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	TokenRange=171343:171345
+18	Luna	Luna	PROPN	SP	_	15	conj	_	TokenRange=171346:171350
+19	e	e	CCONJ	CC	_	20	cc	_	TokenRange=171351:171352
+20	Venere	Venere	PROPN	SP	_	15	conj	_	SpaceAfter=No|TokenRange=171353:171359
+21	;	;	PUNCT	FC	_	6	punct	_	TokenRange=171359:171360
+22	a	a	ADP	E	_	23	case	_	TokenRange=171361:171362
+23	volte	volta	NOUN	S	Gender=Fem|Number=Plur	25	obl	_	TokenRange=171363:171368	usemID:USem71026volta	synsetID:1927;senseID:3800
+24	Marte	Marte	PROPN	SP	_	25	nsubj	_	TokenRange=171369:171374
+25	appare	apparire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	TokenRange=171375:171381	usemID:USem7111apparire
+26	più	più	ADV	B	_	27	advmod	_	TokenRange=171382:171385	usemID:missing	synsetID:50470;senseID:67492
+27	luminoso	luminoso	ADJ	A	Gender=Masc|Number=Sing	25	xcomp	_	TokenRange=171386:171394	usemID:USem62359luminoso	synsetID:41625;senseID:54020
+28	di	di	ADP	E	_	29	case	_	TokenRange=171395:171397
+29	Giove.	Giove.	PROPN	SP	_	27	obl	_	SpaceAfter=No|TokenRange=171398:171404
+
+# sent_id = 1810
+# text = Questa concezione dell'universo era nota come sistema geocentrico, o sistema tolemaico, dal nome dall'astronomo greco Claudio Tolomeo.
+1	Questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	TokenRange=181053:181059
+2	concezione	concezione	NOUN	S	Gender=Fem|Number=Sing	7	nsubj	_	TokenRange=181060:181070	usemID:USem69106concezione	synsetID:21150;senseID:28255
+3-4	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=181071:181076
+3	di	di	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	universo	universo	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	TokenRange=181076:181084	usemID:USem61186universo	synsetID:8206;senseID:14496
+6	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	TokenRange=181085:181088
+7	nota	noto	ADJ	A	Gender=Fem|Number=Sing	0	root	_	TokenRange=181089:181093	usemID:USemD7026noto	synsetID:42658;senseID:57520
+8	come	come	ADP	E	_	9	case	_	TokenRange=181094:181098
+9	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	TokenRange=181099:181106	usemID:missing	synsetID:9308;senseID:13747
+10	geocentrico	geocentrico	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No|TokenRange=181107:181118	usemID:missing	synsetID:missing;senseID:missing
+11	,	,	PUNCT	FF	_	13	punct	_	TokenRange=181118:181119
+12	o	o	CCONJ	CC	_	13	cc	_	TokenRange=181120:181121
+13	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	9	conj	_	TokenRange=181122:181129	usemID:missing	MW[0]-synsetID:49137;senseID:890
+14	tolemaico	tolemaico	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No|TokenRange=181130:181139	usemID:missing	MW[0]-synsetID:49137;senseID:890
+15	,	,	PUNCT	FF	_	13	punct	_	TokenRange=181139:181140
+16-17	dal	_	_	_	_	_	_	_	TokenRange=181141:181144
+16	da	da	ADP	E	_	18	case	_	_
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	nome	nome	NOUN	S	Gender=Masc|Number=Sing	13	nmod	_	TokenRange=181145:181149	usemID:USem67409nome	synsetID:18629;senseID:26483
+19-20	dall'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=181150:181155
+19	da	da	ADP	E	_	21	case	_	_
+20	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	_
+21	astronomo	astronomo	NOUN	S	Gender=Masc|Number=Sing	18	nmod	_	TokenRange=181155:181164	usemID:USem4965astronomo	synsetID:20894;senseID:27965
+22	greco	greco	ADJ	A	Gender=Masc|Number=Sing	21	amod	_	TokenRange=181165:181170	usemID:missing	synsetID:42404;senseID:57032
+23	Claudio	Claudio	PROPN	SP	_	21	nmod	_	TokenRange=181171:181178
+24	Tolomeo	Tolomeo	PROPN	SP	_	23	flat:name	_	SpaceAfter=No|TokenRange=181179:181186
+25	.	.	PUNCT	FS	_	7	punct	_	SpacesAfter=\n|TokenRange=181186:181187
+
+# sent_id = 1819
+# text = Il governo del Guatemala e i capi dell'Unione Rivoluzionaria Nazionale Guatemalteca firmano un accordo di pace che pone fine a 36 anni di guerra civile.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=181907:181909
+2	governo	governo	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	TokenRange=181910:181917	usemID:USem59435governo	synsetID:2430;senseID:4614
+3-4	del	_	_	_	_	_	_	_	TokenRange=181918:181921
+3	di	di	ADP	E	_	5	case	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Guatemala	Guatemala	PROPN	SP	_	2	nmod	_	TokenRange=181922:181931	usemID:USem2146guatemala	synsetID:missing;senseID:missing
+6	e	e	CCONJ	CC	_	8	cc	_	TokenRange=181932:181933
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	TokenRange=181934:181935
+8	capi	capo	NOUN	S	Gender=Masc|Number=Plur	2	conj	_	TokenRange=181936:181940	usemID:USem3615capo	synsetID:5776;senseID:9867
+9-10	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=181941:181946
+9	di	di	ADP	E	_	11	case	_	_
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	Unione	Unione	PROPN	SP	_	8	nmod	_	TokenRange=181946:181952
+12	Rivoluzionaria	Rivoluzionaria	PROPN	SP	_	11	flat:name	_	TokenRange=181953:181967
+13	Nazionale	Nazionale	ADJ	A	_	11	amod	_	TokenRange=181968:181977	usemID:USemD76679nazionale	synsetID:41665;senseID:54107
+14	Guatemalteca	Guatemalteca	PROPN	SP	_	11	flat:name	_	TokenRange=181978:181990
+15	firmano	firmare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=181991:181998	usemID:USemD65896firmare	synsetID:34584;senseID:44266
+16	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	TokenRange=181999:182001
+17	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	15	obj	_	TokenRange=182002:182009	usemID:USem79697accordo	synsetID:49488;senseID:65733
+18	di	di	ADP	E	_	19	case	_	TokenRange=182010:182012
+19	pace	pace	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	TokenRange=182013:182017	usemID:USemD66340pace	synsetID:8197;senseID:14487
+20	che	che	PRON	PR	PronType=Rel	21	nsubj	_	TokenRange=182018:182021
+21	pone	porre	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	TokenRange=182022:182026	usemID:USem76491porre	MW[0]-synsetID:34095;senseID:47078
+22	fine	fine	NOUN	S	Gender=Fem|Number=Sing	21	obj	_	TokenRange=182027:182031	usemID:USem60074fine	MW[0]-synsetID:34095;senseID:47078
+23	a	a	ADP	E	_	25	case	_	TokenRange=182032:182033
+24	36	36	NUM	N	NumType=Card	25	nummod	_	TokenRange=182034:182036
+25	anni	anno	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	TokenRange=182037:182041	usemID:USem1775anno	synsetID:7131;senseID:11813
+26	di	di	ADP	E	_	27	case	_	TokenRange=182042:182044
+27	guerra	guerra	NOUN	S	Gender=Fem|Number=Sing	25	nmod	_	TokenRange=182045:182051	usemID:USemD6394guerra	MW[1]-synsetID:15665;senseID:22973
+28	civile	civile	ADJ	A	Number=Sing	27	amod	_	SpaceAfter=No|TokenRange=182052:182058	usemID:USemD65934civile	MW[1]-synsetID:15665;senseID:22973
+29	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n|TokenRange=182058:182059
+
+# sent_id = 1871
+# text = Il primo direttore artistico della compagnia teatrale Madazimov Rahmonberdi è stato il primo fondatore e organizzatore del movimento teatrale in Kirghizistan.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	TokenRange=186657:186659
+2	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	TokenRange=186660:186665	usemID:missing	synsetID:45330;senseID:61163
+3	direttore	direttore	NOUN	S	Gender=Masc|Number=Sing	15	nsubj	_	TokenRange=186666:186675	usemID:USem5480direttore	synsetID:19289;senseID:30229
+4	artistico	artistico	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	TokenRange=186676:186685	usemID:USem61875artistico	synsetID:43291;senseID:58583
+5-6	della	_	_	_	_	_	_	_	TokenRange=186686:186691
+5	di	di	ADP	E	_	7	case	_	_
+6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	compagnia	compagnia	NOUN	S	Gender=Fem|Number=Sing	3	nmod	_	TokenRange=186692:186701	usemID:USem79406compagnia	synsetID:8562;senseID:14974
+8	teatrale	teatrale	ADJ	A	Number=Sing	7	amod	_	TokenRange=186702:186710	usemID:usemID:USem71846teatrale	synsetID:41798;senseID:54396
+9	Madazimov	Madazimov	PROPN	SP	_	3	nmod	_	TokenRange=186711:186720
+10	Rahmonberdi	Rahmonberdi	PROPN	SP	_	9	flat:name	_	TokenRange=186721:186732
+11	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	TokenRange=186733:186734
+12	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	TokenRange=186735:186740
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	TokenRange=186741:186743
+14	primo	primo	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	TokenRange=186744:186749	usemID:missing	synsetID:45330;senseID:61163
+15	fondatore	fondatore	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=186750:186759	usemID:USem5644fondatore	synsetID:28655;senseID:34784
+16	e	e	CCONJ	CC	_	17	cc	_	TokenRange=186760:186761
+17	organizzatore	organizzatore	NOUN	S	Gender=Masc|Number=Sing	15	conj	_	TokenRange=186762:186775	usemID:USem71676organizzatore	synsetID:25972;senseID:37479
+18-19	del	_	_	_	_	_	_	_	TokenRange=186776:186779
+18	di	di	ADP	E	_	20	case	_	_
+19	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	movimento	movimento	NOUN	S	Gender=Masc|Number=Sing	17	nmod	_	TokenRange=186780:186789	usemID:USem2576movimento	synsetID:191;senseID:821
+21	teatrale	teatrale	ADJ	A	Number=Sing	20	amod	_	TokenRange=186790:186798	usemID:USem71846teatrale	synsetID:41798;senseID:54396
+22	in	in	ADP	E	_	23	case	_	TokenRange=186799:186801
+23	Kirghizistan	Kirghizistan	PROPN	SP	_	20	nmod	_	SpaceAfter=No|TokenRange=186802:186814
+24	.	.	PUNCT	FS	_	15	punct	_	SpacesAfter=\n|TokenRange=186814:186815
+
+# sent_id = 1900
+# text = Il sistema d'informazione del mercato interno (IMI) è uno strumento elettronico concepito per migliorare la comunicazione e la collaborazione tra gli enti pubblici che operano all'interno dell'area economica europea.
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=189261:189263
+2	sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	14	nsubj	_	TokenRange=189264:189271
+3	d'	di	ADP	E	_	4	case	_	SpaceAfter=No|TokenRange=189272:189274	usemID:USem59644sistema 	synsetID:9306;senseID:13744
+4	informazione	informazione	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	TokenRange=189274:189286
+5-6	del	_	_	_	_	_	_	_	TokenRange=189287:189290	usemID:USem6465informazione	synsetID:13397;senseID:20132
+5	di	di	ADP	E	_	7	case	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	mercato	mercato	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	TokenRange=189291:189298	usemID:USem68421mercato	synsetID:25366;senseID:37068
+8	interno	interno	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	TokenRange=189299:189306	usemID:missing	synsetID:45143;senseID:60966
+9	(	(	PUNCT	FB	_	10	punct	_	SpaceAfter=No|TokenRange=189307:189308
+10	IMI	IMI	PROPN	SP	_	2	appos	_	SpaceAfter=No|TokenRange=189308:189311
+11	)	)	PUNCT	FB	_	10	punct	_	TokenRange=189311:189312
+12	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	TokenRange=189313:189314
+13	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	TokenRange=189315:189318
+14	strumento	strumento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	TokenRange=189319:189328	usemID:USem2878strumento	synsetID:21388;senseID:28542
+15	elettronico	elettronico	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	TokenRange=189329:189340	usemID:USem61946elettronico	synsetID:44852;senseID:60634
+16	concepito	concepire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	TokenRange=189341:189350
+17	per	per	ADP	E	_	18	mark	_	TokenRange=189351:189354
+18	migliorare	migliorare	VERB	V	VerbForm=Inf	16	advcl	_	TokenRange=189355:189365	usemID:USem60203migliorare	synsetID:38725;senseID:51862
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	TokenRange=189366:189368
+20	comunicazione	comunicazione	NOUN	S	Gender=Fem|Number=Sing	18	obj	_	TokenRange=189369:189382	usemID:USem6474comunicazione	synsetID:13592;senseID:20391
+21	e	e	CCONJ	CC	_	23	cc	_	TokenRange=189383:189384
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	TokenRange=189385:189387
+23	collaborazione	collaborazione	NOUN	S	Gender=Fem|Number=Sing	20	conj	_	TokenRange=189388:189402	usemID:USem60400collaborazione	synsetID:150;senseID:747
+24	tra	tra	ADP	E	_	26	case	_	TokenRange=189403:189406
+25	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	TokenRange=189407:189410
+26	enti	ente	NOUN	S	Gender=Masc|Number=Plur	23	nmod	_	TokenRange=189411:189415	usemID:USem903ente	synsetID:51166;senseID:68250
+27	pubblici	pubblico	ADJ	A	Gender=Masc|Number=Plur	26	amod	_	TokenRange=189416:189424	usemID:missing	synsetID:51166;senseID:68250
+28	che	che	PRON	PR	PronType=Rel	29	nsubj	_	TokenRange=189425:189428
+29	operano	operare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	TokenRange=189429:189436	usemID:USem62857operare	synsetID:35646;senseID:47813
+30-31	all'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=189437:189441
+30	a	a	ADP	E	_	32	case	_	_
+31	l'	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	interno	interno	NOUN	S	Gender=Masc|Number=Sing	29	obl	_	TokenRange=189441:189448	usemID:USem66596interno	synsetID:10642;senseID:16635
+33-34	dell'	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=189449:189454
+33	di	di	ADP	E	_	35	case	_	_
+34	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	35	det	_	_
+35	area	area	NOUN	S	Gender=Fem|Number=Sing	32	nmod	_	TokenRange=189454:189458	usemID:USem67916area	synsetID:304;senseID:1024
+36	economica	economico	ADJ	A	Gender=Fem|Number=Sing	35	amod	_	TokenRange=189459:189468	usemID:USem61949economico	synsetID:45219;senseID:61043
+37	europea	europeo	ADJ	A	Gender=Fem|Number=Sing	35	amod	_	SpaceAfter=No|TokenRange=189469:189476	usemID:missing	synsetID:44257;senseID:59937
+38	.	.	PUNCT	FS	_	14	punct	_	SpacesAfter=\n|TokenRange=189476:189477
+
+# sent_id = 1949
+# text = Nel Sistema solare esterno le comete rimangono in uno stato congelato ed è estremamente difficile o impossibile rilevarle dalla Terra a causa delle loro ridotte dimensioni.
+1-2	Nel	_	_	_	_	_	_	_	TokenRange=194109:194112
+1	In	in	ADP	E	_	3	case	_	_
+2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Sistema	sistema	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	TokenRange=194113:194120	usemID:missing	synsetID:3045;senseID:5729
+4	solare	solare	ADJ	A	Number=Sing	3	amod	_	TokenRange=194121:194127	usemID:USem61940solare	synsetID:44339;senseID:60039
+5	esterno	esterno	ADJ	A	Gender=Masc|Number=Sing	3	amod	_	TokenRange=194128:194135	usemID:USem67738esterno	synsetID:41420;senseID:56408
+6	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	TokenRange=194136:194138
+7	comete	cometa	NOUN	S	Gender=Fem|Number=Plur	8	nsubj	_	TokenRange=194139:194145	usemID:USem69724cometa	synsetID:28939;senseID:37939
+8	rimangono	rimanere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=194146:194155	usemID:USem59620rimanere	synsetID:34141;senseID:47175
+9	in	in	ADP	E	_	11	case	_	TokenRange=194156:194158
+10	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	TokenRange=194159:194162
+11	stato	stato	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	TokenRange=194163:194168	usemID:USemD5333stato	synsetID:16109;senseID:23511
+12	congelato	congelato	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	TokenRange=194169:194178	usemID:missing	synsetID:missing;senseID:missing
+13	ed	e	CCONJ	CC	_	16	cc	_	TokenRange=194179:194181
+14	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	TokenRange=194182:194183
+15	estremamente	estremamente	ADV	B	_	16	advmod	_	TokenRange=194184:194196	usemID:missing	synsetID:50067;senseID:66680
+16	difficile	difficile	ADJ	A	Number=Sing	8	conj	_	TokenRange=194197:194206	usemID:USemD6758difficile	synsetID:43887;senseID:59442
+17	o	o	CCONJ	CC	_	18	cc	_	TokenRange=194207:194208
+18	impossibile	impossibile	ADJ	A	Number=Sing	16	conj	_	TokenRange=194209:194220	usemID:USem62009impossibile	synsetID:44176;senseID:59840
+19-20	rilevarle	_	_	_	_	_	_	_	TokenRange=194221:194230	usemID:USem66035rilevare	synsetID:34468;senseID:47771
+19	rilevar	rilevare	VERB	V	VerbForm=Inf	16	csubj	_	_
+20	le	le	PRON	PC	Clitic=Yes|Gender=Fem|Number=Plur|Person=3|PronType=Prs	19	obj	_	_
+21-22	dalla	_	_	_	_	_	_	_	TokenRange=194231:194236
+21	da	da	ADP	E	_	23	case	_	_
+22	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	Terra	Terra	PROPN	SP	_	19	obl	_	TokenRange=194237:194242
+24	a	a	ADP	E	_	25	case	_	TokenRange=194243:194244
+25	causa	causa	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	TokenRange=194245:194250	usemID:USem3281causa	synsetID:6124;senseID:10371
+26-27	delle	_	_	_	_	_	_	_	TokenRange=194251:194256
+26	di	di	ADP	E	_	30	case	_	_
+27	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
+28	loro	loro	DET	AP	Poss=Yes|PronType=Prs	30	det:poss	_	TokenRange=194257:194261
+29	ridotte	ridotto	ADJ	A	Gender=Fem|Number=Plur	30	amod	_	TokenRange=194262:194269	usemID:USemD66810ridotto	synsetID:44688;senseID:60448
+30	dimensioni	dimensione	NOUN	S	Gender=Fem|Number=Plur	25	nmod	_	SpaceAfter=No|TokenRange=194270:194280	usemID:USem2453dimensione	synsetID:14595;senseID:21654
+31	.	.	PUNCT	FS	_	8	punct	_	SpacesAfter=\n|TokenRange=194280:194281
+
+# sent_id = 1961
+# text = Suo padre, Schmuel Daum, noto educatore, scrittore nonché significativa figura collettiva, proveniva da una famiglia rabbinica di spicco di Polonia e Boemia.
+1	Suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det:poss	_	TokenRange=195379:195382
+2	padre	padre	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	SpaceAfter=No|TokenRange=195383:195388	usemID:USem4068padre	synsetID:6982;senseID:11632
+3	,	,	PUNCT	FF	_	2	punct	_	TokenRange=195388:195389
+4	Schmuel	Schmuel	PROPN	SP	_	2	appos	_	TokenRange=195390:195397
+5	Daum	Daum	PROPN	SP	_	4	flat:name	_	SpaceAfter=No|TokenRange=195398:195402
+6	,	,	PUNCT	FF	_	2	punct	_	TokenRange=195402:195403
+7	noto	noto	ADJ	A	Gender=Masc|Number=Sing	8	amod	_	TokenRange=195404:195408	usemID:USemD7026noto	synsetID:42658;senseID:57520 
+8	educatore	educatore	NOUN	S	Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No|TokenRange=195409:195418	usemID:USemTH5040educatore	synsetID:28206;senseID:34316
+9	,	,	PUNCT	FF	_	10	punct	_	TokenRange=195418:195419
+10	scrittore	scrittore	NOUN	S	Gender=Masc|Number=Sing	8	conj	_	TokenRange=195420:195429	usemID:USem4953scrittore	synsetID:25523;senseID:37241
+11	nonché	nonché	CCONJ	CC	_	13	cc	_	TokenRange=195430:195436
+12	significativa	significativo	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	TokenRange=195437:195450	usemID:USemD66674significativo	synsetID:42456;senseID:57144
+13	figura	figura	NOUN	S	Gender=Fem|Number=Sing	8	conj	_	TokenRange=195451:195457	usemID:USem67815figura	synsetID:7031;senseID:11686
+14	collettiva	collettivo	ADJ	A	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No|TokenRange=195458:195468	usemID:USemD66111collettivo	synsetID:44010;senseID:59621
+15	,	,	PUNCT	FF	_	2	punct	_	TokenRange=195468:195469
+16	proveniva	provenire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	TokenRange=195470:195479	usemID:USem7003provenire	synsetID:31865;senseID:41016
+17	da	da	ADP	E	_	19	case	_	TokenRange=195480:195482
+18	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	TokenRange=195483:195486
+19	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	TokenRange=195487:195495	usemID:USemD5487famiglia	synsetID:14044;senseID:20950
+20	rabbinica	rabbinico	ADJ	A	Gender=Fem|Number=Sing	19	amod	_	TokenRange=195496:195505	usemID:missing	synsetID:missing;senseID:missing 
+21	di	di	ADP	E	_	22	case	_	TokenRange=195506:195508
+22	spicco	spicco	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	TokenRange=195509:195515	usemID:USem75501spicco	synsetID:2881;senseID:5460
+23	di	di	ADP	E	_	24	case	_	TokenRange=195516:195518
+24	Polonia	Polonia	PROPN	SP	_	22	nmod	_	TokenRange=195519:195526
+25	e	e	CCONJ	CC	_	26	cc	_	TokenRange=195527:195528
+26	Boemia	Boemia	PROPN	SP	_	24	conj	_	SpaceAfter=No|TokenRange=195529:195535
+27	.	.	PUNCT	FS	_	16	punct	_	SpacesAfter=\n|TokenRange=195535:195536
+
+# sent_id = 2021
+# text = Adolfo prese parte a spedizioni archeologiche in Cina, Grecia, Corea e Italia e fondò l'Istituto svedese di studi classici a Roma.
+1	Adolfo	Adolfo	PROPN	SP	_	2	nsubj	_	TokenRange=201616:201622
+2	prese	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=201623:201628	usemID:missing	MW[0]-synsetID:34297;senseID:47462
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	TokenRange=201629:201634	usemID:missing	MW[0]-synsetID:34297;senseID:47462
+4	a	a	ADP	E	_	5	case	_	TokenRange=201635:201636
+5	spedizioni	spedizione	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	TokenRange=201637:201647	usemID:missing	synsetID:23913;senseID:32499
+6	archeologiche	archeologico	ADJ	A	Gender=Fem|Number=Plur	5	amod	_	TokenRange=201648:201661	usemID:USem61877archeologico	synsetID:42832;senseID:57819
+7	in	in	ADP	E	_	8	case	_	TokenRange=201662:201664
+8	Cina	Cina	PROPN	SP	_	5	nmod	_	SpaceAfter=No|TokenRange=201665:201669
+9	,	,	PUNCT	FF	_	10	punct	_	TokenRange=201669:201670
+10	Grecia	Grecia	PROPN	SP	_	8	conj	_	SpaceAfter=No|TokenRange=201671:201677
+11	,	,	PUNCT	FF	_	12	punct	_	TokenRange=201677:201678
+12	Corea	Corea	PROPN	SP	_	8	conj	_	TokenRange=201679:201684
+13	e	e	CCONJ	CC	_	14	cc	_	TokenRange=201685:201686
+14	Italia	Italia	PROPN	SP	_	8	conj	_	TokenRange=201687:201693
+15	e	e	CCONJ	CC	_	16	cc	_	TokenRange=201694:201695
+16	fondò	fondare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	TokenRange=201696:201701	usemID:USemD3566fondare	synsetID:32450;senseID:42299
+17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No|TokenRange=201702:201704
+18	Istituto	istituto	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	TokenRange=201704:201712	usemID:USem4589istituto	synsetID:10895;senseID:16963
+19	svedese	svedese	ADJ	A	Number=Sing	18	amod	_	TokenRange=201713:201720	usemID:USemD63832svedese	synsetID:41899;senseID:54623
+20	di	di	ADP	E	_	21	case	_	TokenRange=201721:201723
+21	studi	studio	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	TokenRange=201724:201729	usemID:USem60502studio	synsetID:missing;senseID:missing
+22	classici	classico	ADJ	A	Gender=Masc|Number=Plur	21	amod	_	TokenRange=201730:201738	usemID:missing	synsetID:missing;senseID:missing
+23	a	a	ADP	E	_	24	case	_	TokenRange=201739:201740
+24	Roma	Roma	PROPN	SP	_	18	nmod	_	SpaceAfter=No|TokenRange=201741:201745
+25	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n|TokenRange=201745:201746
+
+# sent_id = 2049
+# text = gli aspetti ecologici e ambientali, come ad esempio attività di ricerca e sviluppo, l'automazione, la tecnologia di incentivi e il tasso di cambiamento tecnologico.
+1	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	TokenRange=204349:204352
+2	aspetti	aspetto	NOUN	S	Gender=Masc|Number=Plur	0	root	_	TokenRange=204353:204360	usemID:USem62403aspetto	synsetID:12918;senseID:19530
+3	ecologici	ecologico	ADJ	A	Gender=Masc|Number=Plur	2	amod	_	TokenRange=204361:204370	usemID:missing	synsetID:43583;senseID:59025
+4	e	e	CCONJ	CC	_	5	cc	_	TokenRange=204371:204372
+5	ambientali	ambientale	ADJ	A	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=204373:204383	usemID:missing	synsetID:43052;senseID:58194
+6	,	,	PUNCT	FF	_	2	punct	_	TokenRange=204383:204384
+7	come	come	ADP	E	_	10	case	_	TokenRange=204385:204389
+8	ad	a	ADP	E	_	9	case	_	TokenRange=204390:204392
+9	esempio	esempio	NOUN	S	Gender=Masc|Number=Sing	10	nmod	_	TokenRange=204393:204400	usemID:USem63154esempio	synsetID:16269;senseID:23706
+10	attività	attività	NOUN	S	Gender=Fem	2	nmod	_	TokenRange=204401:204409	usemID:USemD5408attivita1	synsetID:16077;senseID:23464
+11	di	di	ADP	E	_	12	case	_	TokenRange=204410:204412
+12	ricerca	ricerca	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	TokenRange=204413:204420	usemID:USem59799ricerca	synsetID:24169;senseID:32792
+13	e	e	CCONJ	CC	_	14	cc	_	TokenRange=204421:204422
+14	sviluppo	sviluppo	NOUN	S	Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=204423:204431	usemID:USem61654sviluppo	synsetID:7068;senseID:11735
+15	,	,	PUNCT	FF	_	17	punct	_	TokenRange=204431:204432
+16	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	17	det	_	SpaceAfter=No|TokenRange=204433:204435
+17	automazione	automazione	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No|TokenRange=204435:204446	usemID:USem77023automazione	synsetID:26008;senseID:35868
+18	,	,	PUNCT	FF	_	20	punct	_	TokenRange=204446:204447
+19	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	TokenRange=204448:204450
+20	tecnologia	tecnologia	NOUN	S	Gender=Fem|Number=Sing	10	conj	_	TokenRange=204451:204461	usemID:USem52tecnologia	synsetID:1907;senseID:3748
+21	di	di	ADP	E	_	22	case	_	TokenRange=204462:204464
+22	incentivi	incentivo	NOUN	S	Gender=Masc|Number=Plur	20	nmod	_	TokenRange=204465:204474	usemID:USem72259incentivo	synsetID:13986;senseID:20885
+23	e	e	CCONJ	CC	_	25	cc	_	TokenRange=204475:204476
+24	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	TokenRange=204477:204479
+25	tasso	tasso	NOUN	S	Gender=Masc|Number=Sing	10	conj	_	TokenRange=204480:204485	usemID:USem1194tasso	synsetID:22613;senseID:31029
+26	di	di	ADP	E	_	27	case	_	TokenRange=204486:204488
+27	cambiamento	cambiamento	NOUN	S	Gender=Masc|Number=Sing	25	nmod	_	TokenRange=204489:204500	usemID:USem3960cambiamento	synsetID:785;senseID:1791 
+28	tecnologico	tecnologico	ADJ	A	Gender=Masc|Number=Sing	27	amod	_	SpaceAfter=No|TokenRange=204501:204512	usemID:missing	synsetID:41622;senseID:54012
+29	.	.	PUNCT	FS	_	2	punct	_	SpacesAfter=\n|TokenRange=204512:204513
+
+# sent_id = 2071
+# text = Un robot non può ferire un essere umano né permettere che, a causa del proprio mancato intervento, un essere umano venga ferito.
+1	Un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	TokenRange=206711:206713
+2	robot	robot	NOUN	S	Gender=Masc	5	nsubj	_	TokenRange=206714:206719	usemID:USem75223robot	synsetID:7037;senseID:11695
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	TokenRange=206720:206723
+4	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=206724:206727
+5	ferire	ferire	VERB	V	VerbForm=Inf	0	root	_	TokenRange=206728:206734	usemID:USem59994ferire	synsetID:34024;senseID:46964
+6	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	TokenRange=206735:206737
+7	essere	essere	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	TokenRange=206738:206744	usemID:USem69158essere	synsetID:15545;senseID:22817
+8	umano	umano	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	TokenRange=206745:206750	usemID:USem77874umano	synsetID:42638;senseID:57486
+9	né	né	CCONJ	CC	_	10	cc	_	TokenRange=206751:206753
+10	permettere	permettere	VERB	V	VerbForm=Inf	5	conj	_	TokenRange=206754:206764	usemID:USem61321permettere	synsetID:32119;senseID:41562
+11	che	che	SCONJ	CS	_	25	mark	_	SpaceAfter=No|TokenRange=206765:206768
+12	,	,	PUNCT	FF	_	25	punct	_	TokenRange=206768:206769
+13	a	a	ADP	E	_	14	case	_	TokenRange=206770:206771
+14	causa	causa	NOUN	S	Gender=Fem|Number=Sing	25	obl	_	TokenRange=206772:206777	usemID:USem3281causa	synsetID:2730;senseID:5161
+15-16	del	_	_	_	_	_	_	_	TokenRange=206778:206781
+15	di	di	ADP	E	_	19	case	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+17	proprio	proprio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det:poss	_	TokenRange=206782:206789
+18	mancato	mancato	ADJ	A	Gender=Masc|Number=Sing	19	amod	_	TokenRange=206790:206797	usemID:USemD66695mancato	synsetID:41686;senseID:54156
+19	intervento	intervento	NOUN	S	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No|TokenRange=206798:206808	usemID:USem72496intervento	synsetID:8457;senseID:14835
+20	,	,	PUNCT	FF	_	14	punct	_	TokenRange=206808:206809
+21	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	TokenRange=206810:206812
+22	essere	essere	NOUN	S	Gender=Masc|Number=Sing	25	nsubj:pass	_	TokenRange=206813:206819	usemID:USem69158essere	synsetID:15545;senseID:22817
+23	umano	umano	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	TokenRange=206820:206825	usemID:USem77874umano	synsetID:42638;senseID:57486
+24	venga	venire	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux:pass	_	TokenRange=206826:206831
+25	ferito	ferire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	ccomp	_	SpaceAfter=No|TokenRange=206832:206838	usemID:USem59994ferire	synsetID:34024;senseID:46964
+26	.	.	PUNCT	FS	_	5	punct	_	SpacesAfter=\n|TokenRange=206838:206839

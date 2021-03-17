@@ -1,0 +1,1890 @@
+# sent_id = 20
+# text = In questo giorno si sono svolte partite amichevoli, flash mob, maratone radio, masterclass, trasmissioni televisive, sessioni aperte di allenamento, ecc. In Grecia Theodoras Zagorakis, vincitore del campionato europeo di calcio 2004, ha assistito all'evento con la sua squadra nazionale.
+1	In	in	ADP	_	_	_	_	_	_
+2	questo	questo	DET	_	_	_	_	_	_
+3	giorno	giorno	NOUN	_	_	_	_	_	_	usemID:USemD3481giorno	synsetID:12263;senseID:18714
+4	si	si	PRON	_	_	_	_	_	_
+5	sono	essere	AUX	_	_	_	_	_	_
+6	svolte	svolgere	VERB	_	_	_	_	_	_	usemID:USem59674svolgere	synsetID:missing;senseID:missing
+7	partite	partita	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:14737;senseID:21846
+8	amichevoli	amichevole	ADJ	_	_	_	_	_	_	usemID:USemD6926amichevole	synsetID:44081;senseID:59715
+9	,	,	PUNCT	_	_	_	_	_	_
+10	flash	flash	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+11	mob	mob	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+12	,	,	PUNCT	_	_	_	_	_	_
+13	maratone	maratona	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+14	radio	radio	NOUN	_	_	_	_	_	_	usemID:USem68006radio	synsetID:6074;senseID:10295
+15	,	,	PUNCT	_	_	_	_	_	_
+16	masterclass	masterclass	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+17	,	,	PUNCT	_	_	_	_	_	_
+18	trasmissioni	trasmissione	NOUN	_	_	_	_	_	_	usemID:USemD63642trasmissione	synsetID:778;senseID:1776
+19	televisive	televisivo	ADJ	_	_	_	_	_	_	usemID:USem71816televisivo	synsetID:43996;senseID:59604
+20	,	,	PUNCT	_	_	_	_	_	_
+21	sessioni	sessione	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:21162;senseID:28269
+22	aperte	aperto	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+23	di	di	ADP	_	_	_	_	_	_
+24	allenamento	allenamento	NOUN	_	_	_	_	_	_	usemID:USem59903allenamento	synsetID:8624;senseID:15072
+25	,	,	PUNCT	_	_	_	_	_	_
+26	ecc	eccetera	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+27	.	.	PUNCT	_	_	_	_	_	_
+28	In	in	ADP	_	_	_	_	_	_
+29	Grecia	Grecia	PROPN	_	_	_	_	_	_
+30	Theodoras	Theodoras	PROPN	_	_	_	_	_	_
+31	Zagorakis	Zagorakis	PROPN	_	_	_	_	_	_
+32	,	,	PUNCT	_	_	_	_	_	_
+33	vincitore	vincitore	NOUN	_	_	_	_	_	_	usemID:USem5550vincitore	synsetID:26067;senseID:35932
+34-35	del	_	_	_	_	_	_	_	_
+34	di	di	ADP	_	_	_	_	_	_
+35	il	il	DET	_	_	_	_	_	_
+36	campionato	campionato	NOUN	_	_	_	_	_	_	usemID:USem73375campionato	synsetID:27244;senseID:35284
+37	europeo	europeo	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44257;senseID:59937
+38	di	di	ADP	_	_	_	_	_	_
+39	calcio	calcio	NOUN	_	_	_	_	_	_	usemID:USem62470calcio	synsetID:1284;senseID:2681
+40	2004	2004	NUM	_	_	_	_	_	_
+41	,	,	PUNCT	_	_	_	_	_	_
+42	ha	avere	AUX	_	_	_	_	_	_
+43	assistito	assistere	VERB	_	_	_	_	_	_	usemID:USem59655assistere	synsetID:32355;senseID:42099
+44-45	all'	_	_	_	_	_	_	_	_
+44	a	a	ADP	_	_	_	_	_	_
+45	l'	il	DET	_	_	_	_	_	_
+46	evento	evento	NOUN	_	_	_	_	_	_	usemID:USem62445evento	synsetID:8509;senseID:14912
+47	con	con	ADP	_	_	_	_	_	_
+48	la	il	DET	_	_	_	_	_	_
+49	sua	suo	DET	_	_	_	_	_	_
+50	squadra	squadra	NOUN	_	_	_	_	_	_	usemID:USem59495squadra	synsetID:3863;senseID:7029
+51	nazionale	nazionale	ADJ	_	_	_	_	_	_	usemID:USemD76679nazionale	synsetID:41665;senseID:54107
+52	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 21
+# text = L'obiettivo del programma è quello di trasmettere alle generazioni più giovani valori importanti e l'interesse per uno stile di vita salutare attraverso il gioco del calcio.
+1	L'	il	DET	_	_	_	_	_	_
+2	obiettivo	obiettivo	NOUN	_	_	_	_	_	_	usemID:USem3985obiettivo	synsetID:2778;senseID:5248
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	_	_	_	_	_	_
+4	il	il	DET	_	_	_	_	_	_
+5	programma	programma	NOUN	_	_	_	_	_	_	usemID:USem61477programma	synsetID:776;senseID:1772
+6	è	essere	AUX	_	_	_	_	_	_
+7	quello	quello	PRON	_	_	_	_	_	_
+8	di	di	ADP	_	_	_	_	_	_
+9	trasmettere	trasmettere	VERB	_	_	_	_	_	_	usemID:USem79545trasmettere	synsetID:38440;senseID:51534
+10-11	alle	_	_	_	_	_	_	_	_
+10	a	a	ADP	_	_	_	_	_	_
+11	le	il	DET	_	_	_	_	_	_
+12	generazioni	generazione	NOUN	_	_	_	_	_	_	usemID:USem72093generazione	synsetID:21444;senseID:28603
+13	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67494
+14	giovani	giovane	ADJ	_	_	_	_	_	_	usemID:USemD6484giovane	synsetID:44695;senseID:60458
+15	valori	valore	NOUN	_	_	_	_	_	_	usemID:USem1352valore	synsetID:14601;senseID:21665
+16	importanti	importante	ADJ	_	_	_	_	_	_	usemID:USemD6518importante	synsetID:42456;senseID:57145
+17	e	e	CCONJ	_	_	_	_	_	_
+18	l'	il	DET	_	_	_	_	_	_
+19	interesse	interesse	NOUN	_	_	_	_	_	_	usemID:USem79573interesse	synsetID:29951;senseID:39004
+20	per	per	ADP	_	_	_	_	_	_
+21	uno	uno	DET	_	_	_	_	_	_
+22	stile	stile	NOUN	_	_	_	_	_	_	usemID:USem59648stile	synsetID:1760;senseID:3483
+23	di	di	ADP	_	_	_	_	_	_
+24	vita	vita	NOUN	_	_	_	_	_	_	usemID:USem67701vita	synsetID:24349;senseID:32995
+25	salutare	salutare	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41718;senseID:54220
+26	attraverso	attraverso	ADP	_	_	_	_	_	_
+27	il	il	DET	_	_	_	_	_	_
+28	gioco	gioco	NOUN	_	_	_	_	_	_	usemID:USem60476gioco	synsetID:5055;senseID:8813
+29-30	del	_	_	_	_	_	_	_	_
+29	di	di	ADP	_	_	_	_	_	_
+30	il	il	DET	_	_	_	_	_	_
+31	calcio	calcio	NOUN	_	_	_	_	_	_	usemID:USem62470calcio	synsetID:1284;senseID:2681
+32	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 79
+# text = L'interfaccia è disponibile nelle 24 lingue ufficiali dell'UE, ma la maggior parte dei metadati sono attualmente forniti in un numero limitato di lingue (inglese, francese e tedesco).
+1	L'	il	DET	_	_	_	_	_	_
+2	interfaccia	interfaccia	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:25186;senseID:36871
+3	è	essere	AUX	_	_	_	_	_	_
+4	disponibile	disponibile	ADJ	_	_	_	_	_	_	usemID:Sem79738disponibile	synsetID:42312;senseID:56858
+5-6	nelle	_	_	_	_	_	_	_	_
+5	in	in	ADP	_	_	_	_	_	_
+6	le	il	DET	_	_	_	_	_	_
+7	24	24	NUM	_	_	_	_	_	_
+8	lingue	lingua	NOUN	_	_	_	_	_	_	usemID:USem4353lingua	synsetID:6571;senseID:11014
+9	ufficiali	ufficiale	ADJ	_	_	_	_	_	_	usemID:USem79448ufficiale	synsetID:42330;senseID:56883
+10-11	dell'	_	_	_	_	_	_	_	_
+10	di	di	ADP	_	_	_	_	_	_
+11	l'	il	DET	_	_	_	_	_	_
+12	UE	UE	PROPN	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	ma	ma	CCONJ	_	_	_	_	_	_
+15	la	il	DET	_	_	_	_	_	_
+16	maggior	maggiore	ADJ	_	_	_	_	_	_	usemID:USemD5448maggiore	MW[0]-synsetID:28702;senseID:34838
+17	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	MW[0]-synsetID:28702;senseID:34838
+18-19	dei	_	_	_	_	_	_	_	_
+18	di	di	ADP	_	_	_	_	_	_
+19	i	il	DET	_	_	_	_	_	_
+20	metadati	metadato	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+21	sono	essere	AUX	_	_	_	_	_	_
+22	attualmente	attualmente	ADV	_	_	_	_	_	_	usemID:missing	synsetID:48835;senseID:65095
+23	forniti	fornire	VERB	_	_	_	_	_	_	usemID:USem76787fornire	synsetID:32780;senseID:42934
+24	in	in	ADP	_	_	_	_	_	_
+25	un	uno	DET	_	_	_	_	_	_
+26	numero	numero	NOUN	_	_	_	_	_	_	usemID:USem2670numero	synsetID:17385;senseID:25022
+27	limitato	limitato	ADJ	_	_	_	_	_	_	usemID:USem76450limitato	synsetID:42796;senseID:57757
+28	di	di	ADP	_	_	_	_	_	_
+29	lingue	lingua	NOUN	_	_	_	_	_	_	usemID:USem4353lingua	synsetID:6571;senseID:11014
+30	(	(	PUNCT	_	_	_	_	_	_
+31	inglese	inglese	NOUN	_	_	_	_	_	_	usemID:USem1042inglese	synsetID:23744;senseID:32292
+32	,	,	PUNCT	_	_	_	_	_	_
+33	francese	francese	NOUN	_	_	_	_	_	_	usemID:USem1040francese	synsetID:3335;senseID:6175
+34	e	e	CCONJ	_	_	_	_	_	_
+35	tedesco	tedesco	ADJ	_	_	_	_	_	_	usemID:USem1057tedesco	synsetID:14420;senseID:21417
+36	)	)	PUNCT	_	_	_	_	_	_
+37	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 81
+# text = Gli Stati membri designano le autorità nazionali di gestione del FSE responsabili per la selezione dei progetti, per l'erogazione dei fondi e per la valutazione dei progressi e dei risultati dei progetti.
+1	Gli	il	DET	_	_	_	_	_	_
+2	Stati	stato	NOUN	_	_	_	_	_	_	usemID:USem4117stato	synsetID:16111;senseID:23513
+3	membri	membro	NOUN	_	_	_	_	_	_	usemID:USem3617membro	synsetID:23904;senseID:32488
+4	designano	designare	VERB	_	_	_	_	_	_	usemID:USem74829designare	synsetID:35363;senseID:45495
+5	le	il	DET	_	_	_	_	_	_
+6	autorità	autorità	NOUN	_	_	_	_	_	_	usemID:USemTH38979autorita1	synsetID:7721;senseID:12622
+7	nazionali	nazionale	ADJ	_	_	_	_	_	_	usemID:USem61918nazionale	synsetID:41665;senseID:54107
+8	di	di	ADP	_	_	_	_	_	_
+9	gestione	gestione	NOUN	_	_	_	_	_	_	usemID:USem60352gestione	synsetID:26056;senseID:35922
+10-11	del	_	_	_	_	_	_	_	_
+10	di	di	ADP	_	_	_	_	_	_
+11	il	il	DET	_	_	_	_	_	_
+12	FSE	FSE	PROPN	_	_	_	_	_	_
+13	responsabili	responsabile	ADJ	_	_	_	_	_	_	usemID:USemD78227responsabile	synsetID:45144;senseID:60967
+14	per	per	ADP	_	_	_	_	_	_
+15	la	il	DET	_	_	_	_	_	_
+16	selezione	selezione	NOUN	_	_	_	_	_	_	usemID:USem79603selezione	synsetID:3395;senseID:6259
+17-18	dei	_	_	_	_	_	_	_	_
+17	di	di	ADP	_	_	_	_	_	_
+18	i	il	DET	_	_	_	_	_	_
+19	progetti	progetto	NOUN	_	_	_	_	_	_	usemID:USem61490progetto	synsetID:17952;senseID:25666
+20	,	,	PUNCT	_	_	_	_	_	_
+21	per	per	ADP	_	_	_	_	_	_
+22	l'	il	DET	_	_	_	_	_	_
+23	erogazione	erogazione	NOUN	_	_	_	_	_	_	usemID:USem72102erogazione	synsetID:24642;senseID:33312
+24-25	dei	_	_	_	_	_	_	_	_
+24	di	di	ADP	_	_	_	_	_	_
+25	i	il	DET	_	_	_	_	_	_
+26	fondi	fondo	NOUN	_	_	_	_	_	_	usemID:USemD64039fondo	synsetID:15606;senseID:22904
+27	e	e	CCONJ	_	_	_	_	_	_
+28	per	per	ADP	_	_	_	_	_	_
+29	la	il	DET	_	_	_	_	_	_
+30	valutazione	valutazione	NOUN	_	_	_	_	_	_	usemID:USem60619valutazione	synsetID:7498;senseID:12324
+31-32	dei	_	_	_	_	_	_	_	_
+31	di	di	ADP	_	_	_	_	_	_
+32	i	il	DET	_	_	_	_	_	_
+33	progressi	progresso	NOUN	_	_	_	_	_	_	usemID:USem61706progresso	synsetID:6744;senseID:11274
+34	e	e	CCONJ	_	_	_	_	_	_
+35-36	dei	_	_	_	_	_	_	_	_
+35	di	di	ADP	_	_	_	_	_	_
+36	i	il	DET	_	_	_	_	_	_
+37	risultati	risultato	NOUN	_	_	_	_	_	_	usemID:USemD65468risultato	synsetID:1603;senseID:3202
+38-39	dei	_	_	_	_	_	_	_	_
+38	di	di	ADP	_	_	_	_	_	_
+39	i	il	DET	_	_	_	_	_	_
+40	progetti	progetto	NOUN	_	_	_	_	_	_	usemID:USem61490progetto	synsetID:17952;senseID:25666
+41	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 87
+# text = L'IMI consente alle amministrazioni pubbliche a livello nazionale, regionale e locale di identificare la propria controparte negli altri Stati membri e facilitare lo scambio reciproco d'informazioni.
+1	L'	il	DET	_	_	_	_	_	_
+2	IMI	IMI	PROPN	_	_	_	_	_	_
+3	consente	consentire	VERB	_	_	_	_	_	_	usemID:USem79734consentire	synsetID:32119;senseID:41561 
+4-5	alle	_	_	_	_	_	_	_	_
+4	a	a	ADP	_	_	_	_	_	_
+5	le	il	DET	_	_	_	_	_	_
+6	amministrazioni	amministrazione	NOUN	_	_	_	_	_	_	usemID:USemD5248amministrazione	synsetID:31397;senseID:40466
+7	pubbliche	pubblico	ADJ	_	_	_	_	_	_	usemID: missing	synsetID:41558;senseID:53862
+8	a	a	ADP	_	_	_	_	_	_
+9	livello	livello	NOUN	_	_	_	_	_	_	usemID:USem79553livello	synsetID:7273;senseID:12007
+10	nazionale	nazionale	ADJ	_	_	_	_	_	_	usemID:USem61918nazionale	synsetID:41665;senseID:54107
+11	,	,	PUNCT	_	_	_	_	_	_
+12	regionale	regionale	ADJ	_	_	_	_	_	_	usemID:USem61917regionale	synsetID:41566;senseID:53877
+13	e	e	CCONJ	_	_	_	_	_	_
+14	locale	locale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42898;senseID:57927
+15	di	di	ADP	_	_	_	_	_	_
+16	identificare	identificare	VERB	_	_	_	_	_	_	usemID:USem64657identificare	synsetID:missing;senseID:missing
+17	la	il	DET	_	_	_	_	_	_
+18	propria	proprio	DET	_	_	_	_	_	_
+19	controparte	controparte	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+20-21	negli	_	_	_	_	_	_	_	_
+20	in	in	ADP	_	_	_	_	_	_
+21	gli	il	DET	_	_	_	_	_	_
+22	altri	altro	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42674;senseID:57544
+23	Stati	stato	NOUN	_	_	_	_	_	_	usemID:USem4117stato	synsetID:16111;senseID:23513
+24	membri	membro	NOUN	_	_	_	_	_	_	usemID:USem3617membro	synsetID:23904;senseID:32488
+25	e	e	CCONJ	_	_	_	_	_	_
+26	facilitare	facilitare	VERB	_	_	_	_	_	_	usemID:USem63093facilitare	synsetID:35160;senseID:45182
+27	lo	il	DET	_	_	_	_	_	_
+28	scambio	scambio	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:11876;senseID:18239
+29	reciproco	reciproco	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41460;senseID:56507
+30	d'	di	ADP	_	_	_	_	_	_
+31	informazioni	informazione	NOUN	_	_	_	_	_	_	usemID:USem71060informazione	synsetID:13398;senseID:20135
+32	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 95
+# text = Il centro stampa internazionale dei bambini riunisce i vincitori dei concorsi nazionali per i migliori giovani giornalisti, giovani blogger, fotografi e scrittori.
+1	Il	il	DET	_	_	_	_	_	_
+2	centro	centro	NOUN	_	_	_	_	_	_	usemID:USem64432centro	synsetID:12443;senseID:18941
+3	stampa	stampa	NOUN	_	_	_	_	_	_	usemID:USem68017stampa	synsetID:9015;senseID:13329
+4	internazionale	internazionale	ADJ	_	_	_	_	_	_	usemID:USemD66639internazionale	synsetID:41900;senseID:54626
+5-6	dei	_	_	_	_	_	_	_	_
+5	di	di	ADP	_	_	_	_	_	_
+6	i	il	DET	_	_	_	_	_	_
+7	bambini	bambino	NOUN	_	_	_	_	_	_	usemID:USem3593bambino	synsetID:1325;senseID:2742
+8	riunisce	riunire	VERB	_	_	_	_	_	_	usemID:USem74943riunire	synsetID:37624;senseID:50519
+9	i	il	DET	_	_	_	_	_	_
+10	vincitori	vincitore	NOUN	_	_	_	_	_	_	usemID:USem5550vincitore	synsetID:26067;senseID:35932
+11-12	dei	_	_	_	_	_	_	_	_
+11	di	di	ADP	_	_	_	_	_	_
+12	i	il	DET	_	_	_	_	_	_
+13	concorsi	concorso	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:3622;senseID:6636
+14	nazionali	nazionale	ADJ	_	_	_	_	_	_	usemID:USemD76679nazionale	synsetID:41665;senseID:54107
+15	per	per	ADP	_	_	_	_	_	_
+16	i	il	DET	_	_	_	_	_	_
+17	migliori	migliore	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:45261;senseID:61089
+18	giovani	giovane	ADJ	_	_	_	_	_	_	usemID:USemD6484giovane	synsetID:44695;senseID:60458
+19	giornalisti	giornalista	NOUN	_	_	_	_	_	_	usemID:USem3351giornalista	synsetID:8935;senseID:13213
+20	,	,	PUNCT	_	_	_	_	_	_
+21	giovani	giovane	ADJ	_	_	_	_	_	_	usemID:USemD6484giovane	synsetID:44695;senseID:60458
+22	blogger	blogger	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+23	,	,	PUNCT	_	_	_	_	_	_
+24	fotografi	fotografo	NOUN	_	_	_	_	_	_	usemID:USem3348fotografo	synsetID:31167;senseID:40233
+25	e	e	CCONJ	_	_	_	_	_	_
+26	scrittori	scrittore	NOUN	_	_	_	_	_	_	usemID:USem4953scrittore	synsetID:25523;senseID:37241
+27	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 128
+# text = Nessuno nel nostro Paese – né i lavoratori o i contadini, gli scrittori o i dottori, né gli adulti o i bambini, né i membri del governo – desiderano una grande o "piccola" guerra.
+1	Nessuno	nessuno	PRON	_	_	_	_	_	_
+2-3	nel	_	_	_	_	_	_	_	_
+2	in	in	ADP	_	_	_	_	_	_
+3	il	il	DET	_	_	_	_	_	_
+4	nostro	nostro	DET	_	_	_	_	_	_
+5	Paese	paese	NOUN	_	_	_	_	_	_	usemID:USem2231paese	synsetID:16107;senseID:23507
+6	–	–	PUNCT	_	_	_	_	_	_
+7	né	né	CCONJ	_	_	_	_	_	_
+8	i	il	DET	_	_	_	_	_	_
+9	lavoratori	lavoratore	NOUN	_	_	_	_	_	_	usemID:USem72223lavoratore	synsetID:21747;senseID:26956
+10	o	o	CCONJ	_	_	_	_	_	_
+11	i	il	DET	_	_	_	_	_	_
+12	contadini	contadino	NOUN	_	_	_	_	_	_	usemID:USem4910contadino	synsetID:18494;senseID:26309
+13	,	,	PUNCT	_	_	_	_	_	_
+14	gli	il	DET	_	_	_	_	_	_
+15	scrittori	scrittore	NOUN	_	_	_	_	_	_	usemID:USem4953scrittore	synsetID:25523;senseID:37241
+16	o	o	CCONJ	_	_	_	_	_	_
+17	i	il	DET	_	_	_	_	_	_
+18	dottori	dottore	NOUN	_	_	_	_	_	_	usemID:USem69170dottore	synsetID:10396;senseID:16304
+19	,	,	PUNCT	_	_	_	_	_	_
+20	né	né	CCONJ	_	_	_	_	_	_
+21	gli	il	DET	_	_	_	_	_	_
+22	adulti	adulto	NOUN	_	_	_	_	_	_	usemID:USem64230adulto	synsetID:7532;senseID:12372
+23	o	o	CCONJ	_	_	_	_	_	_
+24	i	il	DET	_	_	_	_	_	_
+25	bambini	bambino	NOUN	_	_	_	_	_	_	usemID:USem3593bambino	synsetID:1325;senseID:2742 
+26	,	,	PUNCT	_	_	_	_	_	_
+27	né	né	CCONJ	_	_	_	_	_	_
+28	i	il	DET	_	_	_	_	_	_
+29	membri	membro	NOUN	_	_	_	_	_	_	usemID:USem3617membro	synsetID:29524;senseID:38560
+30-31	del	_	_	_	_	_	_	_	_
+30	di	di	ADP	_	_	_	_	_	_
+31	il	il	DET	_	_	_	_	_	_
+32	governo	governo	NOUN	_	_	_	_	_	_	usemID:USem59435governo	synsetID:2430;senseID:4614
+33	–	–	PUNCT	_	_	_	_	_	_
+34	desiderano	desiderare	VERB	_	_	_	_	_	_	usemID:USem4840desiderare	synsetID:37507;senseID:50377
+35	una	uno	DET	_	_	_	_	_	_
+36	grande	grande	ADJ	_	_	_	_	_	_	usemID:USem61817grande	synsetID:49910;senseID:66659
+37	o	o	CCONJ	_	_	_	_	_	_
+38	"	"	PUNCT	_	_	_	_	_	_
+39	piccola	piccolo	ADJ	_	_	_	_	_	_	usemID:USem61757piccolo	synsetID:44740;senseID:60508
+40	"	"	PUNCT	_	_	_	_	_	_
+41	guerra	guerra	NOUN	_	_	_	_	_	_	usemID:USemD6394guerra	synsetID:12178;senseID:18603 
+42	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 193
+# text = Un esempio di tale forma di archivio è rappresentato dall'elenco generale dei registri tenuti dalle autorità competenti nell'intera area economica europea.
+1	Un	uno	DET	_	_	_	_	_	_
+2	esempio	esempio	NOUN	_	_	_	_	_	_	usemID:USem63154esempio	synsetID:31531;senseID:40600
+3	di	di	ADP	_	_	_	_	_	_
+4	tale	tale	DET	_	_	_	_	_	_
+5	forma	forma	NOUN	_	_	_	_	_	_	usemID:USem2450forma	synsetID:1471;senseID:3000
+6	di	di	ADP	_	_	_	_	_	_
+7	archivio	archivio	NOUN	_	_	_	_	_	_	usemID:USem68876archivio	synsetID:13468;senseID:20229
+8	è	essere	AUX	_	_	_	_	_	_
+9	rappresentato	rappresentare	VERB	_	_	_	_	_	_	usemID:USemD3056rappresentare	synsetID:32671;senseID:42717
+10-11	dall'	_	_	_	_	_	_	_	_
+10	da	da	ADP	_	_	_	_	_	_
+11	l'	il	DET	_	_	_	_	_	_
+12	elenco	elenco	NOUN	_	_	_	_	_	_	usemID:USem61295elenco	synsetID:3706;senseID:6789
+13	generale	generale	ADJ	_	_	_	_	_	_	usemID:USemD65715generale	synsetID:42371;senseID:56970
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	_	_	_	_	_	_
+15	i	il	DET	_	_	_	_	_	_
+16	registri	registro	NOUN	_	_	_	_	_	_	usemID:USem74987registro	synsetID:3057;senseID:5746
+17	tenuti	tenere	VERB	_	_	_	_	_	_	usemID:missing	synsetID:35490;senseID:45669
+18-19	dalle	_	_	_	_	_	_	_	_
+18	da	da	ADP	_	_	_	_	_	_
+19	le	il	DET	_	_	_	_	_	_
+20	autorità	autorità	NOUN	_	_	_	_	_	_	usemID:USemTH38979autorita1	synsetID:7721;senseID:12622
+21	competenti	competente	ADJ	_	_	_	_	_	_	usemID:USemD2690competente	synsetID:43498;senseID:58894
+22-23	nell'	_	_	_	_	_	_	_	_
+22	in	in	ADP	_	_	_	_	_	_
+23	l'	il	DET	_	_	_	_	_	_
+24	intera	intero	ADJ	_	_	_	_	_	_	usemID:USem76332intero	synsetID:45227;senseID:61052
+25	area	area	NOUN	_	_	_	_	_	_	usemID:USem67923area	synsetID:304;senseID:1024
+26	economica	economico	ADJ	_	_	_	_	_	_	usemID:USem61949economico	synsetID:45219;senseID:61043
+27	europea	europeo	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44257;senseID:59937
+28	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 197
+# text = Mentre l'alta densità terrestre è il risultato della forte compressione gravitazionale, in particolare al nucleo, Mercurio è molto più piccolo e le sue regioni interne non sono compresse come quelle terrestri.
+1	Mentre	mentre	SCONJ	_	_	_	_	_	_
+2	l'	il	DET	_	_	_	_	_	_
+3	alta	alto	ADJ	_	_	_	_	_	_	usemID:USemD6805alto	synsetID:42698;senseID:57586
+4	densità	densità	NOUN	_	_	_	_	_	_	usemID:USemTH06247densita1	synsetID:5003;senseID:8751
+5	terrestre	terrestre	ADJ	_	_	_	_	_	_	usemID:USem61945terrestre	synsetID:43751;senseID:59259
+6	è	essere	AUX	_	_	_	_	_	_
+7	il	il	DET	_	_	_	_	_	_
+8	risultato	risultato	NOUN	_	_	_	_	_	_	usemID:USemD65468risultato	synsetID:1603;senseID:3202
+9-10	della	_	_	_	_	_	_	_	_
+9	di	di	ADP	_	_	_	_	_	_
+10	la	il	DET	_	_	_	_	_	_
+11	forte	forte	ADJ	_	_	_	_	_	_	usemID:USem61852forte	synsetID:50051;senseID:65341
+12	compressione	compressione	NOUN	_	_	_	_	_	_	usemID:USem60289compressione	synsetID:14547;senseID:21593
+13	gravitazionale	gravitazionale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44355;senseID:60061
+14	,	,	PUNCT	_	_	_	_	_	_
+15	in	in	ADP	_	_	_	_	_	_
+16	particolare	particolare	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:19109;senseID:30012
+17-18	al	_	_	_	_	_	_	_	_
+17	a	a	ADP	_	_	_	_	_	_
+18	il	il	DET	_	_	_	_	_	_
+19	nucleo	nucleo	NOUN	_	_	_	_	_	_	usemID:USem68476nucleo	synsetID:31644;senseID:40720
+20	,	,	PUNCT	_	_	_	_	_	_
+21	Mercurio	Mercurio	PROPN	_	_	_	_	_	_
+22	è	essere	AUX	_	_	_	_	_	_
+23	molto	molto	ADV	_	_	_	_	_	_	usemID:missing	synsetID:48992;senseID:65404
+24	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67494
+25	piccolo	piccolo	ADJ	_	_	_	_	_	_	usemID:USemD6384piccolo	synsetID:44741;senseID:60509
+26	e	e	CCONJ	_	_	_	_	_	_
+27	le	il	DET	_	_	_	_	_	_
+28	sue	suo	DET	_	_	_	_	_	_
+29	regioni	regione	NOUN	_	_	_	_	_	_	usemID:USem4144regione	synsetID:262;senseID:958
+30	interne	interno	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:45143;senseID:60966
+31	non	non	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+32	sono	essere	AUX	_	_	_	_	_	_
+33	compresse	comprimere	VERB	_	_	_	_	_	_	usemID:USem6667comprimere	synsetID:39216;senseID:52435
+34	come	come	ADP	_	_	_	_	_	_
+35	quelle	quello	PRON	_	_	_	_	_	_
+36	terrestri	terrestre	ADJ	_	_	_	_	_	_	usemID:USem61945terrestre	synsetID:43751;senseID:59259
+37	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 205
+# text = In genere, la somministrazione di antibiotici per via orale e di semplici analgesici, un periodo di riposo e l'assunzione di fluidi, sono sufficienti per arrivare ad una completa guarigione.
+1	In	in	ADP	_	_	_	_	_	_
+2	genere	genere	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+3	,	,	PUNCT	_	_	_	_	_	_
+4	la	il	DET	_	_	_	_	_	_
+5	somministrazione	somministrazione	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:28564;senseID:34686
+6	di	di	ADP	_	_	_	_	_	_
+7	antibiotici	antibiotico	NOUN	_	_	_	_	_	_	usemID:USem3019antibiotico	synsetID:1764;senseID:3491
+8	per	per	ADP	_	_	_	_	_	_
+9	via	via	NOUN	_	_	_	_	_	_	usemID:USem67688via	synsetID:6495;senseID:10908
+10	orale	orale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44190;senseID:59857
+11	e	e	CCONJ	_	_	_	_	_	_
+12	di	di	ADP	_	_	_	_	_	_
+13	semplici	semplice	ADJ	_	_	_	_	_	_	usemID:USem62138semplice	synsetID:41428;senseID:56420
+14	analgesici	analgesico	NOUN	_	_	_	_	_	_	usemID:USem3162analgesico	synsetID:6517;senseID:10939
+15	,	,	PUNCT	_	_	_	_	_	_
+16	un	uno	DET	_	_	_	_	_	_
+17	periodo	periodo	NOUN	_	_	_	_	_	_	usemID:USemD3302periodo	synsetID:12102;senseID:18507
+18	di	di	ADP	_	_	_	_	_	_
+19	riposo	riposo	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:16171;senseID:23587 
+20	e	e	CCONJ	_	_	_	_	_	_
+21	l'	il	DET	_	_	_	_	_	_
+22	assunzione	assunzione	NOUN	_	_	_	_	_	_	usemID:USem60723assunzione	synsetID:26099;senseID:35972
+23	di	di	ADP	_	_	_	_	_	_
+24	fluidi	fluido	NOUN	_	_	_	_	_	_	usemID:USem3014fluido	synsetID:31576;senseID:40649
+25	,	,	PUNCT	_	_	_	_	_	_
+26	sono	essere	AUX	_	_	_	_	_	_
+27	sufficienti	sufficiente	ADJ	_	_	_	_	_	_	usemID:USemD6493sufficiente	synsetID:41719;senseID:54223
+28	per	per	ADP	_	_	_	_	_	_
+29	arrivare	arrivare	VERB	_	_	_	_	_	_	usemID:USem79726arrivare	synsetID:36692;senseID:49276
+30	ad	a	ADP	_	_	_	_	_	_
+31	una	uno	DET	_	_	_	_	_	_
+32	completa	completo	ADJ	_	_	_	_	_	_	usemID:USemD7086completo	synsetID:43208;senseID:58466
+33	guarigione	guarigione	NOUN	_	_	_	_	_	_	usemID:USem78429guarigione	synsetID:5939;senseID:10091
+34	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 228
+# text = Il portale contiene una gamma molto ampia di dati aperti di elevato valore relativi ai vari settori d'intervento dell'UE, tra i quali figurano l'economia, l'occupazione, le scienze, l'ambiente e l'istruzione.
+1	Il	il	DET	_	_	_	_	_	_
+2	portale	portale	NOUN	_	_	_	_	_	_	usemID:USemTH39316portale	synsetID:missing;senseID:missing
+3	contiene	contenere	VERB	_	_	_	_	_	_	usemID:USemD883contenere	synsetID:33807;senseID:46576
+4	una	uno	DET	_	_	_	_	_	_
+5	gamma	gamma	NOUN	_	_	_	_	_	_	usemID:USem72067gamma	synsetID:24961;senseID:33662
+6	molto	molto	ADV	_	_	_	_	_	_	usemID:USem62212molto	synsetID:50142;senseID:66918
+7	ampia	ampio	ADJ	_	_	_	_	_	_	usemID:USem61743ampio	synsetID:43910;senseID:59477
+8	di	di	ADP	_	_	_	_	_	_
+9	dati	dato	NOUN	_	_	_	_	_	_	usemID:USem71583dato	synsetID:50373;senseID:67281
+10	aperti	aperto	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+11	di	di	ADP	_	_	_	_	_	_
+12	elevato	elevato	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:50061;senseID:66784
+13	valore	valore	NOUN	_	_	_	_	_	_	usemID:USemD6243valore	synsetID:2881;senseID:5458
+14	relativi	relativo	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42778;senseID:57727
+15-16	ai	_	_	_	_	_	_	_	_
+15	a	a	ADP	_	_	_	_	_	_
+16	i	il	DET	_	_	_	_	_	_
+17	vari	vario	ADJ	_	_	_	_	_	_	usemID:USem77850vario	synsetID:42917;senseID:57965
+18	settori	settore	NOUN	_	_	_	_	_	_	usemID:USem69settore	synsetID:missing;senseID:missing
+19	d'	di	ADP	_	_	_	_	_	_
+20	intervento	intervento	NOUN	_	_	_	_	_	_	usemID:USem72496intervento 	synsetID:8457;senseID:14835
+21-22	dell'	_	_	_	_	_	_	_	_
+21	di	di	ADP	_	_	_	_	_	_
+22	l'	il	DET	_	_	_	_	_	_
+23	UE	UE	PROPN	_	_	_	_	_	_
+24	,	,	PUNCT	_	_	_	_	_	_
+25	tra	tra	ADP	_	_	_	_	_	_
+26	i	il	DET	_	_	_	_	_	_
+27	quali	quale	PRON	_	_	_	_	_	_
+28	figurano	figurare	VERB	_	_	_	_	_	_	usemID:missing	synsetID:37123;senseID:49933
+29	l'	il	DET	_	_	_	_	_	_
+30	economia	economia	NOUN	_	_	_	_	_	_	usemID:USem69172economia	synsetID:1048;senseID:2254
+31	,	,	PUNCT	_	_	_	_	_	_
+32	l'	il	DET	_	_	_	_	_	_
+33	occupazione	occupazione	NOUN	_	_	_	_	_	_	usemID:USem79556occupazione	synsetID:665;senseID:1613
+34	,	,	PUNCT	_	_	_	_	_	_
+35	le	il	DET	_	_	_	_	_	_
+36	scienze	scienza	NOUN	_	_	_	_	_	_	usemID:USem43scienza	synsetID:667;senseID:1619
+37	,	,	PUNCT	_	_	_	_	_	_
+38	l'	il	DET	_	_	_	_	_	_
+39	ambiente	ambiente	NOUN	_	_	_	_	_	_	usemID:USem4148ambiente	synsetID:21981;senseID:27227
+40	e	e	CCONJ	_	_	_	_	_	_
+41	l'	il	DET	_	_	_	_	_	_
+42	istruzione	istruzione	NOUN	_	_	_	_	_	_	usemID:USem62268istruzione	synsetID:5480;senseID:9450
+43	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 284
+# text = Un gran numero di composti chimici di rilievo nelle industrie vengono ottenuti dalla sostituzione di uno o più atomi di idrogeno del benzene da parte di altri gruppi funzionali.
+1	Un	uno	DET	_	_	_	_	_	_
+2	gran	grande	ADJ	_	_	_	_	_	_	usemID:USem61853grande	synsetID:44134;senseID:59786
+3	numero	numero	NOUN	_	_	_	_	_	_	usemID:USem2670numero	synsetID:17385;senseID:25022
+4	di	di	ADP	_	_	_	_	_	_
+5	composti	composto	NOUN	_	_	_	_	_	_	usemID:USem3689composto	synsetID:3780;senseID:6899
+6	chimici	chimico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43810;senseID:59334
+7	di	di	ADP	_	_	_	_	_	_
+8	rilievo	rilievo	NOUN	_	_	_	_	_	_	usemID:USem68287rilievo	synsetID:2881;senseID:5464
+9-10	nelle	_	_	_	_	_	_	_	_
+9	in	in	ADP	_	_	_	_	_	_
+10	le	il	DET	_	_	_	_	_	_
+11	industrie	industria	NOUN	_	_	_	_	_	_	usemID:USem79349industria	synsetID:8913;senseID:13175
+12	vengono	venire	AUX	_	_	_	_	_	_
+13	ottenuti	ottenere	VERB	_	_	_	_	_	_	usemID:USem59860ottenere	synsetID:37838;senseID:50788
+14-15	dalla	_	_	_	_	_	_	_	_
+14	da	da	ADP	_	_	_	_	_	_
+15	la	il	DET	_	_	_	_	_	_
+16	sostituzione	sostituzione	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:4205;senseID:7557
+17	di	di	ADP	_	_	_	_	_	_
+18	uno	uno	NUM	_	_	_	_	_	_
+19	o	o	CCONJ	_	_	_	_	_	_
+20	più	più	DET	_	_	_	_	_	_
+21	atomi	atome	NOUN	_	_	_	_	_	_	usemID:USemD5274atomo	synsetID:50919;senseID:67211
+22	di	di	ADP	_	_	_	_	_	_
+23	idrogeno	idrogeno	NOUN	_	_	_	_	_	_	usemID:USemD2722idrogeno	synsetID:19255;senseID:30193
+24-25	del	_	_	_	_	_	_	_	_
+24	di	di	ADP	_	_	_	_	_	_
+25	il	il	DET	_	_	_	_	_	_
+26	benzene	benzene	NOUN	_	_	_	_	_	_	usemID:USem74784benzene	synsetID:missing;senseID:missing
+27	da	da	ADP	_	_	_	_	_	_
+28	parte	parte	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:12349;senseID:18827
+29	di	di	ADP	_	_	_	_	_	_
+30	altri	altro	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42674;senseID:57544
+31	gruppi	gruppo	NOUN	_	_	_	_	_	_	usemID:USemD2845gruppo	synsetID:3134;senseID:5877
+32	funzionali	funzionale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+33	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 312
+# text = L'Istituto si compone di quattro scuole: Studi Storici, Matematica, Scienze Naturali e Scienze Sociali, e inoltre un più recente programma in Biologia dei sistemi.
+1	L'	il	DET	_	_	_	_	_	_
+2	Istituto	istituto	NOUN	_	_	_	_	_	_	usemID:USem4589istituto	synsetID:10895;senseID:16963
+3	si	si	PRON	_	_	_	_	_	_
+4	compone	comporre	VERB	_	_	_	_	_	_	usemID:USem59672comporre	synsetID:40125;senseID:53443
+5	di	di	ADP	_	_	_	_	_	_
+6	quattro	quattro	NUM	_	_	_	_	_	_
+7	scuole	scuola	NOUN	_	_	_	_	_	_	usemID:USem1880scuola	synsetID:12371;senseID:18862
+8	:	:	PUNCT	_	_	_	_	_	_
+9	Studi	studio	NOUN	_	_	_	_	_	_	usemID:USem60502studio	synsetID:17438;senseID:25085
+10	Storici	storico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43763;senseID:59276
+11	,	,	PUNCT	_	_	_	_	_	_
+12	Matematica	matematica	NOUN	_	_	_	_	_	_	usemID:USem59924matematica	synsetID:49888;senseID:66742
+13	,	,	PUNCT	_	_	_	_	_	_
+14	Scienze	Scienze	NOUN	_	_	_	_	_	_	usemID:USem43scienza	synsetID:667;senseID:1619
+15	Naturali	naturale	ADJ	_	_	_	_	_	_	usemID:USem77163naturale	synsetID:45025;senseID:60838
+16	e	e	CCONJ	_	_	_	_	_	_
+17	Scienze	Scienze	PROPN	_	_	_	_	_	_
+18	Sociali	sociale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44500;senseID:60230
+19	,	,	PUNCT	_	_	_	_	_	_
+20	e	e	CCONJ	_	_	_	_	_	_
+21	inoltre	inoltre	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+22	un	uno	DET	_	_	_	_	_	_
+23	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67494
+24	recente	recente	ADJ	_	_	_	_	_	_	usemID:USem61836recente	synsetID:43225;senseID:58486
+25	programma	programma	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+26	in	in	ADP	_	_	_	_	_	_
+27	Biologia	Biologia	NOUN	_	_	_	_	_	_	usemID:USem59962biologia	synsetID:49891;senseID:66745
+28-29	dei	_	_	_	_	_	_	_	_
+28	di	di	ADP	_	_	_	_	_	_
+29	i	il	DET	_	_	_	_	_	_
+30	sistemi	sistema	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:9307;senseID:13746
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 318
+# text = Circa un milione di anni fa la neve ed il ghiaccio accumulati, formarono ghiacciai all'altezza delle cime alpine che invece si spostarono verso le valli dei fiumi.
+1	Circa	circa	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+2	un	uno	DET	_	_	_	_	_	_
+3	milione	milione	NOUN	_	_	_	_	_	_	usemID:USem72927milione	synsetID:29462;senseID:38494
+4	di	di	ADP	_	_	_	_	_	_
+5	anni	anno	NOUN	_	_	_	_	_	_	usemID:USem1745anno	synsetID:7130;senseID:11812
+6	fa	fa	ADV	_	_	_	_	_	_	usemID:USemTH41263fa	synsetID:missing;senseID:missing
+7	la	il	DET	_	_	_	_	_	_
+8	neve	neve	NOUN	_	_	_	_	_	_	usemID:USem3888neve	synsetID:51349;senseID:68555
+9	ed	e	CCONJ	_	_	_	_	_	_
+10	il	il	DET	_	_	_	_	_	_
+11	ghiaccio	ghiaccio	NOUN	_	_	_	_	_	_	usemID:USem3871ghiaccio	synsetID:11488;senseID:17719
+12	accumulati	accumulato	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+13	,	,	PUNCT	_	_	_	_	_	_
+14	formarono	formare	VERB	_	_	_	_	_	_	usemID:USem6930formare	synsetID:32117;senseID:41560
+15	ghiacciai	ghiacciaio	NOUN	_	_	_	_	_	_	usemID:USem64768ghiacciaio	synsetID:17091;senseID:24675
+16-17	all'	_	_	_	_	_	_	_	_
+16	a	a	ADP	_	_	_	_	_	_
+17	l'	il	DET	_	_	_	_	_	_
+18	altezza	altezza	NOUN	_	_	_	_	_	_	usemID:USemD5532altezza	synsetID:10854;senseID:16913
+19-20	delle	_	_	_	_	_	_	_	_
+19	di	di	ADP	_	_	_	_	_	_
+20	le	il	DET	_	_	_	_	_	_
+21	cime	cima	NOUN	_	_	_	_	_	_	usemID:USem69137cima	synsetID:4306;senseID:7734
+22	alpine	alpino	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43896;senseID:59458
+23	che	che	PRON	_	_	_	_	_	_
+24	invece	invece	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+25	si	si	PRON	_	_	_	_	_	_
+26	spostarono	spostare	VERB	_	_	_	_	_	_	usemID:USem6977spostare	synsetID:33637;senseID:46276
+27	verso	verso	ADP	_	_	_	_	_	_
+28	le	il	DET	_	_	_	_	_	_
+29	valli	valle	NOUN	_	_	_	_	_	_	usemID:USemD5985valle	synsetID:19260;senseID:30198
+30-31	dei	_	_	_	_	_	_	_	_
+30	di	di	ADP	_	_	_	_	_	_
+31	i	il	DET	_	_	_	_	_	_
+32	fiumi	fiume	NOUN	_	_	_	_	_	_	usemID:USem5089fiume	synsetID:30298;senseID:39355
+33	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 377
+# text = In particolare, i fattori politici comprendono aree come la politica fiscale, il diritto del lavoro, diritto ambientale, restrizioni commerciali, le tariffe, e la stabilità politica.
+1	In	in	ADP	_	_	_	_	_	_
+2	particolare	particolare	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:19109;senseID:30012
+3	,	,	PUNCT	_	_	_	_	_	_
+4	i	il	DET	_	_	_	_	_	_
+5	fattori	fattore	NOUN	_	_	_	_	_	_	usemID:USem3296fattore	synsetID:3790;senseID:6916
+6	politici	politico	ADJ	_	_	_	_	_	_	usemID:USem79191politico	synsetID:44032;senseID:59656
+7	comprendono	comprendere	VERB	_	_	_	_	_	_	usemID:USem6962comprendere	synsetID:33807;senseID:46578
+8	aree	area	NOUN	_	_	_	_	_	_	usemID:USem67916area	synsetID:304;senseID:1024
+9	come	come	ADP	_	_	_	_	_	_
+10	la	il	DET	_	_	_	_	_	_
+11	politica	politica	NOUN	_	_	_	_	_	_	usemID:USemD7238politica	synsetID:9283;senseID:13710
+12	fiscale	fiscale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42283;senseID:56796
+13	,	,	PUNCT	_	_	_	_	_	_
+14	il	il	DET	_	_	_	_	_	_
+15	diritto	diritto	NOUN	_	_	_	_	_	_	usemID:USem61262diritto	synsetID:51173;senseID:67295
+16-17	del	_	_	_	_	_	_	_	_
+16	di	di	ADP	_	_	_	_	_	_
+17	il	il	DET	_	_	_	_	_	_
+18	lavoro	lavoro	NOUN	_	_	_	_	_	_	usemID:USem59561lavoro	synsetID:665;senseID:1615
+19	,	,	PUNCT	_	_	_	_	_	_
+20	diritto	diritto	NOUN	_	_	_	_	_	_	usemID:USem61262diritto	synsetID:51173;senseID:67295
+21	ambientale	ambientale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43052;senseID:58194 
+22	,	,	PUNCT	_	_	_	_	_	_
+23	restrizioni	restrizione	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:13228;senseID:19926
+24	commerciali	commerciale	ADJ	_	_	_	_	_	_	usemID:USem61942commerciale	synsetID:44381;senseID:60093
+25	,	,	PUNCT	_	_	_	_	_	_
+26	le	il	DET	_	_	_	_	_	_
+27	tariffe	tariffa	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:4807;senseID:8480
+28	,	,	PUNCT	_	_	_	_	_	_
+29	e	e	CCONJ	_	_	_	_	_	_
+30	la	il	DET	_	_	_	_	_	_
+31	stabilità	stabilità	NOUN	_	_	_	_	_	_	usemID:USemTH25037stabilita1	synsetID:7092;senseID:11763
+32	politica	politico	ADJ	_	_	_	_	_	_	usemID:USem79191politico	synsetID:44032;senseID:59656
+33	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 434
+# text = Altri fattori che giocano un ruolo molto importante sono l'isolamento sociale e le avversità sociali dovute all'immigrazione, la discriminazione razziale, problematiche familiari, la disoccupazione e condizioni abitative precarie.
+1	Altri	altro	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42674;senseID:57544
+2	fattori	fattore	NOUN	_	_	_	_	_	_	usemID:USem3296fattore	synsetID:3790;senseID:6916
+3	che	che	PRON	_	_	_	_	_	_
+4	giocano	giocare	VERB	_	_	_	_	_	_	usemID:missing	synsetID:37151;senseID:49970
+5	un	uno	DET	_	_	_	_	_	_
+6	ruolo	ruolo	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:121;senseID:702
+7	molto	molto	ADV	_	_	_	_	_	_	usemID:USem62214molto	synsetID:48992;senseID:65404
+8	importante	importante	ADJ	_	_	_	_	_	_	usemID:USemD6518importante	synsetID:42456;senseID:57145
+9	sono	essere	AUX	_	_	_	_	_	_
+10	l'	il	DET	_	_	_	_	_	_
+11	isolamento	isolamento	NOUN	_	_	_	_	_	_	usemID:USem72575isolamento	synsetID:28687;senseID:34821
+12	sociale	sociale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44500;senseID:60230
+13	e	e	CCONJ	_	_	_	_	_	_
+14	le	il	DET	_	_	_	_	_	_
+15	avversità	avversità	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:1144;senseID:2428
+16	sociali	sociale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44500;senseID:60230
+17	dovute	dovere	VERB	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+18-19	all'	_	_	_	_	_	_	_	_
+18	a	a	ADP	_	_	_	_	_	_
+19	l'	il	DET	_	_	_	_	_	_
+20	immigrazione	immigrazione	NOUN	_	_	_	_	_	_	usemID:USem67616immigrazione	synsetID:25065;senseID:33782
+21	,	,	PUNCT	_	_	_	_	_	_
+22	la	il	DET	_	_	_	_	_	_
+23	discriminazione	discriminazione	NOUN	_	_	_	_	_	_	usemID:USem72892discriminazione	synsetID:1100;senseID:2341
+24	razziale	razziale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41402;senseID:56375
+25	,	,	PUNCT	_	_	_	_	_	_
+26	problematiche	problematica	NOUN	_	_	_	_	_	_	usemID:USem069711problematica	synsetID:26310;senseID:36203
+27	familiari	familiare	ADJ	_	_	_	_	_	_	usemID:USemD66691familiare	synsetID:42018;senseID:54879
+28	,	,	PUNCT	_	_	_	_	_	_
+29	la	il	DET	_	_	_	_	_	_
+30	disoccupazione	disoccupazione	NOUN	_	_	_	_	_	_	usemID:USem69510disoccupazione	synsetID:24069;senseID:32673
+31	e	e	CCONJ	_	_	_	_	_	_
+32	condizioni	condizione	NOUN	_	_	_	_	_	_	usemID:USem3929condizione	synsetID:16105;senseID:23503
+33	abitative	abitativo	ADJ	_	_	_	_	_	_	usemID:USem75371abitativo	synsetID:missing;senseID:missing
+34	precarie	precario	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43285;senseID:58577
+35	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 526
+# text = Le squadre sono organizzate in base al principio fondamentale di Calcio per l'amicizia per cui atleti di nazionalità, sesso e abilità fisiche diversi sono raggruppati nello stesso team.
+1	Le	il	DET	_	_	_	_	_	_
+2	squadre	squadra	NOUN	_	_	_	_	_	_	usemID:USem59495squadra	synsetID:3862;senseID:7028
+3	sono	essere	AUX	_	_	_	_	_	_
+4	organizzate	organizzare	VERB	_	_	_	_	_	_	usemID:USem59143organizzare	synsetID:34986;senseID:44913
+5	in	in	ADP	_	_	_	_	_	_
+6	base	base	NOUN	_	_	_	_	_	_	usemID:USem66979base	synsetID:3991;senseID:7217
+7-8	al	_	_	_	_	_	_	_	_
+7	a	a	ADP	_	_	_	_	_	_
+8	il	il	DET	_	_	_	_	_	_
+9	principio	principio	NOUN	_	_	_	_	_	_	usemID:USem66967principio	synsetID:3515;senseID:6478 
+10	fondamentale	fondamentale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42178;senseID:55210
+11	di	di	ADP	_	_	_	_	_	_
+12	Calcio	calcio	NOUN	_	_	_	_	_	_	usemID:USem62470calcio	synsetID:1284;senseID:2681
+13	per	per	ADP	_	_	_	_	_	_
+14	l'	il	DET	_	_	_	_	_	_
+15	amicizia	amicizia	NOUN	_	_	_	_	_	_	usemID:USem69353amicizia	synsetID:5867;senseID:9993
+16	per	per	ADP	_	_	_	_	_	_
+17	cui	cui	PRON	_	_	_	_	_	_
+18	atleti	atleta	NOUN	_	_	_	_	_	_	usemID:USem2018atleta	synsetID:2928;senseID:5530
+19	di	di	ADP	_	_	_	_	_	_
+20	nazionalità	nazionalità	NOUN	_	_	_	_	_	_	usemID:USemTH15121nazionalita1	synsetID:15299;senseID:22519
+21	,	,	PUNCT	_	_	_	_	_	_
+22	sesso	sesso	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:22446;senseID:27742
+23	e	e	CCONJ	_	_	_	_	_	_
+24	abilità	abilità	NOUN	_	_	_	_	_	_	usemID:USem73619abilita1	synsetID:938;senseID:2095
+25	fisiche	fisico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42119;senseID:55075
+26	diversi	diverso	ADJ	_	_	_	_	_	_	usemID:USemD5418diverso	synsetID:43547;senseID:58976
+27	sono	essere	AUX	_	_	_	_	_	_
+28	raggruppati	raggruppare	VERB	_	_	_	_	_	_	usemID:missing	synsetID:38589;senseID:51697
+29-30	nello	_	_	_	_	_	_	_	_
+29	in	in	ADP	_	_	_	_	_	_
+30	lo	il	DET	_	_	_	_	_	_
+31	stesso	stesso	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:50111;senseID:66890
+32	team	team	NOUN	_	_	_	_	_	_	usemID:USem66356team	synsetID:24911;senseID:33605
+33	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 549
+# text = Completò anche gli studi accademici perfezionandosi in storia, sociologia, scienze politiche, finanza ed economia all'Università di Uppsala e poi anche in economia all'Università di Stoccolma.
+1	Completò	completare	VERB	_	_	_	_	_	_	usemID:USem6760completare	synsetID:38021;senseID:51030
+2	anche	anche	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+3	gli	il	DET	_	_	_	_	_	_
+4	studi	studio	NOUN	_	_	_	_	_	_	usemID:USem60502studio	synsetID:17438;senseID:25085
+5	accademici	accademico	ADJ	_	_	_	_	_	_	usemID:USem75410accademico	synsetID:44167;senseID:59829
+6-7	perfezionandosi	_	_	_	_	_	_	_	_
+6	perfezionando	perfezionare	VERB	_	_	_	_	_	_	usemID:USem79575perfezionare	synsetID:38725;senseID:51861
+7	si	si	PRON	_	_	_	_	_	_
+8	in	in	ADP	_	_	_	_	_	_
+9	storia	storia	NOUN	_	_	_	_	_	_	usemID:USemD3449storia	synsetID:22737;senseID:31163
+10	,	,	PUNCT	_	_	_	_	_	_
+11	sociologia	sociologia	NOUN	_	_	_	_	_	_	usemID:USem47sociologia	synsetID:19458;senseID:30418
+12	,	,	PUNCT	_	_	_	_	_	_
+13	scienze	scienza	NOUN	_	_	_	_	_	_	usemID:USem43scienza	MW[0]-synsetID:49896;senseID:66490
+14	politiche	politico	ADJ	_	_	_	_	_	_	usemID:USem79191politico	MW[0]-synsetID:49896;senseID:66490
+15	,	,	PUNCT	_	_	_	_	_	_
+16	finanza	finanza	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:14838;senseID:21957
+17	ed	e	CCONJ	_	_	_	_	_	_
+18	economia	economia	NOUN	_	_	_	_	_	_	usemID:USem61353economia	synsetID:1046;senseID:2251
+19-20	all'	_	_	_	_	_	_	_	_
+19	a	a	ADP	_	_	_	_	_	_
+20	l'	il	DET	_	_	_	_	_	_
+21	Università	università	NOUN	_	_	_	_	_	_	usemID:USemD7215universita1	synsetID:11193;senseID:17346
+22	di	di	ADP	_	_	_	_	_	_
+23	Uppsala	Uppsala	PROPN	_	_	_	_	_	_
+24	e	e	CCONJ	_	_	_	_	_	_
+25	poi	poi	ADV	_	_	_	_	_	_	usemID:missing	synsetID:51294;senseID:68655
+26	anche	anche	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+27	in	in	ADP	_	_	_	_	_	_
+28	economia	economia	NOUN	_	_	_	_	_	_	usemID:USem61353economia	synsetID:1046;senseID:2251
+29-30	all'	_	_	_	_	_	_	_	_
+29	a	a	ADP	_	_	_	_	_	_
+30	l'	il	DET	_	_	_	_	_	_
+31	Università	università	NOUN	_	_	_	_	_	_	usemID:USemD7215universita1	synsetID:11193;senseID:17346
+32	di	di	ADP	_	_	_	_	_	_
+33	Stoccolma	Stoccolma	PROPN	_	_	_	_	_	_
+34	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 648
+# text = Studi e altre pubblicazioni Il CdR produce studi su vari aspetti della dimensione regionale e locale dell'UE (istruzione, trasporti, affari sociali, allargamento, ecc.).
+1	Studi	studio	NOUN	_	_	_	_	_	_	usemID:USem60504studio	synsetID:4971;senseID:8710
+2	e	e	CCONJ	_	_	_	_	_	_
+3	altre	altro	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42674;senseID:57544
+4	pubblicazioni	pubblicazione	NOUN	_	_	_	_	_	_	usemID:USem74825pubblicazione	synsetID:6223;senseID:10516
+5	Il	il	DET	_	_	_	_	_	_
+6	CdR	CdR	PROPN	_	_	_	_	_	_
+7	produce	produrre	VERB	_	_	_	_	_	_	usemID:USem3895produrre	synsetID:32116;senseID:41556
+8	studi	studio	NOUN	_	_	_	_	_	_	usemID:USem60504studio	synsetID:4971;senseID:8710
+9	su	su	ADP	_	_	_	_	_	_
+10	vari	vario	ADJ	_	_	_	_	_	_	usemID:USemD66692vario	synsetID:42916;senseID:57964
+11	aspetti	aspetto	NOUN	_	_	_	_	_	_	usemID:USem62403aspetto	synsetID:12918;senseID:19530
+12-13	della	_	_	_	_	_	_	_	_
+12	di	di	ADP	_	_	_	_	_	_
+13	la	il	DET	_	_	_	_	_	_
+14	dimensione	dimensione	NOUN	_	_	_	_	_	_	usemID:USem69156dimensione	synsetID:missing;senseID:missing
+15	regionale	regionale	ADJ	_	_	_	_	_	_	usemID:USem61917regionale	synsetID:41566;senseID:53877
+16	e	e	CCONJ	_	_	_	_	_	_
+17	locale	locale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42898;senseID:57927
+18-19	dell'	_	_	_	_	_	_	_	_
+18	di	di	ADP	_	_	_	_	_	_
+19	l'	il	DET	_	_	_	_	_	_
+20	UE	UE	PROPN	_	_	_	_	_	_
+21	(	(	PUNCT	_	_	_	_	_	_
+22	istruzione	istruzione	NOUN	_	_	_	_	_	_	usemID:USem62268istruzione	synsetID:5480;senseID:9450
+23	,	,	PUNCT	_	_	_	_	_	_
+24	trasporti	trasporto	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:50477;senseID:67403
+25	,	,	PUNCT	_	_	_	_	_	_
+26	affari	affare	NOUN	_	_	_	_	_	_	usemID:USem68168affare	synsetID:31722;senseID:40795
+27	sociali	sociale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44500;senseID:60230
+28	,	,	PUNCT	_	_	_	_	_	_
+29	allargamento	allargamento	NOUN	_	_	_	_	_	_	usemID:USem5025allargamento	synsetID:8484;senseID:14871
+30	,	,	PUNCT	_	_	_	_	_	_
+31	ecc.	eccetera	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+32	)	)	PUNCT	_	_	_	_	_	_
+33	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 696
+# text = Utøya è ora di proprietà della Lega dei Giovani Lavoratori (AUF), un'associazione giovanile affiliata al Partito Laburista, che nell'isola organizza campi estivi di formazione.
+1	Utøya	Utøya	PROPN	_	_	_	_	_	_
+2	è	essere	AUX	_	_	_	_	_	_
+3	ora	ora	ADV	_	_	_	_	_	_
+4	di	di	ADP	_	_	_	_	_	_
+5	proprietà	proprietà	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:11293;senseID:17467
+6-7	della	_	_	_	_	_	_	_	_
+6	di	di	ADP	_	_	_	_	_	_
+7	la	il	DET	_	_	_	_	_	_
+8	Lega	lega	NOUN	_	_	_	_	_	_	usemID:USem67548lega	synsetID:2165;senseID:4203
+9-10	dei	_	_	_	_	_	_	_	_
+9	di	di	ADP	_	_	_	_	_	_
+10	i	il	DET	_	_	_	_	_	_
+11	Giovani	giovane	NOUN	_	_	_	_	_	_	usemID:USem6416giovane	synsetID:24945;senseID:33646
+12	Lavoratori	lavoratore	NOUN	_	_	_	_	_	_	usemID:USem72223lavoratore	synsetID:21747;senseID:26956
+13	(	(	PUNCT	_	_	_	_	_	_
+14	AUF	AUF	PROPN	_	_	_	_	_	_
+15	)	)	PUNCT	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	un'	uno	DET	_	_	_	_	_	_
+18	associazione	associazione	NOUN	_	_	_	_	_	_	usemID:USemD5271associazione	synsetID:3904;senseID:7088
+19	giovanile	giovanile	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44696;senseID:60459
+20	affiliata	affiliare	VERB	_	_	_	_	_	_	usemID:USem79126affiliare	synsetID:34625;senseID:44333
+21-22	al	_	_	_	_	_	_	_	_
+21	a	a	ADP	_	_	_	_	_	_
+22	il	il	DET	_	_	_	_	_	_
+23	Partito	partito	NOUN	_	_	_	_	_	_	usemID:USemD63821partito	synsetID:4772;senseID:8440
+24	Laburista	laburista	ADJ	_	_	_	_	_	_	usemID:USem74143laburista	synsetID:missing;senseID:missing
+25	,	,	PUNCT	_	_	_	_	_	_
+26	che	che	PRON	_	_	_	_	_	_
+27-28	nell'	_	_	_	_	_	_	_	_
+27	in	in	ADP	_	_	_	_	_	_
+28	l'	il	DET	_	_	_	_	_	_
+29	isola	isola	NOUN	_	_	_	_	_	_	usemID:USem6842isola	synsetID:25991;senseID:37502
+30	organizza	organizzare	VERB	_	_	_	_	_	_	usemID:USem59143organizzare	synsetID:34986;senseID:44913
+31	campi	campo	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+32	estivi	estivo	ADJ	_	_	_	_	_	_	usemID:USem71336estivo	synsetID:42576;senseID:57367
+33	di	di	ADP	_	_	_	_	_	_
+34	formazione	formazione	NOUN	_	_	_	_	_	_	usemID:USem60363formazione	synsetID:7207;senseID:11915
+35	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 711
+# text = All'inizio della sua storia, l'astronomia si occupò unicamente dell'osservazione e della previsione dei movimenti degli oggetti celesti che potevano essere osservati ad occhio nudo dall'uomo e sulla loro origine.
+1-2	All'	_	_	_	_	_	_	_	_
+1	A	a	ADP	_	_	_	_	_	_
+2	l'	il	DET	_	_	_	_	_	_
+3	inizio	inizio	NOUN	_	_	_	_	_	_	usemID:USem60071inizio	synsetID:3516;senseID:6482
+4-5	della	_	_	_	_	_	_	_	_
+4	di	di	ADP	_	_	_	_	_	_
+5	la	il	DET	_	_	_	_	_	_
+6	sua	suo	DET	_	_	_	_	_	_
+7	storia	storia	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:22735;senseID:31161
+8	,	,	PUNCT	_	_	_	_	_	_
+9	l'	il	DET	_	_	_	_	_	_
+10	astronomia	astronomia	NOUN	_	_	_	_	_	_	usemID:USemD6303astronomia	synsetID:22322;senseID:27597
+11	si	si	PRON	_	_	_	_	_	_
+12	occupò	occupare	VERB	_	_	_	_	_	_	usemID:USem79200occupare	synsetID:35790;senseID:48034
+13	unicamente	unicamente	ADV	_	_	_	_	_	_	usemID:missing	synsetID:48685;senseID:64726
+14-15	dell'	_	_	_	_	_	_	_	_
+14	di	di	ADP	_	_	_	_	_	_
+15	l'	il	DET	_	_	_	_	_	_
+16	osservazione	osservazione	NOUN	_	_	_	_	_	_	usemID:USem60554osservazione	synsetID:19209;senseID:30133
+17	e	e	CCONJ	_	_	_	_	_	_
+18-19	della	_	_	_	_	_	_	_	_
+18	di	di	ADP	_	_	_	_	_	_
+19	la	il	DET	_	_	_	_	_	_
+20	previsione	previsione	NOUN	_	_	_	_	_	_	usemID:USem069727previsione	synsetID:16124;senseID:23536
+21-22	dei	_	_	_	_	_	_	_	_
+21	di	di	ADP	_	_	_	_	_	_
+22	i	il	DET	_	_	_	_	_	_
+23	movimenti	movimento	NOUN	_	_	_	_	_	_	usemID:USem3965movimento	synsetID:5453;senseID:9415
+24-25	degli	_	_	_	_	_	_	_	_
+24	di	di	ADP	_	_	_	_	_	_
+25	gli	il	DET	_	_	_	_	_	_
+26	oggetti	oggetto	NOUN	_	_	_	_	_	_	usemID:USemD465oggetto	synsetID:4716;senseID:8345
+27	celesti	celesto	ADJ	_	_	_	_	_	_	usemID:USem78919celeste	synsetID:missing;senseID:missing
+28	che	che	PRON	_	_	_	_	_	_
+29	potevano	potere	AUX	_	_	_	_	_	_
+30	essere	essere	AUX	_	_	_	_	_	_
+31-32	osservati	_	_	_	_	_	_	_	_
+31	osserva	osservare	VERB	_	_	_	_	_	_	usemID:USemD5014osservare	synsetID:35356;senseID:45484
+32	ti	ti	PRON	_	_	_	_	_	_
+33	ad	a	ADP	_	_	_	_	_	_
+34	occhio	occhio	NOUN	_	_	_	_	_	_	usemID:USem1806occhio	synsetID:24955;senseID:33655
+35	nudo	nudo	ADJ	_	_	_	_	_	_	usemID:USem79099nudo	synsetID:42983;senseID:58086
+36-37	dall'	_	_	_	_	_	_	_	_
+36	da	da	ADP	_	_	_	_	_	_
+37	l'	il	DET	_	_	_	_	_	_
+38	uomo	uomo	NOUN	_	_	_	_	_	_	usemID:USem66950uomo	synsetID:863;senseID:1955
+39	e	e	CCONJ	_	_	_	_	_	_
+40-41	sulla	_	_	_	_	_	_	_	_
+40	su	su	ADP	_	_	_	_	_	_
+41	la	il	DET	_	_	_	_	_	_
+42	loro	loro	DET	_	_	_	_	_	_
+43	origine	origine	NOUN	_	_	_	_	_	_	usemID:USem3324origine	synsetID:2730;senseID:5155
+44	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 771
+# text = La malattia colpisce tra le 700.000 e le 1,6 milioni di donne gravide all'anno, con conseguenti aborti spontanei, bambini nati morti e casi di sifilide congenita.
+1	La	il	DET	_	_	_	_	_	_
+2	malattia	malattia	NOUN	_	_	_	_	_	_	usemID:USem3868malattia	synsetID:16180;senseID:23601
+3	colpisce	colpire	VERB	_	_	_	_	_	_	usemID:USem79267colpire	synsetID:38926;senseID:52100
+4	tra	tra	ADP	_	_	_	_	_	_
+5	le	il	DET	_	_	_	_	_	_
+6	700.000	700.000	NUM	_	_	_	_	_	_
+7	e	e	CCONJ	_	_	_	_	_	_
+8	le	il	DET	_	_	_	_	_	_
+9	1,6	1,6	NUM	_	_	_	_	_	_
+10	milioni	milione	NOUN	_	_	_	_	_	_	usemID:USem72927milione	synsetID:29462;senseID:38494
+11	di	di	ADP	_	_	_	_	_	_
+12	donne	donna	NOUN	_	_	_	_	_	_	usemID:USem3592donna	synsetID:50167;senseID:67049
+13	gravide	gravido	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44867;senseID:60655
+14-15	all'	_	_	_	_	_	_	_	_
+14	a	a	ADP	_	_	_	_	_	_
+15	l'	il	DET	_	_	_	_	_	_
+16	anno	anno	NOUN	_	_	_	_	_	_	usemID:USem1775anno	synsetID:7131;senseID:11813
+17	,	,	PUNCT	_	_	_	_	_	_
+18	con	con	ADP	_	_	_	_	_	_
+19	conseguenti	conseguente	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41935;senseID:54704
+20	aborti	aborto	NOUN	_	_	_	_	_	_	usemID:USem74956aborto	synsetID:6762;senseID:11304
+21	spontanei	spontaneo	ADJ	_	_	_	_	_	_	usemID:USemTH44514spontaneo	synsetID:41655;senseID:54081
+22	,	,	PUNCT	_	_	_	_	_	_
+23	bambini	bambino	NOUN	_	_	_	_	_	_	usemID:USem3593bambino	synsetID:1325;senseID:2742
+24	nati	nato	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41869;senseID:54566
+25	morti	morto	ADJ	_	_	_	_	_	_	usemID:USemD6202morto	synsetID:41864;senseID:54552
+26	e	e	CCONJ	_	_	_	_	_	_
+27	casi	caso	NOUN	_	_	_	_	_	_	usemID:USem67875caso	synsetID:7785;senseID:12743
+28	di	di	ADP	_	_	_	_	_	_
+29	sifilide	sifilide	NOUN	_	_	_	_	_	_	usemID:USemTH23851sifilide	synsetID:4065;senseID:7337
+30	congenita	congenito	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42798;senseID:57760
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 797
+# text = I sintomi negativi contribuiscono maggiormente alla scarsa qualità di vita, alla disabilità funzionale e comportano un peso per gli altri più di quanto non facciano i sintomi positivi.
+1	I	il	DET	_	_	_	_	_	_
+2	sintomi	sintomo	NOUN	_	_	_	_	_	_	usemID:USem3883sintomo	synsetID:11258;senseID:17428
+3	negativi	negativo	ADJ	_	_	_	_	_	_	usemID:USemD6877negativo	synsetID:42241;senseID:56721
+4	contribuiscono	contribuire	VERB	_	_	_	_	_	_	usemID:USem4929contribuire	synsetID:37081;senseID:49873
+5	maggiormente	maggiormente	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67493
+6-7	alla	_	_	_	_	_	_	_	_
+6	a	a	ADP	_	_	_	_	_	_
+7	la	il	DET	_	_	_	_	_	_
+8	scarsa	scarso	ADJ	_	_	_	_	_	_	usemID:USem61854scarso	synsetID:41996;senseID:54833
+9	qualità	qualità	NOUN	_	_	_	_	_	_	usemID:USem1339qualita1	synsetID:1471;senseID:2994
+10	di	di	ADP	_	_	_	_	_	_
+11	vita	vita	NOUN	_	_	_	_	_	_	usemID:USem67701vita	synsetID:24349;senseID:32995
+12	,	,	PUNCT	_	_	_	_	_	_
+13-14	alla	_	_	_	_	_	_	_	_
+13	a	a	ADP	_	_	_	_	_	_
+14	la	il	DET	_	_	_	_	_	_
+15	disabilità	disabilità	NOUN	_	_	_	_	_	_	usemID:USemTH06760disabilita1	synsetID:missing;senseID:missing
+16	funzionale	funzionale	ADJ	_	_	_	_	_	_	usemID:USemD66774funzionale	synsetID:missing;senseID:missing
+17	e	e	CCONJ	_	_	_	_	_	_
+18	comportano	comportare	VERB	_	_	_	_	_	_	usemID:USem61276comportare	synsetID:34448;senseID:47737
+19	un	uno	DET	_	_	_	_	_	_
+20	peso	peso	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:2951;senseID:5569
+21	per	per	ADP	_	_	_	_	_	_
+22	gli	il	DET	_	_	_	_	_	_
+23	altri	altro	PRON	_	_	_	_	_	_
+24	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67494
+25	di	di	ADP	_	_	_	_	_	_
+26	quanto	quanto	PRON	_	_	_	_	_	_
+27	non	non	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+28	facciano	fare	VERB	_	_	_	_	_	_	usemID:USem3928fare	synsetID:32124;senseID:41575
+29	i	il	DET	_	_	_	_	_	_
+30	sintomi	sintomo	NOUN	_	_	_	_	_	_	usemID:USem3883sintomo	synsetID:11258;senseID:17428
+31	positivi	positivo	ADJ	_	_	_	_	_	_	usemID:USemD6878positivo	synsetID:44333;senseID:60032
+32	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1011
+# text = La maggior parte dei casi di diabete coinvolgono molti geni, ognuno dei quali può dare un piccolo contributo ad una maggiore probabilità di diventare un diabetico di tipo 2.
+1	La	il	DET	_	_	_	_	_	_
+2	maggior	maggiore	ADJ	_	_	_	_	_	_	usemID:USemD5448maggiore	MW[0]-synsetID:28702;senseID:34838
+3	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	MW[0]-synsetID:28702;senseID:34838
+4-5	dei	_	_	_	_	_	_	_	_
+4	di	di	ADP	_	_	_	_	_	_
+5	i	il	DET	_	_	_	_	_	_
+6	casi	caso	NOUN	_	_	_	_	_	_	usemID:USem67875caso	synsetID:7785;senseID:12743
+7	di	di	ADP	_	_	_	_	_	_
+8	diabete	diabete	NOUN	_	_	_	_	_	_	usemID:USemD5899diabete	synsetID:2074;senseID:4015
+9	coinvolgono	coinvolgere	VERB	_	_	_	_	_	_	usemID:USem61282coinvolgere	synsetID:38534;senseID:51639
+10	molti	molto	DET	_	_	_	_	_	_
+11	geni	gene	NOUN	_	_	_	_	_	_	usemID:USemD66284gene	synsetID:11732;senseID:18055
+12	,	,	PUNCT	_	_	_	_	_	_
+13	ognuno	ognuno	PRON	_	_	_	_	_	_
+14-15	dei	_	_	_	_	_	_	_	_
+14	di	di	ADP	_	_	_	_	_	_
+15	i	il	DET	_	_	_	_	_	_
+16	quali	quale	PRON	_	_	_	_	_	_
+17	può	potere	AUX	_	_	_	_	_	_
+18	dare	dare	VERB	_	_	_	_	_	_	usemID:USem7149dare	synsetID:32785;senseID:42952
+19	un	uno	DET	_	_	_	_	_	_
+20	piccolo	piccolo	ADJ	_	_	_	_	_	_	usemID:USem61848piccolo	synsetID:44742;senseID:60510
+21	contributo	contributo	NOUN	_	_	_	_	_	_	usemID:USem60416contributo	synsetID:6623;senseID:11104
+22	ad	a	ADP	_	_	_	_	_	_
+23	una	uno	DET	_	_	_	_	_	_
+24	maggiore	maggiore	ADJ	_	_	_	_	_	_	usemID:USemD5448maggiore	synsetID:43890;senseID:59446
+25	probabilità	probabilità	NOUN	_	_	_	_	_	_	usemID:USem60657probabilita1	synsetID:7891;senseID:12900
+26	di	di	ADP	_	_	_	_	_	_
+27	diventare	diventare	VERB	_	_	_	_	_	_	usemID:USem61409diventare	synsetID:36253;senseID:48685 
+28	un	uno	DET	_	_	_	_	_	_
+29	diabetico	diabetico	NOUN	_	_	_	_	_	_	usemID:USem6015diabetico	synsetID:44559;senseID:60293
+30	di	di	ADP	_	_	_	_	_	_
+31	tipo	tipo	NOUN	_	_	_	_	_	_	usemID:USem69220tipo	synsetID:16269;senseID:23704
+32	2	2	NUM	_	_	_	_	_	_
+33	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1013
+# text = Il Governo Britannico promise un risarcimento, accordi economici favorevoli, di non interferire nelle questioni interne islandesi e di ritirare le truppe alla fine del conflitto.
+1	Il	il	DET	_	_	_	_	_	_
+2	Governo	governo	NOUN	_	_	_	_	_	_	usemID:USem59435governo	synsetID:2430;senseID:4614
+3	Britannico	Britannico	ADJ	_	_	_	_	_	_	usemID:USem66050britannico	synsetID:44506;senseID:60235
+4	promise	promettere	VERB	_	_	_	_	_	_	usemID:USem4798promettere	synsetID:33208;senseID:43723
+5	un	uno	DET	_	_	_	_	_	_
+6	risarcimento	risarcimento	NOUN	_	_	_	_	_	_	usemID:USem60659risarcimento	synsetID:1622;senseID:3234
+7	,	,	PUNCT	_	_	_	_	_	_
+8	accordi	accordo	NOUN	_	_	_	_	_	_	usemID:USem79378accordo	synsetID:7412;senseID:12202
+9	economici	economico	ADJ	_	_	_	_	_	_	usemID:USem61949economico	synsetID:45219;senseID:61043
+10	favorevoli	favorevole	ADJ	_	_	_	_	_	_	usemID:USem76967favorevole	synsetID:44333;senseID:60031
+11	,	,	PUNCT	_	_	_	_	_	_
+12	di	di	ADP	_	_	_	_	_	_
+13	non	non	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+14	interferire	interferire	VERB	_	_	_	_	_	_	usemID:USem66350interferire	synsetID:37477;senseID:50336
+15-16	nelle	_	_	_	_	_	_	_	_
+15	in	in	ADP	_	_	_	_	_	_
+16	le	il	DET	_	_	_	_	_	_
+17	questioni	questione	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:4720;senseID:8354
+18	interne	interno	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42853;senseID:57857
+19	islandesi	islandese	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+20	e	e	CCONJ	_	_	_	_	_	_
+21	di	di	ADP	_	_	_	_	_	_
+22	ritirare	ritirare	VERB	_	_	_	_	_	_	usemID:missing	synsetID:37272;senseID:50132
+23	le	il	DET	_	_	_	_	_	_
+24	truppe	truppa	NOUN	_	_	_	_	_	_	usemID:USem59465truppa	synsetID:22805;senseID:31235
+25-26	alla	_	_	_	_	_	_	_	_
+25	a	a	ADP	_	_	_	_	_	_
+26	la	il	DET	_	_	_	_	_	_
+27	fine	fine	NOUN	_	_	_	_	_	_	usemID:USem60074fine	synsetID:2187;senseID:4250
+28-29	del	_	_	_	_	_	_	_	_
+28	di	di	ADP	_	_	_	_	_	_
+29	il	il	DET	_	_	_	_	_	_
+30	conflitto	conflitto	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:12178;senseID:18604
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1078
+# text = La regina Vittoria e il Principe Alberto erano convinti che il loro figlio più grande dovesse avere un'istruzione che lo preparasse ad essere un monarca costituzionale modello.
+1	La	il	DET	_	_	_	_	_	_
+2	regina	regina	NOUN	_	_	_	_	_	_	usemID:USem3596regina	synsetID:7467;senseID:12286
+3	Vittoria	Vittoria	PROPN	_	_	_	_	_	_
+4	e	e	CCONJ	_	_	_	_	_	_
+5	il	il	DET	_	_	_	_	_	_
+6	Principe	Principe	PROPN	_	_	_	_	_	_
+7	Alberto	Alberto	PROPN	_	_	_	_	_	_
+8	erano	essere	AUX	_	_	_	_	_	_
+9	convinti	convinto	ADJ	_	_	_	_	_	_	usemID:USemD76586convinto	synsetID:42608;senseID:57421
+10	che	che	SCONJ	_	_	_	_	_	_
+11	il	il	DET	_	_	_	_	_	_
+12	loro	loro	DET	_	_	_	_	_	_
+13	figlio	figlio	NOUN	_	_	_	_	_	_	usemID:USem4026figlio	synsetID:7768;senseID:12708
+14	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67494
+15	grande	grande	ADJ	_	_	_	_	_	_	usemID:USemD78266grande	synsetID:44137;senseID:59790
+16	dovesse	dovere	AUX	_	_	_	_	_	_
+17	avere	avere	VERB	_	_	_	_	_	_	usemID:USem4817avere	synsetID:40186;senseID:53510
+18	un'	uno	DET	_	_	_	_	_	_
+19	istruzione	istruzione	NOUN	_	_	_	_	_	_	usemID:USem62268istruzione	synsetID:5480;senseID:9450
+20	che	che	PRON	_	_	_	_	_	_
+21	lo	lo	PRON	_	_	_	_	_	_
+22	preparasse	preparare	VERB	_	_	_	_	_	_	usemID:USem62886preparare	synsetID:39039;senseID:52219
+23	ad	a	ADP	_	_	_	_	_	_
+24	essere	essere	AUX	_	_	_	_	_	_
+25	un	uno	DET	_	_	_	_	_	_
+26	monarca	monarca	NOUN	_	_	_	_	_	_	usemID:USem63641monarca	synsetID:3409;senseID:6286
+27	costituzionale	costituzionale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43744;senseID:59250
+28	modello	modello	NOUN	_	_	_	_	_	_	usemID:USem63153modello	synsetID:25379;senseID:37083
+29	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1085
+# text = Ciò che è giunto a noi è rappresentato da 89 ballate a due voci, 42 ballate a tre voci ed altre 9 che esistono sia nella versione a due che in quella a tre voci.
+1	Ciò	ciò	PRON	_	_	_	_	_	_
+2	che	che	PRON	_	_	_	_	_	_
+3	è	essere	AUX	_	_	_	_	_	_
+4	giunto	giungere	VERB	_	_	_	_	_	_	usemID:USem79727giungere	synsetID:36693;senseID:49281
+5	a	a	ADP	_	_	_	_	_	_
+6	noi	noi	PRON	_	_	_	_	_	_
+7	è	essere	AUX	_	_	_	_	_	_
+8	rappresentato	rappresentare	VERB	_	_	_	_	_	_	usemID:USemD7323rappresentare	synsetID:missing;senseID:missing
+9	da	da	ADP	_	_	_	_	_	_
+10	89	89	NUM	_	_	_	_	_	_
+11	ballate	ballata	NOUN	_	_	_	_	_	_	usemID:USem66995ballata	synsetID:16681;senseID:24174
+12	a	a	ADP	_	_	_	_	_	_
+13	due	due	NUM	_	_	_	_	_	_
+14	voci	voce	NOUN	_	_	_	_	_	_	usemID:USemD7102voce	synsetID:23554;senseID:32074
+15	,	,	PUNCT	_	_	_	_	_	_
+16	42	42	NUM	_	_	_	_	_	_
+17	ballate	ballata	NOUN	_	_	_	_	_	_	usemID:USem66995ballata	synsetID:16681;senseID:24174
+18	a	a	ADP	_	_	_	_	_	_
+19	tre	tre	NUM	_	_	_	_	_	_
+20	voci	voce	NOUN	_	_	_	_	_	_	usemID:USemD7102voce	synsetID:23554;senseID:32074
+21	ed	e	CCONJ	_	_	_	_	_	_
+22	altre	altro	DET	_	_	_	_	_	_
+23	9	9	NUM	_	_	_	_	_	_
+24	che	che	PRON	_	_	_	_	_	_
+25	esistono	esistere	VERB	_	_	_	_	_	_	usemID:USem3912esistere	synsetID:32988;senseID:43430
+26	sia	sia	CCONJ	_	_	_	_	_	_
+27-28	nella	_	_	_	_	_	_	_	_
+27	in	in	ADP	_	_	_	_	_	_
+28	la	il	DET	_	_	_	_	_	_
+29	versione	versione	NOUN	_	_	_	_	_	_	usemID:USemD65764versione	synsetID:6510;senseID:10929
+30	a	a	ADP	_	_	_	_	_	_
+31	due	due	NUM	_	_	_	_	_	_
+32	che	che	CCONJ	_	_	_	_	_	_
+33	in	in	ADP	_	_	_	_	_	_
+34	quella	quello	PRON	_	_	_	_	_	_
+35	a	a	ADP	_	_	_	_	_	_
+36	tre	tre	NUM	_	_	_	_	_	_
+37	voci	voce	NOUN	_	_	_	_	_	_	usemID:USemD7102voce	synsetID:23554;senseID:32074
+38	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1145
+# text = Una serie di misure per aumentare l'accesso ai test appare efficace nel ridurre i tassi di sifilide congenita nei paesi a basso e medio reddito.
+1	Una	uno	DET	_	_	_	_	_	_
+2	serie	serie	NOUN	_	_	_	_	_	_	usemID:USemD64049serie	synsetID:9152;senseID:13529
+3	di	di	ADP	_	_	_	_	_	_
+4	misure	misura	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:17639;senseID:25327
+5	per	per	ADP	_	_	_	_	_	_
+6	aumentare	aumentare	VERB	_	_	_	_	_	_	usemID:USem3980aumentare	synsetID:33485;senseID:46030
+7	l'	il	DET	_	_	_	_	_	_
+8	accesso	accesso	NOUN	_	_	_	_	_	_	usemID:USem73723accesso	synsetID:7394;senseID:12181
+9-10	ai	_	_	_	_	_	_	_	_
+9	a	a	ADP	_	_	_	_	_	_
+10	i	il	DET	_	_	_	_	_	_
+11	test	test	NOUN	_	_	_	_	_	_	usemID:USem77808test	synsetID:2156;senseID:4182
+12	appare	apparire	VERB	_	_	_	_	_	_	usemID:USem79106apparire	synsetID:35535;senseID:45724
+13	efficace	efficace	ADJ	_	_	_	_	_	_	usemID:USemD2742efficace	synsetID:44922;senseID:60726
+14-15	nel	_	_	_	_	_	_	_	_
+14	in	in	ADP	_	_	_	_	_	_
+15	il	il	DET	_	_	_	_	_	_
+16	ridurre	ridurre	VERB	_	_	_	_	_	_	usemID:USem69767ridurre	synsetID:32056;senseID:41430
+17	i	il	DET	_	_	_	_	_	_
+18	tassi	tasso	NOUN	_	_	_	_	_	_	usemID:USem1194tasso	synsetID:22613;senseID:31029
+19	di	di	ADP	_	_	_	_	_	_
+20	sifilide	sifilide	NOUN	_	_	_	_	_	_	usemID:USemTH23851sifilide	synsetID:4065;senseID:7337
+21	congenita	congenito	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:50408;senseID:67337
+22-23	nei	_	_	_	_	_	_	_	_
+22	in	in	ADP	_	_	_	_	_	_
+23	i	il	DET	_	_	_	_	_	_
+24	paesi	paese	NOUN	_	_	_	_	_	_	usemID:USem2231paese	synsetID:16107;senseID:23507
+25	a	a	ADP	_	_	_	_	_	_
+26	basso	basso	ADJ	_	_	_	_	_	_	usemID:USem62086basso	synsetID:45353;senseID:61184
+27	e	e	CCONJ	_	_	_	_	_	_
+28	medio	medio	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42812;senseID:57787
+29	reddito	reddito	NOUN	_	_	_	_	_	_	usemID:USem59794reddito	synsetID:25976;senseID:37485
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1148
+# text = Il volume di un tale cubo è pari a una unità di misura di volume e la sua area è pari a sei unità di misura di superficie.
+1	Il	il	DET	_	_	_	_	_	_
+2	volume	volume	NOUN	_	_	_	_	_	_	usemID:USem69198volume	synsetID:30746;senseID:39816
+3	di	di	ADP	_	_	_	_	_	_
+4	un	uno	DET	_	_	_	_	_	_
+5	tale	tale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+6	cubo	cubo	NOUN	_	_	_	_	_	_	usemID:USem62891cubo	synsetID:23339;senseID:31832
+7	è	essere	AUX	_	_	_	_	_	_
+8	pari	pari	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42478;senseID:57194
+9	a	a	ADP	_	_	_	_	_	_
+10	una	uno	DET	_	_	_	_	_	_
+11	unità	unità	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30574
+12	di	di	ADP	_	_	_	_	_	_
+13	misura	misura	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30574
+14	di	di	ADP	_	_	_	_	_	_
+15	volume	volume	NOUN	_	_	_	_	_	_	usemID:USem69198volume	synsetID:30746;senseID:39816
+16	e	e	CCONJ	_	_	_	_	_	_
+17	la	il	DET	_	_	_	_	_	_
+18	sua	suo	DET	_	_	_	_	_	_
+19	area	area	NOUN	_	_	_	_	_	_	usemID:USem67915area	synsetID:19239;senseID:30175
+20	è	essere	AUX	_	_	_	_	_	_
+21	pari	pari	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42478;senseID:57194
+22	a	a	ADP	_	_	_	_	_	_
+23	sei	sei	NUM	_	_	_	_	_	_
+24	unità	unità	NOUN	_	_	_	_	_	_	MW[1]-usemID:USemD5334unita1_di_misura	MW[1]-synsetID:19583;senseID:30574
+25	di	di	ADP	_	_	_	_	_	_
+26	misura	misura	NOUN	_	_	_	_	_	_	MW[1]-usemID:USemD5334unita1_di_misura	MW[1]-synsetID:19583;senseID:30574
+27	di	di	ADP	_	_	_	_	_	_
+28	superficie	superficie	NOUN	_	_	_	_	_	_	usemID:USemD6166superficie	synsetID:16717;senseID:24217
+29	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1154
+# text = Attorno al 1095, papa Urbano II, su invito dell'imperatore d'oriente, predicò una crociata contro i Turchi per liberare Gerusalemme e la Terrasanta dal loro dominio.
+1	Attorno	attorno	ADV	_	_	_	_	_	_	usemID:USemTH41041attorno	synsetID:48922;senseID:65278
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	_	_	_	_	_	_
+3	il	il	DET	_	_	_	_	_	_
+4	1095	1095	NUM	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	papa	papa	NOUN	_	_	_	_	_	_	usemID:USem62581papa	synsetID:missing;senseID:missing
+7	Urbano	Urbano	PROPN	_	_	_	_	_	_
+8	II	II	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+9	,	,	PUNCT	_	_	_	_	_	_
+10	su	su	ADP	_	_	_	_	_	_
+11	invito	invito	NOUN	_	_	_	_	_	_	usemID:USem72535invito	synsetID:24188;senseID:32812
+12-13	dell'	_	_	_	_	_	_	_	_
+12	di	di	ADP	_	_	_	_	_	_
+13	l'	il	DET	_	_	_	_	_	_
+14	imperatore	imperatore	NOUN	_	_	_	_	_	_	usemID:USem64169imperatore	synsetID:17021;senseID:24597
+15	d'	di	ADP	_	_	_	_	_	_
+16	oriente	oriente	NOUN	_	_	_	_	_	_	usemID:USem68513oriente	synsetID:6372;senseID:10734
+17	,	,	PUNCT	_	_	_	_	_	_
+18	predicò	predicare	VERB	_	_	_	_	_	_	usemID:USem63741predicare	synsetID:39422;senseID:52645
+19	una	uno	DET	_	_	_	_	_	_
+20	crociata	crociata	NOUN	_	_	_	_	_	_	usemID:USemD7265crociata	synsetID:30;senseID:572
+21	contro	contro	ADP	_	_	_	_	_	_
+22	i	il	DET	_	_	_	_	_	_
+23	Turchi	Turchi	PROPN	_	_	_	_	_	_
+24	per	per	ADP	_	_	_	_	_	_
+25	liberare	liberare	VERB	_	_	_	_	_	_	usemID:USem74095liberare	synsetID:33113;senseID:43664
+26	Gerusalemme	Gerusalemme	PROPN	_	_	_	_	_	_
+27	e	e	CCONJ	_	_	_	_	_	_
+28	la	il	DET	_	_	_	_	_	_
+29	Terrasanta	Terrasanta	PROPN	_	_	_	_	_	_
+30-31	dal	_	_	_	_	_	_	_	_
+30	da	da	ADP	_	_	_	_	_	_
+31	il	il	DET	_	_	_	_	_	_
+32	loro	loro	DET	_	_	_	_	_	_
+33	dominio	dominio	NOUN	_	_	_	_	_	_	usemID:USem59997dominio	synsetID:11515;senseID:17757
+34	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1193
+# text = Oggi l'intero sito è un'area protetta, con lo status di patrimonio nazionale" della Namibia, e può essere visitato solo insieme a guide autorizzate.
+1	Oggi	oggi	ADV	_	_	_	_	_	_	usemID:missing	synsetID:48687;senseID:64733
+2	l'	il	DET	_	_	_	_	_	_
+3	intero	intero	ADJ	_	_	_	_	_	_	usemID:USem76332intero	synsetID:45227;senseID:61052 
+4	sito	sito	NOUN	_	_	_	_	_	_	usemID:USem2077sito	synsetID:2256;senseID:4360
+5	è	essere	AUX	_	_	_	_	_	_
+6	un'	uno	DET	_	_	_	_	_	_
+7	area	area	NOUN	_	_	_	_	_	_	usemID:USem67917area	MW[0]-synsetID:16775;senseID:24289
+8	protetta	protetto	ADJ	_	_	_	_	_	_	usemID:USem77641protetto	MW[0]-synsetID:16775;senseID:24289
+9	,	,	PUNCT	_	_	_	_	_	_
+10	con	con	ADP	_	_	_	_	_	_
+11	lo	il	DET	_	_	_	_	_	_
+12	status	status	NOUN	_	_	_	_	_	_	usemID:USemTH25160status	synsetID:missing;senseID:missing
+13	di	di	ADP	_	_	_	_	_	_
+14	patrimonio	patrimonio	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:812;senseID:1835
+15	nazionale	nazionale	ADJ	_	_	_	_	_	_	usemID:USem61918nazionale	synsetID:41665;senseID:54107
+16	"	"	PUNCT	_	_	_	_	_	_
+17-18	della	_	_	_	_	_	_	_	_
+17	di	di	ADP	_	_	_	_	_	_
+18	la	il	DET	_	_	_	_	_	_
+19	Namibia	Namibia	PROPN	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	e	e	CCONJ	_	_	_	_	_	_
+22	può	potere	AUX	_	_	_	_	_	_
+23	essere	essere	AUX	_	_	_	_	_	_
+24	visitato	visitare	VERB	_	_	_	_	_	_	usemID:USem64290visitare	synsetID:40714;senseID:55576
+25	solo	solo	ADV	_	_	_	_	_	_	usemID:missing	synsetID:48685;senseID:64728
+26	insieme	insieme	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+27	a	a	ADP	_	_	_	_	_	_
+28	guide	guida	NOUN	_	_	_	_	_	_	usemID:USem67972guida	synsetID:6366;senseID:10719
+29	autorizzate	autorizzato	ADJ	_	_	_	_	_	_	usemID:USemD66529autorizzato	synsetID:missing;senseID:missing
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1195
+# text = I fattori sociali includono gli aspetti culturali e di consapevolezza sanitaria, il tasso di crescita della popolazione, la distribuzione per età, attenzione per la carriera e enfasi sulla sicurezza.
+1	I	il	DET	_	_	_	_	_	_
+2	fattori	fattore	NOUN	_	_	_	_	_	_	usemID:USem3296fattore	synsetID:3790;senseID:6916
+3	sociali	sociale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44501;senseID:60231
+4	includono	includere	VERB	_	_	_	_	_	_	usemID:USem4815includere	synsetID:34448;senseID:47735
+5	gli	il	DET	_	_	_	_	_	_
+6	aspetti	aspetto	NOUN	_	_	_	_	_	_	usemID:USem62403aspetto	synsetID:12918;senseID:19530
+7	culturali	culturale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43637;senseID:59093
+8	e	e	CCONJ	_	_	_	_	_	_
+9	di	di	ADP	_	_	_	_	_	_
+10	consapevolezza	consapevolezza	NOUN	_	_	_	_	_	_	usemID:USem1481consapevolezza	synsetID:7264;senseID:11997
+11	sanitaria	sanitario	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44934;senseID:60739
+12	,	,	PUNCT	_	_	_	_	_	_
+13	il	il	DET	_	_	_	_	_	_
+14	tasso	tasso	NOUN	_	_	_	_	_	_	usemID:USem1194tasso	synsetID:22613;senseID:31029
+15	di	di	ADP	_	_	_	_	_	_
+16	crescita	crescita	NOUN	_	_	_	_	_	_	usemID:USem61645crescita	synsetID:9567;senseID:14079
+17-18	della	_	_	_	_	_	_	_	_
+17	di	di	ADP	_	_	_	_	_	_
+18	la	il	DET	_	_	_	_	_	_
+19	popolazione	popolazione	NOUN	_	_	_	_	_	_	usemID:USemD955popolazione	synsetID:15298;senseID:22517
+20	,	,	PUNCT	_	_	_	_	_	_
+21	la	il	DET	_	_	_	_	_	_
+22	distribuzione	distribuzione	NOUN	_	_	_	_	_	_	usemID:USem60646distribuzione	synsetID:1175;senseID:2472
+23	per	per	ADP	_	_	_	_	_	_
+24	età	età	NOUN	_	_	_	_	_	_	usemID:USemTH37759eta1	synsetID:16327;senseID:23768
+25	,	,	PUNCT	_	_	_	_	_	_
+26	attenzione	attenzione	NOUN	_	_	_	_	_	_	usemID:USem69007attenzione	synsetID:857;senseID:1941
+27	per	per	ADP	_	_	_	_	_	_
+28	la	il	DET	_	_	_	_	_	_
+29	carriera	carriera	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:24051;senseID:32652
+30	e	e	CCONJ	_	_	_	_	_	_
+31	enfasi	enfasi	NOUN	_	_	_	_	_	_	usemID:USem069620enfasi	synsetID:11844;senseID:18199
+32-33	sulla	_	_	_	_	_	_	_	_
+32	su	su	ADP	_	_	_	_	_	_
+33	la	il	DET	_	_	_	_	_	_
+34	sicurezza	sicurezza	NOUN	_	_	_	_	_	_	usemID:USem2575sicurezza	synsetID:6367;senseID:10721
+35	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1201
+# text = Gli individui con importanti sintomi negativi spesso presentano una storia di scarso adattamento già prima della comparsa della malattia e la risposta alla terapia farmacologica è spesso limitata.
+1	Gli	il	DET	_	_	_	_	_	_
+2	individui	individuo	NOUN	_	_	_	_	_	_	usemID:USemD5558individuo	synsetID:865;senseID:1960
+3	con	con	ADP	_	_	_	_	_	_
+4	importanti	importante	ADJ	_	_	_	_	_	_	usemID:USemD6518importante	synsetID:42456;senseID:57145
+5	sintomi	sintomo	NOUN	_	_	_	_	_	_	usemID:USem3883sintomo	synsetID:11258;senseID:17428
+6	negativi	negativo	ADJ	_	_	_	_	_	_	usemID:USem79005negativo	synsetID:42241;senseID:56721
+7	spesso	spesso	ADV	_	_	_	_	_	_	usemID:missing	synsetID:48642;senseID:64535
+8	presentano	presentare	VERB	_	_	_	_	_	_	usemID:USem7084presentare	synsetID:39685;senseID:52950
+9	una	uno	DET	_	_	_	_	_	_
+10	storia	storia	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+11	di	di	ADP	_	_	_	_	_	_
+12	scarso	scarso	ADJ	_	_	_	_	_	_	usemID:USem61854scarso	synsetID:41996;senseID:54833
+13	adattamento	adattamento	NOUN	_	_	_	_	_	_	usemID:USem73762adattamento	synsetID:11116;senseID:17247
+14	già	già	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+15	prima	prima	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+16-17	della	_	_	_	_	_	_	_	_
+16	di	di	ADP	_	_	_	_	_	_
+17	la	il	DET	_	_	_	_	_	_
+18	comparsa	comparsa	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:19568;senseID:30545
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	_	_	_	_	_	_
+20	la	il	DET	_	_	_	_	_	_
+21	malattia	malattia	NOUN	_	_	_	_	_	_	usemID:USem3868malattia	synsetID:16180;senseID:23601
+22	e	e	CCONJ	_	_	_	_	_	_
+23	la	il	DET	_	_	_	_	_	_
+24	risposta	risposta	NOUN	_	_	_	_	_	_	usemID:USem60366risposta	synsetID:9737;senseID:15439
+25-26	alla	_	_	_	_	_	_	_	_
+25	a	a	ADP	_	_	_	_	_	_
+26	la	il	DET	_	_	_	_	_	_
+27	terapia	terapia	NOUN	_	_	_	_	_	_	usemID:USem62882terapia	synsetID:3469;senseID:6396
+28	farmacologica	farmacologico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41988;senseID:54809
+29	è	essere	AUX	_	_	_	_	_	_
+30	spesso	spesso	ADV	_	_	_	_	_	_		usemID:missing	synsetID:48642;senseID:64535
+31	limitata	limitare	VERB	_	_	_	_	_	_	usemID:USem76360limitare	synsetID:33996;senseID:46925
+32	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1253
+# text = Le anfetamine, la cocaina e, in misura minore, l'alcol possono portare allo sviluppo di una psicosi che si presenta in modo molto simile alla schizofrenia.
+1	Le	il	DET	_	_	_	_	_	_
+2	anfetamine	anfetamina	NOUN	_	_	_	_	_	_	usemID:USem70826anfetamina	synsetID:17484;senseID:25141
+3	,	,	PUNCT	_	_	_	_	_	_
+4	la	il	DET	_	_	_	_	_	_
+5	cocaina	cocaina	NOUN	_	_	_	_	_	_	usemID:USem72780cocaina	synsetID:7973;senseID:14168
+6	e	e	CCONJ	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	in	in	ADP	_	_	_	_	_	_
+9	misura	misura	NOUN	_	_	_	_	_	_	usemID:USem2452misura	synsetID:14595;senseID:21656
+10	minore	minore	ADJ	_	_	_	_	_	_	usemID:USemD5449minore	synsetID:44004;senseID:59612
+11	,	,	PUNCT	_	_	_	_	_	_
+12	l'	il	DET	_	_	_	_	_	_
+13	alcol	alcol	NOUN	_	_	_	_	_	_	usemID:USem3900alcol	synsetID:15586;senseID:22872
+14	possono	potere	AUX	_	_	_	_	_	_
+15	portare	portare	VERB	_	_	_	_	_	_	usemID:USem79501portare	synsetID:32778;senseID:42923
+16-17	allo	_	_	_	_	_	_	_	_
+16	a	a	ADP	_	_	_	_	_	_
+17	lo	il	DET	_	_	_	_	_	_
+18	sviluppo	sviluppo	NOUN	_	_	_	_	_	_	usemID:USem61654sviluppo	synsetID:7068;senseID:11735
+19	di	di	ADP	_	_	_	_	_	_
+20	una	uno	DET	_	_	_	_	_	_
+21	psicosi	psicosi	NOUN	_	_	_	_	_	_	usemID:USem73338psicosi	synsetID:802;senseID:1811
+22	che	che	PRON	_	_	_	_	_	_
+23	si	si	PRON	_	_	_	_	_	_
+24	presenta	presentare	VERB	_	_	_	_	_	_	usemID:USem61375presentare	synsetID:33480;senseID:46023
+25	in	in	ADP	_	_	_	_	_	_
+26	modo	modo	NOUN	_	_	_	_	_	_	usemID:USem59622modo	synsetID:29005;senseID:38014
+27	molto	molto	ADV	_	_	_	_	_	_	usemID:USem62214molto	synsetID:48992;senseID:65404
+28	simile	simile	ADJ	_	_	_	_	_	_	usemID:USem61822simile	synsetID:42539;senseID:57294
+29-30	alla	_	_	_	_	_	_	_	_
+29	a	a	ADP	_	_	_	_	_	_
+30	la	il	DET	_	_	_	_	_	_
+31	schizofrenia	schizofrenia	NOUN	_	_	_	_	_	_	usemID:USemD5909schizofrenia	synsetID:16862;senseID:24403
+32	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1289
+# text = Ciò potrebbe essere in parte spiegato dal fatto che avere figli a carico comporta una riduzione dell'attività fisica, perlomeno nel mondo occidentale.
+1	Ciò	ciò	PRON	_	_	_	_	_	_
+2	potrebbe	potere	AUX	_	_	_	_	_	_
+3	essere	essere	AUX	_	_	_	_	_	_
+4	in	in	ADP	_	_	_	_	_	_
+5	parte	parte	NOUN	_	_	_	_	_	_	usemID:missing	MW[0]-synsetID:49032;senseID:65468
+6	spiegato	spiegare	VERB	_	_	_	_	_	_	usemID:USem3927spiegare	synsetID:33812;senseID:46594
+7-8	dal	_	_	_	_	_	_	_	_
+7	da	da	ADP	_	_	_	_	_	_
+8	il	il	DET	_	_	_	_	_	_
+9	fatto	fatto	NOUN	_	_	_	_	_	_	usemID:USem62856fatto	synsetID:7783;senseID:12736
+10	che	che	SCONJ	_	_	_	_	_	_
+11	avere	avere	VERB	_	_	_	_	_	_	usemID:USem4817avere	synsetID:36891;senseID:49543
+12	figli	figlio	NOUN	_	_	_	_	_	_	usemID:USem4069figlio	synsetID:7767;senseID:12707
+13	a	a	ADP	_	_	_	_	_	_
+14	carico	carico	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:28643;senseID:34772
+15	comporta	comportare	VERB	_	_	_	_	_	_	usemID:USem61276comportare	synsetID:34448;senseID:47737
+16	una	uno	DET	_	_	_	_	_	_
+17	riduzione	riduzione	NOUN	_	_	_	_	_	_	usemID:USem60232riduzione	synsetID:6321;senseID:10654
+18-19	dell'	_	_	_	_	_	_	_	_
+18	di	di	ADP	_	_	_	_	_	_
+19	l'	il	DET	_	_	_	_	_	_
+20	attività	attività	NOUN	_	_	_	_	_	_	usemID:USemD5408attivita1	synsetID:12814;senseID:19401
+21	fisica	fisico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42119;senseID:55075
+22	,	,	PUNCT	_	_	_	_	_	_
+23	perlomeno	perlomeno	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+24-25	nel	_	_	_	_	_	_	_	_
+24	in	in	ADP	_	_	_	_	_	_
+25	il	il	DET	_	_	_	_	_	_
+26	mondo	mondo	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:30286;senseID:39343
+27	occidentale	occidentale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42600;senseID:57407
+28	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1310
+# text = Nel XX secolo essendo stato raggiunto il limite massimo del potenziale genetico di altezza, il peso ha iniziato a crescere molto di più rispetto all'altezza, con il conseguente fenomeno dell'obesità.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	_	_	_	_	_	_
+2	il	il	DET	_	_	_	_	_	_
+3	XX	ventesimo	ADJ	_	_	_	_	_	_	usemID:USemTH27757ventesimo	synset:29364;sense:38393
+4	secolo	secolo	NOUN	_	_	_	_	_	_	usemID:USem2777secolo	synsetID:2798;senseID:5288
+5	essendo	essere	AUX	_	_	_	_	_	_
+6	stato	essere	AUX	_	_	_	_	_	_
+7	raggiunto	raggiungere	VERB	_	_	_	_	_	_	usemID:USem77283raggiungere	synsetID:37369;senseID:49818
+8	il	il	DET	_	_	_	_	_	_
+9	limite	limite	NOUN	_	_	_	_	_	_	usemID:USem67748limite	synsetID:11360;senseID:17557
+10	massimo	massimo	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:49957;senseID:66905
+11-12	del	_	_	_	_	_	_	_	_
+11	di	di	ADP	_	_	_	_	_	_
+12	il	il	DET	_	_	_	_	_	_
+13	potenziale	potenziale	NOUN	_	_	_	_	_	_	usemID:USemTH33231potenziale	synsetID:9659;senseID:15339
+14	genetico	genetico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42223;senseID:55324
+15	di	di	ADP	_	_	_	_	_	_
+16	altezza	altezza	NOUN	_	_	_	_	_	_	usemID:USemD5532altezza	synsetID:10852;senseID:16909
+17	,	,	PUNCT	_	_	_	_	_	_
+18	il	il	DET	_	_	_	_	_	_
+19	peso	peso	NOUN	_	_	_	_	_	_	usemID:USem2574peso	synsetID:31191;senseID:40259
+20	ha	avere	AUX	_	_	_	_	_	_
+21	iniziato	iniziare	VERB	_	_	_	_	_	_	usemID:USem79056iniziare	synsetID:32039;senseID:41395
+22	a	a	ADP	_	_	_	_	_	_
+23	crescere	crescere	VERB	_	_	_	_	_	_	usemID:USem61635crescere	synsetID:33487;senseID:46038
+24	molto	molto	ADV	_	_	_	_	_	_	usemID:USem62212molto	synsetID:48992;senseID:65404
+25	di	di	ADP	_	_	_	_	_	_
+26	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67494
+27	rispetto	rispetto	ADV	_	_	_	_	_	_
+28-29	all'	_	_	_	_	_	_	_	_
+28	a	a	ADP	_	_	_	_	_	_
+29	l'	il	DET	_	_	_	_	_	_
+30	altezza	altezza	NOUN	_	_	_	_	_	_	usemID:USemD5532altezza	synsetID:10852;senseID:16909
+31	,	,	PUNCT	_	_	_	_	_	_
+32	con	con	ADP	_	_	_	_	_	_
+33	il	il	DET	_	_	_	_	_	_
+34	conseguente	conseguente	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41935;senseID:54704
+35	fenomeno	fenomeno	NOUN	_	_	_	_	_	_	usemID:USemD5364fenomeno	synsetID:26410;senseID:36308
+36-37	dell'	_	_	_	_	_	_	_	_
+36	di	di	ADP	_	_	_	_	_	_
+37	l'	il	DET	_	_	_	_	_	_
+38	obesità	obesità	NOUN	_	_	_	_	_	_	usemID:USem73875obesita	synsetID:10284;senseID:16157
+39	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1366
+# text = Anche il sarcofago fu profanato e sfregiato, praticamente distrutto, ma dopo la scoperta è stato restaurato e si trova in esposizione permanente al Museo egizio del Cairo.
+1	Anche	anche	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+2	il	il	DET	_	_	_	_	_	_
+3	sarcofago	sarcofago	NOUN	_	_	_	_	_	_	usemID:USem63146sarcofago	synsetID:2721;senseID:5143
+4	fu	essere	AUX	_	_	_	_	_	_
+5	profanato	profanare	VERB	_	_	_	_	_	_	usemID:missing	synsetID:38459;senseID:51559
+6	e	e	CCONJ	_	_	_	_	_	_
+7	sfregiato	sfregiare	VERB	_	_	_	_	_	_	usemID:USem73008sfregiare	synsetID:38592;senseID:51703
+8	,	,	PUNCT	_	_	_	_	_	_
+9	praticamente	praticamente	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50017;senseID:66675
+10	distrutto	distruggere	VERB	_	_	_	_	_	_	usemID:USemD5312distruggere	synsetID:35481;senseID:45650
+11	,	,	PUNCT	_	_	_	_	_	_
+12	ma	ma	CCONJ	_	_	_	_	_	_
+13	dopo	dopo	ADP	_	_	_	_	_	_
+14	la	il	DET	_	_	_	_	_	_
+15	scoperta	scoperta	NOUN	_	_	_	_	_	_	usemID:USem60674scoperta	synsetID:30358;senseID:39419
+16	è	essere	AUX	_	_	_	_	_	_
+17	stato	essere	AUX	_	_	_	_	_	_
+18	restaurato	restaurare	VERB	_	_	_	_	_	_	usemID:USem61413restaurare	synsetID:36286;senseID:48719
+19	e	e	CCONJ	_	_	_	_	_	_
+20	si	si	PRON	_	_	_	_	_	_
+21	trova	trovare	VERB	_	_	_	_	_	_	usemID:USem61469trovare	synsetID:34144;senseID:47182
+22	in	in	ADP	_	_	_	_	_	_
+23	esposizione	esposizione	NOUN	_	_	_	_	_	_	usemID:USem61150esposizione	synsetID:3617;senseID:6625
+24	permanente	permanente	ADJ	_	_	_	_	_	_	usemID:USem62094permanente	synsetID:41547;senseID:53833
+25-26	al	_	_	_	_	_	_	_	_
+25	a	a	ADP	_	_	_	_	_	_
+26	il	il	DET	_	_	_	_	_	_
+27	Museo	Museo	NOUN	_	_	_	_	_	_	usemID:USem2054museo	synsetID:19352;senseID:30298
+28	egizio	egizio	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41473;senseID:56556
+29-30	del	_	_	_	_	_	_	_	_
+29	di	di	ADP	_	_	_	_	_	_
+30	il	il	DET	_	_	_	_	_	_
+31	Cairo	Cairo	PROPN	_	_	_	_	_	_
+32	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1375
+# text = Il modo più semplice per formare una goccia è permettere al liquido di scorrere lentamente dalla parte inferiore di un tubo di piccolo diametro.
+1	Il	il	DET	_	_	_	_	_	_
+2	modo	modo	NOUN	_	_	_	_	_	_	usemID:USem59622modo	synsetID:13799;senseID:20646
+3	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67492
+4	semplice	semplice	ADJ	_	_	_	_	_	_	usemID:USem62140semplice	synsetID:42714;senseID:57614
+5	per	per	ADP	_	_	_	_	_	_
+6	formare	formare	VERB	_	_	_	_	_	_	usemID:USem6930formare	synsetID:39678;senseID:52942
+7	una	uno	DET	_	_	_	_	_	_
+8	goccia	goccia	NOUN	_	_	_	_	_	_	usemID:USem72124goccia	synsetID:10083;senseID:15886
+9	è	essere	VERB	_	_	_	_	_	_	usemID:USem3922essere	synsetID:32671;senseID:42716
+10	permettere	permettere	VERB	_	_	_	_	_	_	usemID:USem61321permettere	synsetID:32119;senseID:41562
+11-12	al	_	_	_	_	_	_	_	_
+11	a	a	ADP	_	_	_	_	_	_
+12	il	il	DET	_	_	_	_	_	_
+13	liquido	liquido	NOUN	_	_	_	_	_	_	usemID:USem1388liquido	synsetID:18989;senseID:29884
+14	di	di	ADP	_	_	_	_	_	_
+15	scorrere	scorrere	VERB	_	_	_	_	_	_	usemID:USem63009scorrere	synsetID:39908;senseID:53191
+16	lentamente	lentamente	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50119;senseID:67031
+17-18	dalla	_	_	_	_	_	_	_	_
+17	da	da	ADP	_	_	_	_	_	_
+18	la	il	DET	_	_	_	_	_	_
+19	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	synsetID:12348;senseID:18825
+20	inferiore	inferiore	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44608;senseID:44608
+21	di	di	ADP	_	_	_	_	_	_
+22	un	uno	DET	_	_	_	_	_	_
+23	tubo	tubo	NOUN	_	_	_	_	_	_	usemID:USem59852tubo	synsetID:26058;senseID:35924
+24	di	di	ADP	_	_	_	_	_	_
+25	piccolo	piccolo	ADJ	_	_	_	_	_	_	usemID:USemD6384piccolo	synsetID:44740;senseID:60508
+26	diametro	diametro	NOUN	_	_	_	_	_	_	usemID:USem78203diametro	synsetID:24613;senseID:33275
+27	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1666
+# text = Russell cominciò a pubblicare un periodico religioso mensile, il "Torre di Guardia di Sion e Araldo della Presenza di Cristo".
+1	Russell	Russell	PROPN	_	_	_	_	_	_
+2	cominciò	cominciare	VERB	_	_	_	_	_	_	usemID:USem74975cominciare	synsetID:35125;senseID:45122
+3	a	a	ADP	_	_	_	_	_	_
+4	pubblicare	pubblicare	VERB	_	_	_	_	_	_	usemID:USem7088pubblicare	synsetID:33949;senseID:46848
+5	un	uno	DET	_	_	_	_	_	_
+6	periodico	periodico	NOUN	_	_	_	_	_	_	usemID:USemD63620periodico	synsetID:26830;senseID:36752
+7	religioso	religioso	ADJ	_	_	_	_	_	_	usemID:USem78953religioso	synsetID:45037;senseID:60851
+8	mensile	mensile	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44677;senseID:60436
+9	,	,	PUNCT	_	_	_	_	_	_
+10	il	il	DET	_	_	_	_	_	_
+11	"	"	PUNCT	_	_	_	_	_	_
+12	Torre	Torre	PROPN	_	_	_	_	_	_
+13	di	di	ADP	_	_	_	_	_	_
+14	Guardia	Guardia	NOUN	_	_	_	_	_	_	usemID:USem72169guardia	synsetID:6215;senseID:10496
+15	di	di	ADP	_	_	_	_	_	_
+16	Sion	Sion	PROPN	_	_	_	_	_	_
+17	e	e	CCONJ	_	_	_	_	_	_
+18	Araldo	Araldo	PROPN	_	_	_	_	_	_
+19-20	della	_	_	_	_	_	_	_	_
+19	di	di	ADP	_	_	_	_	_	_
+20	la	il	DET	_	_	_	_	_	_
+21	Presenza	Presenza	PROPN	_	_	_	_	_	_
+22	di	di	ADP	_	_	_	_	_	_
+23	Cristo	Cristo	PROPN	_	_	_	_	_	_
+24	"	"	PUNCT	_	_	_	_	_	_
+25	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1691
+# text = Il "Partenariato per la pace" è un programma della NATO il cui fine è creare fiducia tra la NATO, altri stati europei, e la ex Unione Sovietica.
+1	Il	il	DET	_	_	_	_	_	_
+2	"	"	PUNCT	_	_	_	_	_	_
+3	Partenariato	Partenariato	PROPN	_	_	_	_	_	_
+4	per	per	ADP	_	_	_	_	_	_
+5	la	il	DET	_	_	_	_	_	_
+6	pace	pace	NOUN	_	_	_	_	_	_	usemID:USemD66340pace	synsetID:8197;senseID:14487
+7	"	"	PUNCT	_	_	_	_	_	_
+8	è	essere	AUX	_	_	_	_	_	_
+9	un	uno	DET	_	_	_	_	_	_
+10	programma	programma	NOUN	_	_	_	_	_	_	usemID:USem61477programma	synsetID:776;senseID:1772
+11-12	della	_	_	_	_	_	_	_	_
+11	di	di	ADP	_	_	_	_	_	_
+12	la	il	DET	_	_	_	_	_	_
+13	NATO	NATO	PROPN	_	_	_	_	_	_
+14	il	il	DET	_	_	_	_	_	_
+15	cui	cui	DET	_	_	_	_	_	_
+16	fine	fine	NOUN	_	_	_	_	_	_	usemID:USem62924fine	synsetID:2778;senseID:5252
+17	è	essere	VERB	_	_	_	_	_	_	usemID:USem3922essere	synsetID:32671;senseID:42716
+18	creare	creare	VERB	_	_	_	_	_	_	usemID:USem3894creare	synsetID:32116;senseID:41555
+19	fiducia	fiducia	NOUN	_	_	_	_	_	_	usemID:USem69995fiducia	synsetID:16537;senseID:23998
+20	tra	tra	ADP	_	_	_	_	_	_
+21	la	il	DET	_	_	_	_	_	_
+22	NATO	NATO	PROPN	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	altri	altro	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42674;senseID:57544
+25	stati	stato	NOUN	_	_	_	_	_	_	usemID:USem4117stato	synsetID:16111;senseID:23513
+26	europei	europeo	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44257;senseID:59937
+27	,	,	PUNCT	_	_	_	_	_	_
+28	e	e	CCONJ	_	_	_	_	_	_
+29	la	il	DET	_	_	_	_	_	_
+30	ex	ex	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43203;senseID:58458
+31	Unione	Unione	PROPN	_	_	_	_	_	_
+32	Sovietica	sovietica	ADJ	_	_	_	_	_	_	usemID:missing	MW:[0]-synsetID:46850;senseID:62820
+33	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1700
+# text = Giove solitamente è il quarto oggetto più brillante nel cielo, dopo il Sole, la Luna e Venere; a volte Marte appare più luminoso di Giove.
+1	Giove	Giove	PROPN	_	_	_	_	_	_
+2	solitamente	solitamente	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+3	è	essere	AUX	_	_	_	_	_	_
+4	il	il	DET	_	_	_	_	_	_
+5	quarto	quarto	ADJ	_	_	_	_	_	_	usemID:USem77914quarto	synsetID:missing;senseID:missing
+6	oggetto	oggetto	NOUN	_	_	_	_	_	_	usemID:USemD465oggetto	synsetID:4716;senseID:8345
+7	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67492
+8	brillante	brillante	ADJ	_	_	_	_	_	_	usemID:USemD66797brillante	synsetID:44047;senseID:59674
+9-10	nel	_	_	_	_	_	_	_	_
+9	in	in	ADP	_	_	_	_	_	_
+10	il	il	DET	_	_	_	_	_	_
+11	cielo	cielo	NOUN	_	_	_	_	_	_	usemID:USem2298cielo	synsetID:14468;senseID:21480
+12	,	,	PUNCT	_	_	_	_	_	_
+13	dopo	dopo	ADP	_	_	_	_	_	_
+14	il	il	DET	_	_	_	_	_	_
+15	Sole	Sole	PROPN	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	la	il	DET	_	_	_	_	_	_
+18	Luna	Luna	PROPN	_	_	_	_	_	_
+19	e	e	CCONJ	_	_	_	_	_	_
+20	Venere	Venere	PROPN	_	_	_	_	_	_
+21	;	;	PUNCT	_	_	_	_	_	_
+22	a	a	ADP	_	_	_	_	_	_
+23	volte	volta	NOUN	_	_	_	_	_	_	usemID:USem71026volta	synsetID:1927;senseID:3800
+24	Marte	Marte	PROPN	_	_	_	_	_	_
+25	appare	apparire	VERB	_	_	_	_	_	_	usemID:USem79106apparire	synsetID:35535;senseID:45724
+26	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67492
+27	luminoso	luminoso	ADJ	_	_	_	_	_	_	usemID:USem62359luminoso	synsetID:41627;senseID:54025
+28	di	di	ADP	_	_	_	_	_	_
+29	Giove.	Giove	PROPN	_	_	_	_	_	_
+
+# sent_id = 1810
+# text = Questa concezione dell'universo era nota come sistema geocentrico, o sistema tolemaico, dal nome dall'astronomo greco Claudio Tolomeo.
+1	Questa	questo	DET	_	_	_	_	_	_
+2	concezione	concezione	NOUN	_	_	_	_	_	_	usemID:USem69106concezione	synsetID:21150;senseID:28255
+3-4	dell'	_	_	_	_	_	_	_	_
+3	di	di	ADP	_	_	_	_	_	_
+4	l'	il	DET	_	_	_	_	_	_
+5	universo	universo	NOUN	_	_	_	_	_	_	usemID:USem61186universo	synsetID:8206;senseID:14496
+6	era	essere	AUX	_	_	_	_	_	_
+7	nota	noto	ADJ	_	_	_	_	_	_	usemID:USemD7026noto	synsetID:42658;senseID:57520
+8	come	come	ADP	_	_	_	_	_	_
+9	sistema	sistema	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:9308;senseID:13747
+10	geocentrico	geocentrico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+11	,	,	PUNCT	_	_	_	_	_	_
+12	o	o	CCONJ	_	_	_	_	_	_
+13	sistema	sistema	NOUN	_	_	_	_	_	_	usemID:missing	MW[0]-synsetID:49137;senseID:890
+14	tolemaico	tolemaico	ADJ	_	_	_	_	_	_	usemID:missing	MW[0]-synsetID:49137;senseID:890
+15	,	,	PUNCT	_	_	_	_	_	_
+16-17	dal	_	_	_	_	_	_	_	_
+16	da	da	ADP	_	_	_	_	_	_
+17	il	il	DET	_	_	_	_	_	_
+18	nome	nome	NOUN	_	_	_	_	_	_	usemID:USem67409nome	synsetID:18629;senseID:26483
+19-20	dall'	_	_	_	_	_	_	_	_
+19	da	da	ADP	_	_	_	_	_	_
+20	l'	il	DET	_	_	_	_	_	_
+21	astronomo	astronomo	NOUN	_	_	_	_	_	_	usemID:USem4965astronomo	synsetID:20894;senseID:27965
+22	greco	greco	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42404;senseID:57032
+23	Claudio	Claudio	PROPN	_	_	_	_	_	_
+24	Tolomeo	Tolomeo	PROPN	_	_	_	_	_	_
+25	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1819
+# text = Il governo del Guatemala e i capi dell'Unione Rivoluzionaria Nazionale Guatemalteca firmano un accordo di pace che pone fine a 36 anni di guerra civile.
+1	Il	il	DET	_	_	_	_	_	_
+2	governo	governo	NOUN	_	_	_	_	_	_	usemID:USem59435governo	synsetID:2430;senseID:4614
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	_	_	_	_	_	_
+4	il	il	DET	_	_	_	_	_	_
+5	Guatemala	Guatemala	PROPN	_	_	_	_	_	_	usemID:USem2146guatemala	synsetID:missing;senseID:missing
+6	e	e	CCONJ	_	_	_	_	_	_
+7	i	il	DET	_	_	_	_	_	_
+8	capi	capo	NOUN	_	_	_	_	_	_	usemID:USem3615capo	synsetID:5776;senseID:9867
+9-10	dell'	_	_	_	_	_	_	_	_
+9	di	di	ADP	_	_	_	_	_	_
+10	l'	il	DET	_	_	_	_	_	_
+11	Unione	Unione	PROPN	_	_	_	_	_	_
+12	Rivoluzionaria	Rivoluzionaria	PROPN	_	_	_	_	_	_
+13	Nazionale	Nazionale	ADJ	_	_	_	_	_	_	usemID:USemD76679nazionale	synsetID:41665;senseID:54107
+14	Guatemalteca	Guatemalteca	PROPN	_	_	_	_	_	_
+15	firmano	firmare	VERB	_	_	_	_	_	_	usemID:USemD65896firmare	synsetID:34584;senseID:44266
+16	un	uno	DET	_	_	_	_	_	_
+17	accordo	accordo	NOUN	_	_	_	_	_	_	usemID:USem79697accordo	synsetID:49488;senseID:65733
+18	di	di	ADP	_	_	_	_	_	_
+19	pace	pace	NOUN	_	_	_	_	_	_	usemID:USemD66340pace	synsetID:8197;senseID:14487
+20	che	che	PRON	_	_	_	_	_	_
+21	pone	porre	VERB	_	_	_	_	_	_	usemID:USem76491porre	MW[0]-synsetID:34095;senseID:47078
+22	fine	fine	NOUN	_	_	_	_	_	_	usemID:USem60074fine	MW[0]-synsetID:34095;senseID:47078
+23	a	a	ADP	_	_	_	_	_	_
+24	36	36	NUM	_	_	_	_	_	_
+25	anni	anno	NOUN	_	_	_	_	_	_	usemID:USem1775anno	synsetID:7131;senseID:11813
+26	di	di	ADP	_	_	_	_	_	_
+27	guerra	guerra	NOUN	_	_	_	_	_	_	usemID:USemD6394guerra	MW[1]-synsetID:15665;senseID:22973
+28	civile	civile	ADJ	_	_	_	_	_	_	usemID:USemD65934civile	MW[1]-synsetID:15665;senseID:22973
+29	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1871
+# text = Il primo direttore artistico della compagnia teatrale Madazimov Rahmonberdi è stato il primo fondatore e organizzatore del movimento teatrale in Kirghizistan.
+1	Il	il	DET	_	_	_	_	_	_
+2	primo	primo	ADJ	_	_	_	_	_	_	usemID:USemD78243primo	synsetID:45330;senseID:61163
+3	direttore	direttore	NOUN	_	_	_	_	_	_	usemID:USem5480direttore	synsetID:19289;senseID:30229
+4	artistico	artistico	ADJ	_	_	_	_	_	_	usemID:USem61875artistico	synsetID:43291;senseID:58583
+5-6	della	_	_	_	_	_	_	_	_
+5	di	di	ADP	_	_	_	_	_	_
+6	la	il	DET	_	_	_	_	_	_
+7	compagnia	compagnia	NOUN	_	_	_	_	_	_	usemID:USem79406compagnia	synsetID:8562;senseID:14974
+8	teatrale	teatrale	ADJ	_	_	_	_	_	_	usemID:USem71846teatrale	synsetID:41798;senseID:54396
+9	Madazimov	Madazimov	PROPN	_	_	_	_	_	_
+10	Rahmonberdi	Rahmonberdi	PROPN	_	_	_	_	_	_
+11	è	essere	AUX	_	_	_	_	_	_
+12	stato	essere	AUX	_	_	_	_	_	_
+13	il	il	DET	_	_	_	_	_	_
+14	primo	primo	ADJ	_	_	_	_	_	_	usemID:USemD78243primo	synsetID:45330;senseID:61163
+15	fondatore	fondatore	NOUN	_	_	_	_	_	_	usemID:USem5644fondatore	synsetID:28655;senseID:34784
+16	e	e	CCONJ	_	_	_	_	_	_
+17	organizzatore	organizzatore	NOUN	_	_	_	_	_	_	usemID:USem71676organizzatore	synsetID:25972;senseID:37479
+18-19	del	_	_	_	_	_	_	_	_
+18	di	di	ADP	_	_	_	_	_	_
+19	il	il	DET	_	_	_	_	_	_
+20	movimento	movimento	NOUN	_	_	_	_	_	_	usemID:USem2576movimento	synsetID:191;senseID:821
+21	teatrale	teatrale	ADJ	_	_	_	_	_	_	usemID:USem71846teatrale	synsetID:41798;senseID:54396
+22	in	in	ADP	_	_	_	_	_	_
+23	Kirghizistan	Kirghizistan	PROPN	_	_	_	_	_	_
+24	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1900
+# text = Il sistema d'informazione del mercato interno (IMI) è uno strumento elettronico concepito per migliorare la comunicazione e la collaborazione tra gli enti pubblici che operano all'interno dell'area economica europea.
+1	Il	il	DET	_	_	_	_	_	_
+2	sistema	sistema	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:3045;senseID:5729
+3	d'	di	ADP	_	_	_	_	_	_
+4	informazione	informazione	NOUN	_	_	_	_	_	_	usemID:USem71066informazione	synsetID:13398;senseID:20135
+5-6	del	_	_	_	_	_	_	_	_
+5	di	di	ADP	_	_	_	_	_	_
+6	il	il	DET	_	_	_	_	_	_
+7	mercato	mercato	NOUN	_	_	_	_	_	_	usemID:USem68421mercato	synsetID:25366;senseID:37068
+8	interno	interno	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:45143;senseID:60966
+9	(	(	PUNCT	_	_	_	_	_	_
+10	IMI	IMI	PROPN	_	_	_	_	_	_
+11	)	)	PUNCT	_	_	_	_	_	_
+12	è	essere	AUX	_	_	_	_	_	_
+13	uno	uno	DET	_	_	_	_	_	_
+14	strumento	strumento	NOUN	_	_	_	_	_	_	usemID:USem2878strumento	synsetID:21388;senseID:28542
+15	elettronico	elettronico	ADJ	_	_	_	_	_	_	usemID:USem61946elettronico	synsetID:44852;senseID:60634
+16	concepito	concepire	VERB	_	_	_	_	_	_	usemID:USem59105concepire	synsetID:32914;senseID:43152
+17	per	per	ADP	_	_	_	_	_	_
+18	migliorare	migliorare	VERB	_	_	_	_	_	_	usemID:USem60203migliorare	synsetID:38725;senseID:51862
+19	la	il	DET	_	_	_	_	_	_
+20	comunicazione	comunicazione	NOUN	_	_	_	_	_	_	usemID:USem67912comunicazione	synsetID:13592;senseID:20391
+21	e	e	CCONJ	_	_	_	_	_	_
+22	la	il	DET	_	_	_	_	_	_
+23	collaborazione	collaborazione	NOUN	_	_	_	_	_	_	usemID:USem60400collaborazione	synsetID:150;senseID:747
+24	tra	tra	ADP	_	_	_	_	_	_
+25	gli	il	DET	_	_	_	_	_	_
+26	enti	ente	NOUN	_	_	_	_	_	_	usemID:USem903ente	synsetID:10895;senseID:16962
+27	pubblici	pubblico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41558;senseID:53862
+28	che	che	PRON	_	_	_	_	_	_
+29	operano	operare	VERB	_	_	_	_	_	_	usemID:USem72298operare	synsetID:38761;senseID:51911
+30-31	all'	_	_	_	_	_	_	_	_
+30	a	a	ADP	_	_	_	_	_	_
+31	l'	il	DET	_	_	_	_	_	_
+32	interno	interno	NOUN	_	_	_	_	_	_	usemID:USem66596interno	synsetID:10642;senseID:16635
+33-34	dell'	_	_	_	_	_	_	_	_
+33	di	di	ADP	_	_	_	_	_	_
+34	l'	il	DET	_	_	_	_	_	_
+35	area	area	NOUN	_	_	_	_	_	_	usemID:USem4177area	synsetID:304;senseID:1024
+36	economica	economico	ADJ	_	_	_	_	_	_	usemID:USem61949economico	synsetID:45219;senseID:61043
+37	europea	europeo	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:44257;senseID:59937
+38	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1949
+# text = Nel Sistema solare esterno le comete rimangono in uno stato congelato ed è estremamente difficile o impossibile rilevarle dalla Terra a causa delle loro ridotte dimensioni.
+1-2	Nel	_	_	_	_	_	_	_	_
+1	In	in	ADP	_	_	_	_	_	_
+2	il	il	DET	_	_	_	_	_	_
+3	Sistema	sistema	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:3045;senseID:5729
+4	solare	solare	ADJ	_	_	_	_	_	_	usemID:USem61940solare	synsetID:44339;senseID:60039
+5	esterno	esterno	ADJ	_	_	_	_	_	_	usemID:USem67738esterno	synsetID:41420;senseID:56408
+6	le	il	DET	_	_	_	_	_	_
+7	comete	cometa	NOUN	_	_	_	_	_	_	usemID:USem69724cometa	synsetID:28939;senseID:37939
+8	rimangono	rimanere	VERB	_	_	_	_	_	_	usemID:USem59620rimanere	synsetID:34141;senseID:47175
+9	in	in	ADP	_	_	_	_	_	_
+10	uno	uno	DET	_	_	_	_	_	_
+11	stato	stato	NOUN	_	_	_	_	_	_	usemID:USemD5333stato	synsetID:16109;senseID:23511
+12	congelato	congelato	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
+13	ed	e	CCONJ	_	_	_	_	_	_
+14	è	essere	AUX	_	_	_	_	_	_
+15	estremamente	estremamente	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50067;senseID:66680
+16	difficile	difficile	ADJ	_	_	_	_	_	_	usemID:USemD6758difficile	synsetID:43887;senseID:59442
+17	o	o	CCONJ	_	_	_	_	_	_
+18	impossibile	impossibile	ADJ	_	_	_	_	_	_	usemID:USem62009impossibile	synsetID:44176;senseID:59840
+19-20	rilevarle	_	_	_	_	_	_	_	_	usemID:USem66035rilevare	synsetID:34468;senseID:47771
+19	rilevar	rilevare	VERB	_	_	_	_	_	_
+20	le	le	PRON	_	_	_	_	_	_
+21-22	dalla	_	_	_	_	_	_	_	_
+21	da	da	ADP	_	_	_	_	_	_
+22	la	il	DET	_	_	_	_	_	_
+23	Terra	Terra	PROPN	_	_	_	_	_	_
+24	a	a	ADP	_	_	_	_	_	_
+25	causa	causa	NOUN	_	_	_	_	_	_	usemID:USem3281causa	synsetID:6124;senseID:10371
+26-27	delle	_	_	_	_	_	_	_	_
+26	di	di	ADP	_	_	_	_	_	_
+27	le	il	DET	_	_	_	_	_	_
+28	loro	loro	DET	_	_	_	_	_	_
+29	ridotte	ridotto	ADJ	_	_	_	_	_	_	usemID:USemD66810ridotto	synsetID:44688;senseID:60448
+30	dimensioni	dimensione	NOUN	_	_	_	_	_	_	usemID:USem2453dimensione	synsetID:14595;senseID:21654
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 1961
+# text = Suo padre, Schmuel Daum, noto educatore, scrittore nonché significativa figura collettiva, proveniva da una famiglia rabbinica di spicco di Polonia e Boemia.
+1	Suo	suo	DET	_	_	_	_	_	_
+2	padre	padre	NOUN	_	_	_	_	_	_	usemID:USem4068padre	synsetID:6982;senseID:11632
+3	,	,	PUNCT	_	_	_	_	_	_
+4	Schmuel	Schmuel	PROPN	_	_	_	_	_	_
+5	Daum	Daum	PROPN	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	noto	noto	ADJ	_	_	_	_	_	_	usemID:USemD7026noto	synsetID:42658;senseID:57520 
+8	educatore	educatore	NOUN	_	_	_	_	_	_	usemID:USemTH5040educatore	synsetID:28206;senseID:34316
+9	,	,	PUNCT	_	_	_	_	_	_
+10	scrittore	scrittore	NOUN	_	_	_	_	_	_	usemID:USem4953scrittore	synsetID:25523;senseID:37241
+11	nonché	nonché	CCONJ	_	_	_	_	_	_
+12	significativa	significativo	ADJ	_	_	_	_	_	_	usemID:USemD66674significativo	synsetID:42456;senseID:57144
+13	figura	figura	NOUN	_	_	_	_	_	_	usemID:USem67815figura	synsetID:7031;senseID:11686
+14	collettiva	collettivo	ADJ	_	_	_	_	_	_	usemID:USemD66111collettivo	synsetID:44010;senseID:59621
+15	,	,	PUNCT	_	_	_	_	_	_
+16	proveniva	provenire	VERB	_	_	_	_	_	_	usemID:USem7003provenire	synsetID:31865;senseID:41016
+17	da	da	ADP	_	_	_	_	_	_
+18	una	uno	DET	_	_	_	_	_	_
+19	famiglia	famiglia	NOUN	_	_	_	_	_	_	usemID:USemD5487famiglia	synsetID:14044;senseID:20950
+20	rabbinica	rabbinico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing 
+21	di	di	ADP	_	_	_	_	_	_
+22	spicco	spicco	NOUN	_	_	_	_	_	_	usemID:USem75501spicco	synsetID:2881;senseID:5460
+23	di	di	ADP	_	_	_	_	_	_
+24	Polonia	Polonia	PROPN	_	_	_	_	_	_
+25	e	e	CCONJ	_	_	_	_	_	_
+26	Boemia	Boemia	PROPN	_	_	_	_	_	_
+27	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 2021
+# text = Adolfo prese parte a spedizioni archeologiche in Cina, Grecia, Corea e Italia e fondò l'Istituto svedese di studi classici a Roma.
+1	Adolfo	Adolfo	PROPN	_	_	_	_	_	_
+2	prese	prendere	VERB	_	_	_	_	_	_	usemID:USemD6046prendere	synsetID:34297;senseID:47462
+3	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	synsetID:34297;senseID:47462
+4	a	a	ADP	_	_	_	_	_	_
+5	spedizioni	spedizione	NOUN	_	_	_	_	_	_	usemID:missing 	synsetID:23913;senseID:32499
+6	archeologiche	archeologico	ADJ	_	_	_	_	_	_	usemID:USem61877archeologico	synsetID:42832;senseID:57819
+7	in	in	ADP	_	_	_	_	_	_
+8	Cina	Cina	PROPN	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	Grecia	Grecia	PROPN	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	Corea	Corea	PROPN	_	_	_	_	_	_
+13	e	e	CCONJ	_	_	_	_	_	_
+14	Italia	Italia	PROPN	_	_	_	_	_	_
+15	e	e	CCONJ	_	_	_	_	_	_
+16	fondò	fondare	VERB	_	_	_	_	_	_	usemID:USemD3566fondare	synsetID:32450;senseID:42299
+17	l'	il	DET	_	_	_	_	_	_
+18	Istituto	istituto	NOUN	_	_	_	_	_	_	usemID:USem4589istituto	synsetID:10895;senseID:16963
+19	svedese	svedese	ADJ	_	_	_	_	_	_	usemID:USemD63832svedese	synsetID:41899;senseID:54623
+20	di	di	ADP	_	_	_	_	_	_
+21	studi	studio	NOUN	_	_	_	_	_	_	usemID:USem60504studio	synsetID:2953;senseID:5573
+22	classici	classico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42127;senseID:55095
+23	a	a	ADP	_	_	_	_	_	_
+24	Roma	Roma	PROPN	_	_	_	_	_	_
+25	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 2049
+# text = gli aspetti ecologici e ambientali, come ad esempio attività di ricerca e sviluppo, l'automazione, la tecnologia di incentivi e il tasso di cambiamento tecnologico.
+1	gli	il	DET	_	_	_	_	_	_
+2	aspetti	aspetto	NOUN	_	_	_	_	_	_	usemID:USem62403aspetto	synsetID:12918;senseID:19530
+3	ecologici	ecologico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43583;senseID:59025
+4	e	e	CCONJ	_	_	_	_	_	_
+5	ambientali	ambientale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43052;senseID:58194
+6	,	,	PUNCT	_	_	_	_	_	_
+7	come	come	ADP	_	_	_	_	_	_
+8	ad	a	ADP	_	_	_	_	_	_
+9	esempio	esempio	NOUN	_	_	_	_	_	_	usemID:USem63154esempio	synsetID:16269;senseID:23706
+10	attività	attività	NOUN	_	_	_	_	_	_	usemID:USemD5408attivita1	synsetID:16077;senseID:23464
+11	di	di	ADP	_	_	_	_	_	_
+12	ricerca	ricerca	NOUN	_	_	_	_	_	_	usemID:USem59799ricerca	synsetID:24169;senseID:32792
+13	e	e	CCONJ	_	_	_	_	_	_
+14	sviluppo	sviluppo	NOUN	_	_	_	_	_	_	usemID:USem61654sviluppo	synsetID:7068;senseID:11735
+15	,	,	PUNCT	_	_	_	_	_	_
+16	l'	il	DET	_	_	_	_	_	_
+17	automazione	automazione	NOUN	_	_	_	_	_	_	usemID:USem77023automazione	synsetID:26008;senseID:35868
+18	,	,	PUNCT	_	_	_	_	_	_
+19	la	il	DET	_	_	_	_	_	_
+20	tecnologia	tecnologia	NOUN	_	_	_	_	_	_	usemID:USem52tecnologia	synsetID:1907;senseID:3748
+21	di	di	ADP	_	_	_	_	_	_
+22	incentivi	incentivo	NOUN	_	_	_	_	_	_	usemID:USem72259incentivo	synsetID:13986;senseID:20885
+23	e	e	CCONJ	_	_	_	_	_	_
+24	il	il	DET	_	_	_	_	_	_
+25	tasso	tasso	NOUN	_	_	_	_	_	_	usemID:USem1194tasso	synsetID:22613;senseID:31029
+26	di	di	ADP	_	_	_	_	_	_
+27	cambiamento	cambiamento	NOUN	_	_	_	_	_	_	usemID:USem3960cambiamento	synsetID:785;senseID:1791 
+28	tecnologico	tecnologico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:41622;senseID:54012
+29	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = 2071
+# text = Un robot non può ferire un essere umano né permettere che, a causa del proprio mancato intervento, un essere umano venga ferito.
+1	Un	uno	DET	_	_	_	_	_	_
+2	robot	robot	NOUN	_	_	_	_	_	_	usemID:USem75223robot	synsetID:7037;senseID:11695
+3	non	non	ADV	_	_	_	_	_	_
+4	può	potere	AUX	_	_	_	_	_	_
+5	ferire	ferire	VERB	_	_	_	_	_	_	usemID:USem59992ferire	synsetID:34024;senseID:46964
+6	un	uno	DET	_	_	_	_	_	_
+7	essere	essere	NOUN	_	_	_	_	_	_	usemID:USem69158essere	synsetID:15545;senseID:22817
+8	umano	umano	ADJ	_	_	_	_	_	_	usemID:USem77874umano	synsetID:42638;senseID:57486
+9	né	né	CCONJ	_	_	_	_	_	_
+10	permettere	permettere	VERB	_	_	_	_	_	_	usemID:USem61321permettere	synsetID:32119;senseID:41562
+11	che	che	SCONJ	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	a	a	ADP	_	_	_	_	_	_
+14	causa	causa	NOUN	_	_	_	_	_	_	usemID:USem3281causa	synsetID:6124;senseID:10371
+15-16	del	_	_	_	_	_	_	_	_
+15	di	di	ADP	_	_	_	_	_	_
+16	il	il	DET	_	_	_	_	_	_
+17	proprio	proprio	DET	_	_	_	_	_	_	usemID:missing	synsetID:42011;senseID:54865
+18	mancato	mancato	ADJ	_	_	_	_	_	_	usemID:USemD66695mancato	synsetID:41686;senseID:54156
+19	intervento	intervento	NOUN	_	_	_	_	_	_	usemID:USem72496intervento	synsetID:8457;senseID:14835
+20	,	,	PUNCT	_	_	_	_	_	_
+21	un	uno	DET	_	_	_	_	_	_
+22	essere	essere	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD6498essere_umano	MW[0]-synsetID:863;senseID:1956
+23	umano	umano	ADJ	_	_	_	_	_	_	MW[0]-usemID:USemD6498essere_umano	MW[0]-synsetID:863;senseID:1956
+24	venga	venire	AUX	_	_	_	_	_	_
+25	ferito	ferire	VERB	_	_	_	_	_	_	usemID:USem59992ferire	synsetID:34024;senseID:46964
+26	.	.	PUNCT	_	_	_	_	_	_
