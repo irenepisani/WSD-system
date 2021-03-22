@@ -1,11 +1,6 @@
 import sys
 import csv
 
-def get_conllufile (infile):
-	with open('dataset.conllu', 'w') as outfile:
-		for line in infile:
-			outfile.writelines(line)
-
 def main(file):
 
 	tsv_file = open(file)
