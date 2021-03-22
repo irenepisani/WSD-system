@@ -1,6 +1,5 @@
 # sistema WSD - scelta random di un senso
 
-
 #importo librerie necessarie 
 import pyconll
 import sys
@@ -31,7 +30,7 @@ def convert_accents (lemma):
 			lemma=re.sub(x, y, lemma)+"''"
 	return lemma
 
-#converto i le Universal Dependecies POS nelle corrispondenti POS dei db 
+#converto le Universal Dependecies POS nelle corrispondenti POS dei db 
 def pos_converter (udpos, db):
 	UD=["ADJ", "ADV", "NOUN", "PROPN", "VERB"]
 	PSC=["A","ADV","N","NP","V"]
@@ -87,7 +86,7 @@ def random_result(rows):
 def get_result (oldfile, lista, numfrase):
 	
 	frase=[]
-	with open('provaxtag.conllu', 'a') as outfile, open(oldfile, 'r', encoding='utf-8') as infile:
+	with open('WSD_random.conllu', 'a') as outfile, open(oldfile, 'r', encoding='utf-8') as infile:
 		
 		a = [0]
 		lines = infile.readlines()
@@ -164,7 +163,7 @@ def main(file):
 				infotoken.append(sense)
 				list_forsenses.append(infotoken)
 		
-		get_SenseColumn(file, list_forsenses, num)
+		get_result (file, list_forsenses, num)
 		#restituisco un nuovo file contenente per ogni token annotabile anche le informazioni semantiche 
 
 main(sys.argv[1])
