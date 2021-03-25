@@ -470,8 +470,8 @@
 2	gran	grande	ADJ	_	_	_	_	_	_	usemID:USem61853grande	synsetID:44134;senseID:59786
 3	numero	numero	NOUN	_	_	_	_	_	_	usemID:USem2670numero	synsetID:17385;senseID:25022
 4	di	di	ADP	_	_	_	_	_	_
-5	composti	composto	NOUN	_	_	_	_	_	_	usemID:USem3689composto	synsetID:3780;senseID:6899
-6	chimici	chimico	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43810;senseID:59334
+5	composti	composto	NOUN	_	_	_	_	_	_	usemID:USem3689composto	MW[0]-synsetID:7371;senseID:12148
+6	chimici	chimico	ADJ	_	_	_	_	_	_	usemID:missing	MW[0]-synsetID:7371;senseID:12148
 7	di	di	ADP	_	_	_	_	_	_
 8	rilievo	rilievo	NOUN	_	_	_	_	_	_	usemID:USem68287rilievo	synsetID:2881;senseID:5464
 9-10	nelle	_	_	_	_	_	_	_	_
@@ -593,11 +593,11 @@
 12	fiscale	fiscale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42283;senseID:56796
 13	,	,	PUNCT	_	_	_	_	_	_
 14	il	il	DET	_	_	_	_	_	_
-15	diritto	diritto	NOUN	_	_	_	_	_	_	usemID:USem61262diritto	synsetID:51173;senseID:67295
+15	diritto	diritto	NOUN	_	_	_	_	_	_	usemID:USem61262diritto	MW[0]:synsetID:151233;senseID:68348
 16-17	del	_	_	_	_	_	_	_	_
 16	di	di	ADP	_	_	_	_	_	_
 17	il	il	DET	_	_	_	_	_	_
-18	lavoro	lavoro	NOUN	_	_	_	_	_	_	usemID:USem59561lavoro	synsetID:665;senseID:1615
+18	lavoro	lavoro	NOUN	_	_	_	_	_	_	usemID:USem59561lavoro	MW[0]:synsetID:151233;senseID:68348
 19	,	,	PUNCT	_	_	_	_	_	_
 20	diritto	diritto	NOUN	_	_	_	_	_	_	usemID:USem61262diritto	synsetID:51173;senseID:67295
 21	ambientale	ambientale	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:43052;senseID:58194 
@@ -1136,9 +1136,9 @@
 8	pari	pari	ADJ	_	_	_	_	_	_	usemID:missing	synsetID:42478;senseID:57194
 9	a	a	ADP	_	_	_	_	_	_
 10	una	uno	DET	_	_	_	_	_	_
-11	unità	unità	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30574
+11	unità	unità	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30575
 12	di	di	ADP	_	_	_	_	_	_
-13	misura	misura	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30574
+13	misura	misura	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD5334unita1_di_misura	MW[0]-synsetID:19583;senseID:30575
 14	di	di	ADP	_	_	_	_	_	_
 15	volume	volume	NOUN	_	_	_	_	_	_	usemID:USem69198volume	synsetID:30746;senseID:39816
 16	e	e	CCONJ	_	_	_	_	_	_
@@ -1408,8 +1408,8 @@
 23	crescere	crescere	VERB	_	_	_	_	_	_	usemID:USem61635crescere	synsetID:33487;senseID:46038
 24	molto	molto	ADV	_	_	_	_	_	_	usemID:USem62212molto	synsetID:48992;senseID:65404
 25	di	di	ADP	_	_	_	_	_	_
-26	più	più	ADV	_	_	_	_	_	_	usemID:missing	synsetID:50470;senseID:67494
-27	rispetto	rispetto	ADV	_	_	_	_	_	_
+26	più	più	ADV	_	_	_	_	_	_	usemID:missing	MW[0]-synsetID:50470;senseID:67494
+27	rispetto	rispetto	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
 28-29	all'	_	_	_	_	_	_	_	_
 28	a	a	ADP	_	_	_	_	_	_
 29	l'	il	DET	_	_	_	_	_	_
@@ -1802,8 +1802,8 @@
 # sent_id = 2021
 # text = Adolfo prese parte a spedizioni archeologiche in Cina, Grecia, Corea e Italia e fondò l'Istituto svedese di studi classici a Roma.
 1	Adolfo	Adolfo	PROPN	_	_	_	_	_	_
-2	prese	prendere	VERB	_	_	_	_	_	_	usemID:USemD6046prendere	synsetID:34297;senseID:47462
-3	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	synsetID:34297;senseID:47462
+2	prese	prendere	VERB	_	_	_	_	_	_	usemID:USemD6046prendere	MW[0]-synsetID:34297;senseID:47462
+3	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	MW[0]-synsetID:34297;senseID:47462
 4	a	a	ADP	_	_	_	_	_	_
 5	spedizioni	spedizione	NOUN	_	_	_	_	_	_	usemID:missing 	synsetID:23913;senseID:32499
 6	archeologiche	archeologico	ADJ	_	_	_	_	_	_	usemID:USem61877archeologico	synsetID:42832;senseID:57819
@@ -1863,7 +1863,7 @@
 # text = Un robot non può ferire un essere umano né permettere che, a causa del proprio mancato intervento, un essere umano venga ferito.
 1	Un	uno	DET	_	_	_	_	_	_
 2	robot	robot	NOUN	_	_	_	_	_	_	usemID:USem75223robot	synsetID:7037;senseID:11695
-3	non	non	ADV	_	_	_	_	_	_
+3	non	non	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
 4	può	potere	AUX	_	_	_	_	_	_
 5	ferire	ferire	VERB	_	_	_	_	_	_	usemID:USem59992ferire	synsetID:34024;senseID:46964
 6	un	uno	DET	_	_	_	_	_	_
