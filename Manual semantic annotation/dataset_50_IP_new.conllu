@@ -112,8 +112,8 @@
 13	,	,	PUNCT	_	_	_	_	_	_
 14	ma	ma	CCONJ	_	_	_	_	_	_
 15	la	il	DET	_	_	_	_	_	_
-16	maggior	maggiore	ADJ	_	_	_	_	_	_	usemID:USemD1parte	synsetID:43890;senseID:59446
-17	parte	parte	NOUN	_	_	_	_	_	_
+16	maggior	maggiore	ADJ	_	_	_	_	_	_	usemID:USemD5448maggiore	MW[0]-synsetID:28702;senseID:34838
+17	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	MW[0]-synsetID:28702;senseID:34838
 18-19	dei	_	_	_	_	_	_	_	_
 18	di	di	ADP	_	_	_	_	_	_
 19	i	il	DET	_	_	_	_	_	_
@@ -706,8 +706,8 @@
 10	,	,	PUNCT	_	_	_	_	_	_
 11	sociologia	sociologia	NOUN	_	_	_	_	_	_	usemID:USem47sociologia	synsetID:19458;senseID:30418
 12	,	,	PUNCT	_	_	_	_	_	_
-13	scienze	scienza	NOUN	_	_	_	_	_	_	usemID:USem43scienza	synsetID:667;senseID:1619
-14	politiche	politico	ADJ	_	_	_	_	_	_	usemID:USem79191politico	synsetID:44032;senseID:59656
+13	scienze	scienza	NOUN	_	_	_	_	_	_	usemID:USem43scienza	MW[0]-synsetID:49896;senseID:66490
+14	politiche	politico	ADJ	_	_	_	_	_	_	usemID:USem79191politico	MW[0]-synsetID:49896;senseID:66490
 15	,	,	PUNCT	_	_	_	_	_	_
 16	finanza	finanza	NOUN	_	_	_	_	_	_	usemID:missing	synsetID:14838;senseID:21957
 17	ed	e	CCONJ	_	_	_	_	_	_
@@ -942,8 +942,8 @@
 # sent_id = 1011
 # text = La maggior parte dei casi di diabete coinvolgono molti geni, ognuno dei quali può dare un piccolo contributo ad una maggiore probabilità di diventare un diabetico di tipo 2.
 1	La	il	DET	_	_	_	_	_	_
-2	maggior	maggiore	ADJ	_	_	_	_	_	_	usemID:USemD5448maggiore	synsetID:43890;senseID:59446
-3	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	synsetID:8153;senseID:14414
+2	maggior	maggiore	ADJ	_	_	_	_	_	_	usemID:USemD5448maggiore	MW[0]-synsetID:28702;senseID:34838
+3	parte	parte	NOUN	_	_	_	_	_	_	usemID:USemD1parte	MW[0]-synsetID:28702;senseID:34838
 4-5	dei	_	_	_	_	_	_	_	_
 4	di	di	ADP	_	_	_	_	_	_
 5	i	il	DET	_	_	_	_	_	_
@@ -1384,7 +1384,7 @@
 1-2	Nel	_	_	_	_	_	_	_	_
 1	In	in	ADP	_	_	_	_	_	_
 2	il	il	DET	_	_	_	_	_	_
-3	XX	ventesimo	ADJ	_	_	_	_	_	_
+3	XX	ventesimo	ADJ	_	_	_	_	_	_	usemID:USemTH27757ventesimo	synset:29364;sense:38393
 4	secolo	secolo	NOUN	_	_	_	_	_	_	usemID:USem2777secolo	synsetID:2798;senseID:5288
 5	essendo	essere	AUX	_	_	_	_	_	_
 6	stato	essere	AUX	_	_	_	_	_	_
@@ -1406,7 +1406,7 @@
 21	iniziato	iniziare	VERB	_	_	_	_	_	_	usemID:USem74983iniziare	synsetID:32039;senseID:41395
 22	a	a	ADP	_	_	_	_	_	_
 23	crescere	crescere	VERB	_	_	_	_	_	_	usemID:USem61635crescere	synsetID:39170;senseID:52379
-24	molto	molto	ADV	_	_	_	_	_	_	usemID:missing	MW[0]-synsetID:50470;senseID:67494
+24	molto	molto	ADV	_	_	_	_	_	_	usemID:missing	synsetID:48992;senseID:65404
 25	di	di	ADP	_	_	_	_	_	_	
 26	più	più	ADV	_	_	_	_	_	_	usemID:missing	MW[0]-synsetID:50470;senseID:67494
 27	rispetto	rispetto	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
@@ -1472,7 +1472,7 @@
 6	formare	formare	VERB	_	_	_	_	_	_	usemID:USem6930formare	synsetID:32117;senseID:41560
 7	una	uno	DET	_	_	_	_	_	_
 8	goccia	goccia	NOUN	_	_	_	_	_	_	usemID:USem72124goccia	synsetID:10083;senseID:15886
-9	è	essere	VERB	_	_	_	_	_	_
+9	è	essere	VERB	_	_	_	_	_	_	usemID:USem3922essere	synsetID:32671;senseID:42716
 10	permettere	permettere	VERB	_	_	_	_	_	_	usemID:USem61321permettere	synsetID:32006;senseID:41326
 11-12	al	_	_	_	_	_	_	_	_
 11	a	a	ADP	_	_	_	_	_	_
@@ -1692,8 +1692,8 @@
 1	Il	il	DET	_	_	_	_	_	_
 2	sistema	sistema	NOUN	_	_	_	_	_	_
 3	d'	di	ADP	_	_	_	_	_	_	usemID:USem59644sistema 	synsetID:9306;senseID:13744
-4	informazione	informazione	NOUN	_	_	_	_	_	_
-5-6	del	_	_	_	_	_	_	_	_	usemID:USem6465informazione	synsetID:13397;senseID:20132
+4	informazione	informazione	NOUN	_	_	_	_	_	_	usemID:USem71066informazione	synsetID:13398;senseID:20135
+5-6	del	_	_	_	_	_	_	_	_
 5	di	di	ADP	_	_	_	_	_	_
 6	il	il	DET	_	_	_	_	_	_
 7	mercato	mercato	NOUN	_	_	_	_	_	_	usemID:USem68421mercato	synsetID:25366;senseID:37068
@@ -1705,7 +1705,7 @@
 13	uno	uno	DET	_	_	_	_	_	_
 14	strumento	strumento	NOUN	_	_	_	_	_	_	usemID:USem2878strumento	synsetID:21388;senseID:28542
 15	elettronico	elettronico	ADJ	_	_	_	_	_	_	usemID:USem61946elettronico	synsetID:44852;senseID:60634
-16	concepito	concepire	VERB	_	_	_	_	_	_
+16	concepito	concepire	VERB	_	_	_	_	_	_	usemID:USem59105concepire	synsetID:32914;senseID:43152
 17	per	per	ADP	_	_	_	_	_	_
 18	migliorare	migliorare	VERB	_	_	_	_	_	_	usemID:USem60203migliorare	synsetID:38725;senseID:51862
 19	la	il	DET	_	_	_	_	_	_
@@ -1863,7 +1863,7 @@
 # text = Un robot non può ferire un essere umano né permettere che, a causa del proprio mancato intervento, un essere umano venga ferito.
 1	Un	uno	DET	_	_	_	_	_	_
 2	robot	robot	NOUN	_	_	_	_	_	_	usemID:USem75223robot	synsetID:7037;senseID:11695
-3	non	non	ADV	_	_	_	_	_	_
+3	non	non	ADV	_	_	_	_	_	_	usemID:missing	synsetID:missing;senseID:missing
 4	può	potere	AUX	_	_	_	_	_	_
 5	ferire	ferire	VERB	_	_	_	_	_	_	usemID:USem59994ferire	synsetID:34024;senseID:46964
 6	un	uno	DET	_	_	_	_	_	_
@@ -1883,8 +1883,8 @@
 19	intervento	intervento	NOUN	_	_	_	_	_	_	usemID:USem72496intervento	synsetID:8457;senseID:14835
 20	,	,	PUNCT	_	_	_	_	_	_
 21	un	uno	DET	_	_	_	_	_	_
-22	essere	essere	NOUN	_	_	_	_	_	_	usemID:USem69158essere	synsetID:15545;senseID:22817
-23	umano	umano	ADJ	_	_	_	_	_	_	usemID:USem77874umano	synsetID:42638;senseID:57486
+22	essere	essere	NOUN	_	_	_	_	_	_	MW[0]-usemID:USemD6498essere_umano	MW[0]-synsetID:863;senseID:1956
+23	umano	umano	ADJ	_	_	_	_	_	_	MW[0]-usemID:USemD6498essere_umano	MW[0]-synsetID:863;senseID:1956
 24	venga	venire	AUX	_	_	_	_	_	_
 25	ferito	ferire	VERB	_	_	_	_	_	_	usemID:USem59994ferire	synsetID:34024;senseID:46964
 26	.	.	PUNCT	_	_	_	_	_	_
