@@ -1,0 +1,4 @@
+Inter-Annotator-Agreement: coefficente K di Choen
+Coefficente K di Choen per ParoleSimpleClips: 0.8514781523731921
+Coefficente K di Choen per ItalWordNet: 0.8060282307277976
+Coefficente K di Choen: 0.8310091948411247
