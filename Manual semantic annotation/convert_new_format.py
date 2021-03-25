@@ -21,7 +21,6 @@ def main(file):
 				if i in delete:
 					linea[i]="_"	
 			stampa=""
-			print(linea)
 			if len(linea)==10:
 				for element in linea:
 					stampa= stampa+element+"\t"
