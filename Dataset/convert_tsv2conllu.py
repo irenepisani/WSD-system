@@ -6,7 +6,7 @@ def main(file):
 	tsv_file = open(file)
 	read_tsv = csv.reader(tsv_file, delimiter="\t")
 	
-	with open('datasetFP.conllu', 'w') as outfile:
+	with open('fileconllu.conllu', 'w') as outfile:
 		for line in read_tsv:
 			
 			a=['', '', '', '', '', '', '', '', '', '', '', '']
