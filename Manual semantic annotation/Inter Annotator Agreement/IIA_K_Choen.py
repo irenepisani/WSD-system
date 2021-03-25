@@ -3,10 +3,10 @@
 
 # INPUT:  dataset_50_FP_new.conllu dataset_50_IP_new.conllu
 # OUPUT: 
-'''		 Inter-Tagger-Agreement
-		ITA ParoleSimpleClips: 0.8382147838214784
-		ITA ItalWordNet: 0.7681564245810056
-		ITA: 0.803185604201242'''
+#Inter-Annotator-Agreement: coefficente K di Choen
+#Coefficente K di Choen per ParoleSimpleClips: 0.8514781523731921
+#Coefficente K di Choen per ItalWordNet: 0.8060282307277976
+#Coefficente K di Choen: 0.8310091948411247
 
 import sys
 import codecs
