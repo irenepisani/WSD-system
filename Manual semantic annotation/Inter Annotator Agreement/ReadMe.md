@@ -12,6 +12,6 @@ Una volta analizzate tutte le possibili coppie la funzione ROW_COMPARISON restit
 Labels_AD = {label_AD1, label_AD2… label_ADn}
 Labels_BD = {label_BD1, label_BD2… label_BDn}
 
-L’〖IIA〗_k^D, ovvero l’inter annotator agreement basato sul coefficiente Kappa di Cohen è calcolato per mezzo della funzione COHEN_KAPPA_SCORE (Labels_AD, Labels_BD) fornita un’apposita libreria python  che prende come parametri gli insiemi Labels_AD, Labels_BD; vengono così restituiti 〖IIA〗_k^PSCe 〖IIA〗_k^IWN.
+L’IAA(k,D), ovvero l’inter annotator agreement basato sul coefficiente Kappa di Cohen è calcolato per mezzo della funzione COHEN_KAPPA_SCORE (Labels_AD, Labels_BD) fornita un’apposita libreria python  che prende come parametri gli insiemi Labels_AD, Labels_BD; vengono così restituiti IAA(k,PSC) e IAA(k, IWN).
 Il valore finale di Inter Annotator Agreement restituito per le annotazioni A e B è calcolato come:
-IAAk = COHEN_KAPPA_SCORE (Labels_APSC ∪ Labels_AIWN, Labels_BPSC ∪ Labels_BIWN)
+IAA(k) = COHEN_KAPPA_SCORE (Labels_APSC ∪ Labels_AIWN, Labels_BPSC ∪ Labels_BIWN)
