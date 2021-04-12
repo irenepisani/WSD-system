@@ -2,8 +2,9 @@ Sistema automatico per il calcolo dell’IAA
 ======
 ### Descrizione del funzionamento
 
-Una funzione principale `MAIN` legga riga per riga i due dataset A e B dati in input per ottenere due insiemi Lines_A e Lines_B tali che:
-Lines_A = {LineA1, LineA2, … LineAn}
+
+Una funzione principale `MAIN` legge riga per riga i due dataset annotati semanticamente A e B dati in input per ottenere due insiemi Lines_A e Lines_B tali che:
+Lines_A = {LineA <sup> 1 <sup> , LineA2, … LineAn}
 Lines_B = {LineB1, LineB2, … LineBn}
 dove line_Ai e line_Bi sono rispettivamente le i-esime righe di A e B e n è il numero totale di righe presenti nei due file.
 
