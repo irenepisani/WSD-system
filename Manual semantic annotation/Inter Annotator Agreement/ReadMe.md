@@ -4,8 +4,8 @@ Sistema automatico per il calcolo dell’IAA
 
 
 Una funzione principale `MAIN` legge riga per riga i due dataset annotati semanticamente A e B dati in input per ottenere due insiemi Lines_A e Lines_B tali che:
-Lines_A = {LineA <sup> 1 <sup> , LineA2, … LineAn}
-Lines_B = {LineB1, LineB2, … LineBn}
+Lines_A = {LineA<sup>1</sup> , LineA<sup>2</sup>, … LineA<sup>n</sup>}
+Lines_B = {LineB<sup>1</sup>, LineB<sup>2, … LineB<sup>n</sup>}
 dove line_Ai e line_Bi sono rispettivamente le i-esime righe di A e B e n è il numero totale di righe presenti nei due file.
 
 Data D come la risorsa che fornisce lo specifico sense inventory con cui viene svolta l’annotazione, la funzione `ROW_COMPARISON` (Lines_A, Lines_B, D) accede sequenzialmente agli elementi dei due insiemi per confrontare l’i-esimo elemento di Lines_A, ovvero line_Ai, con l’i-esimo elemento di Lines_B, ovvero line_Bi.
