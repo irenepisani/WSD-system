@@ -1,5 +1,6 @@
 Sistema automatico per il calcolo dell’IAA
 ======
+### Descrizione del funzionamento
 
 Una funzione principale `MAIN` legga riga per riga i due dataset A e B dati in input per ottenere due insiemi Lines_A e Lines_B tali che:
 Lines_A = {LineA1, LineA2, … LineAn}
