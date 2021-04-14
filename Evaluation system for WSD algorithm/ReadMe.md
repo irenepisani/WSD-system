@@ -13,5 +13,5 @@ La cartella `Performance analysis` contiene:
 * La valutazione delle performance dell'algoritmo lesk: `WSD_lesk_evaluation.txt`
 * La valutazione delle performance dell'algoritmo extended lesk: `WSD_extendedlesk_evaluation.txt`
 * La valutazione delle performance dell'algoritmo semantic relation: `WSD_relation_evaluation.txt`
-* La valutazione delle performance dell'algoritmo vector similarity: `WSD_vector_evaluation.txt`
+* La valutazione delle performance dell'algoritmo vector similarity: `WSD_vectorsimilarity_evaluation.txt`
 
