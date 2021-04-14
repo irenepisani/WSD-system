@@ -1,5 +1,7 @@
-Annotazioni semantica prodotte automaticamente
+Annotazioni semantiche prodotte automaticamente
 =======
+
+Dal *test set* `dataset_100_na.conllu`
 
 * `WSD_random.conllu`: annotazione semantica prodotta dall'algoritmo *random*
 * `WSD_editdistance.conllu`: annotazione semantica prodotta dall'algoritmo *edit distance*
