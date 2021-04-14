@@ -16,7 +16,7 @@ Configurazione del progetto
 
 About
 ------
-Progetto di tesi di laurea triennale in Informatica Umanistica
-Anno accademico 2019/2020
-Univeristà di Pisa, UNIPI 
+Progetto di tesi di laurea triennale in Informatica Umanistica  
+Anno accademico 2019/2020  
+Univeristà di Pisa, UNIPI  
 Consiglio Nazionale delle ricerche di Pisa, CNR - Istituto di Linguistica Computazionale _"A. Zampolli"_
