@@ -1,4 +1,4 @@
-Word Sense Disambiguation: annotazione semantica e sviluppo di algoritmi baseline per il progetto [ELEXIS](http://elex.is)
+Word Sense Disambiguation: annotazione semantica e sviluppo di un algoritmo baseline per il progetto [ELEXIS](http://elex.is)
 =====
 
 Configurazione del progetto
