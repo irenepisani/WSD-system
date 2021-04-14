@@ -1,33 +1,29 @@
-{'tot': 1437, 'tp': 928, 'fp': 509, 'tn': 0, 'fn': 0, 'tpm': 287, 'fpm': 72, 'fnm': 0}
-{'tot': 1437, 'tp': 692, 'fp': 745, 'tn': 0, 'fn': 0, 'tpm': 81, 'fpm': 43, 'fnm': 0}
-
 METRICHE DI VALUTAZIONE DEL SISTEMA PER PSC
-Precision: 0.6457898399443285
+Precision: 0.662491301322199
 Recall: 1.0
-F-Measure: 0.7847780126849895
-Accuracy:0.6457898399443285
-Precision of tag 'missing': 0.7994428969359332
-Recall of tag 'missing': 1.0
-F-Measure of tag 'missing': 0.8885448916408669
+F-Measure: 0.7969861866889912
+NIL Precision of tag 'missing': 0.9935897435897436
+NIL Recall of tag 'missing': 0.8707865168539326
 
 
 METRICHE DI VALUTAZIONE DEL SISTEMA per IWN
-Precision: 0.4815588030619346
+Precision: 0.4975643702157272
 Recall: 1.0
-F-Measure: 0.6500704556129638
-Accuracy:0.4815588030619346
-Precision of tag 'missing': 0.6532258064516129
-Recall of tag 'missing': 1.0
-F-Measure of tag 'missing': 0.7902439024390243
+F-Measure: 0.6644981412639406
+NILPrecision of tag 'missing': 0.9680851063829787
+NILRecall of tag 'missing': 0.7520661157024794
+Precision of tag 'MW': 1.0
+Recall of tag 'MW': 0.7209302325581395
+F-Measure of tag 'MW': 0.8378378378378378
 
 
 METRICHE DI VALUTAZIONE DEL SISTEMA
-Precision: 0.5636743215031316
+Precision: 0.5800278357689631
 Recall: 1.0
-F-Measure: 1.4419225634178907
-Accuracy:0.5636743215031316
-Precision of tag 'missing': 0.7619047619047619
-Recall of tag 'missing': 1.0
-F-Measure of tag 'missing': 1.6829517433425072
-
+F-Measure: 0.7341995155252147
+NIL Precision of tag 'missing': 0.9876847290640394
+NIL Recall of tag 'missing': 0.8406708595387841
+Precision of tag 'MW': 1.0
+Recall of tag 'MW': 0.6326530612244898
+F-Measure of tag 'MW': 0.775
 
