@@ -12,7 +12,7 @@ Configurazione del progetto
 7. Sviluppo di un sistema per la valutazione _in vitro_ degli algoritmi baseline
 8. Analisi delle performance degli algoritmi tramite il sistema autmoatico per la valutazione
 9. Selezione della baseline più performante
-10. Definizione del limite superiore e inferiore del range di valutazione in-vivo per l'algoritmo di WSD sviluppato in ELEXIS
+10. Definizione del limite superiore e inferiore del range di valutazione _in-vitro_ per l'algoritmo di WSD sviluppato in ELEXIS
 
 About
 ------
