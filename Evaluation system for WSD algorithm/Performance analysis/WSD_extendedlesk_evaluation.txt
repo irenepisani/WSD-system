@@ -1,0 +1,33 @@
+METRICHE DI VALUTAZIONE DEL SISTEMA PER PSC
+Precision: 0.6427076064200977
+Recall: 1.0
+F-Measure: 0.7824978759558199
+Precision of tag 'missing': 0.9288025889967637
+Recall of tag 'missing': 0.8670694864048338
+F-Measure of tag 'missing': 0.896875
+
+
+METRICHE DI VALUTAZIONE DEL SISTEMA per IWN
+Precision: 0.5451364590622814
+Recall: 1.0
+F-Measure: 0.7056159420289856
+Precision of tag 'missing': 0.8709677419354839
+Recall of tag 'missing': 0.7363636363636363
+F-Measure of tag 'missing': 0.7980295566502462
+Precision of tag 'MW': 1.0
+Recall of tag 'MW': 0.7045454545454546
+F-Measure of tag 'MW': 0.8266666666666667
+
+
+METRICHE DI VALUTAZIONE DEL SISTEMA
+Precision: 0.593990216631726
+Recall: 1.0
+F-Measure: 0.7452871547566856
+Precision of tag 'missing': 0.9154228855721394
+Recall of tag 'missing': 0.863849765258216
+F-Measure of tag 'missing': 0.888888888888889
+Precision of tag 'MW': 1.0
+Recall of tag 'MW': 0.7209302325581395
+F-Measure of tag 'MW': 0.8378378378378378
+
+
