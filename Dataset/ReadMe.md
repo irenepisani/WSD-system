@@ -14,3 +14,4 @@ Strumenti per la gestione e la conversione dei dataset
 ---
 * `convert_tsv2conllu.py`: convertitore automatico di formato da .tsv a .conllu
 * `convertnewformat.py`: sistema automatico per rendere la versione intermedia del dataset compatibile con la versione ufficiale
+* `100frasi.py`: sistema automatico per la selezione delle 100 frasi con il maggiore numero di corrispondenze lessicali nelle risorse lessicografiche di ItalWordNet e ParoleSimpleClips
