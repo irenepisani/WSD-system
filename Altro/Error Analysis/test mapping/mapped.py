@@ -17,7 +17,7 @@ def start_db_connection():
 	connection = MySQLdb.connect(
 		host = 'localhost',
 		user = 'root',
-		passwd = 'elexis2021',
+		passwd = '', #put here password
 		port = 3306)
 	return connection
 
